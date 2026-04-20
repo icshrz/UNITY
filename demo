@@ -1,0 +1,123 @@
+Loading model at epoch 0...
+No model found at models/_config/TGAT.yml.pkl, using randomly initialized weights.
+Executing sample task for batch 0
+Time taken for sample 0: 0.0241 seconds
+nid shape: 202631
+eid shape: 183329
+nid no repeat:10667
+eid no repeat:138513
+nid shape: 19302
+eid shape: 17502
+nid no repeat:4958
+eid no repeat:16189
+Executing sample task for batch 1
+Time taken for sample 1: 0.0173 seconds
+nid shape: 201087
+eid shape: 181924
+nid no repeat:10676
+eid no repeat:138357
+nid shape: 19163
+eid shape: 17363
+nid no repeat:4948
+eid no repeat:16117
+Executing sample task for batch 2
+Time taken for sample 2: 0.0215 seconds
+nid shape: 199485
+eid shape: 180463
+nid no repeat:10678
+eid no repeat:137505
+nid shape: 19022
+eid shape: 17222
+nid no repeat:4909
+eid no repeat:16028
+Executing sample task for batch 3
+Time taken for sample 3: 0.0210 seconds
+nid shape: 199076
+eid shape: 180151
+nid no repeat:10653
+eid no repeat:137073
+nid shape: 18925
+eid shape: 17125
+nid no repeat:4889
+eid no repeat:15901
+Executing sample task for batch 4
+Time taken for sample 4: 0.0230 seconds
+nid shape: 197753
+eid shape: 178903
+nid no repeat:10654
+eid no repeat:136417
+nid shape: 18850
+eid shape: 17050
+nid no repeat:4917
+eid no repeat:15897
+Executing sample task for batch 5
+Time taken for sample 5: 0.0232 seconds
+nid shape: 198735
+eid shape: 179807
+nid no repeat:10638
+eid no repeat:136872
+nid shape: 18928
+eid shape: 17128
+nid no repeat:4862
+eid no repeat:15927
+Executing sample task for batch 6
+Time taken for sample 6: 0.0211 seconds
+nid shape: 197561
+eid shape: 178733
+nid no repeat:10700
+eid no repeat:136210
+nid shape: 18828
+eid shape: 17028
+nid no repeat:4899
+eid no repeat:15878
+Executing sample task for batch 7
+Time taken for sample 7: 0.0191 seconds
+nid shape: 196474
+eid shape: 177727
+nid no repeat:10647
+eid no repeat:134470
+nid shape: 18747
+eid shape: 16947
+nid no repeat:4823
+eid no repeat:15716
+Executing sample task for batch 8
+Time taken for sample 8: 0.0182 seconds
+nid shape: 196358
+eid shape: 177621
+nid no repeat:10614
+eid no repeat:134493
+nid shape: 18737
+eid shape: 16937
+nid no repeat:4930
+eid no repeat:15794
+Executing sample task for batch 9
+Time taken for sample 9: 0.0228 seconds
+nid shape: 195608
+eid shape: 176974
+nid no repeat:10652
+eid no repeat:135089
+nid shape: 18634
+eid shape: 16834
+nid no repeat:4831
+eid no repeat:15647
+Executing sample task for batch 10
+Time taken for sample 10: 0.0193 seconds
+nid shape: 196318
+eid shape: 177598
+nid no repeat:10671
+eid no repeat:135372
+nid shape: 18720
+eid shape: 16920
+nid no repeat:4916
+eid no repeat:15741
+Time taken for prepare 0: 0.0170 seconds
+Time taken for sample 11: 0.0282 seconds
+nid shape: 196434
+eid shape: 177696
+nid no repeat:10678
+eid no repeat:134932
+nid shape: 18738
+eid shape: 16938
+nid no repeat:4909
+eid no repeat:15776
+Time taken for prepare 0: 0.0260 seconds

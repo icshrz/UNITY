@@ -1,0 +1,42 @@
+#pragma once
+
+#include "unignn/core.h"  // Include core.h to bring in pybind11
+
+#include <unordered_map>
+#include <vector>
+
+namespace unignn {
+
+class Table {
+public:
+    Table();
+
+    // Method to create node feature address mapping
+    void createNodeFeatureAddressMapping(const std::vector<size_t>& node_ids, size_t gather_id);
+
+    // Method to create edge feature address mapping
+    void createEdgeFeatureAddressMapping(const std::vector<size_t>& edge_ids, size_t gather_id);
+
+    // Method to get feature address mapping
+    std::unordered_map<size_t, size_t> getNodeFeatureAddressMapping(const std::vector<size_t>& ids);
+
+    std::unordered_map<size_t, size_t> getEdgeFeatureAddressMapping(const std::vector<size_t>& ids);
+
+    void addNodeFeatureAddress(size_t node_id, size_t feature_address);
+
+    void addEdgeFeatureAddress(size_t edge_id, size_t feature_address);
+
+    void addNodeBatchFeatureAddress(const std::vector<size_t>& ids, const std::vector<size_t>& feature_addresses);
+
+    void addEdgeBatchFeatureAddress(const std::vector<size_t>& ids, const std::vector<size_t>& feature_addresses);
+
+private:
+    // Store address mappings
+    std::unordered_map<size_t, size_t> node_feature_address_mappings_;
+    std::unordered_map<size_t, size_t> edge_feature_address_mappings_;
+
+    // Helper function to add feature address
+    void addFeatureAddress(std::unordered_map<size_t, size_t>& address_map, size_t id, size_t feature_address);
+};
+
+}  // namespace unignn

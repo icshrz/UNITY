@@ -1,0 +1,41 @@
+GDELT:
+  TGN:
+    TGL:
+      sample: 4.4
+      gather: 23.1
+      I/O: 77.9
+      layers: 21.7
+      mailbox update: 4.4
+      mem update: 4.4
+    UNITY:
+      sample: 4.4
+      I/O: 25.7
+      mapping: 29.4
+      attn: 8.5
+      mailbox update: 5.4
+      mem update: 4.4
+
+  TGAT:
+    TGL:
+      sample: 33.6
+      gather: 162.9
+      I/O: 696.1
+      NNs: 118.9
+    UNITY:
+      sample: 33.6
+      I/O: 96.7
+      mapping NNs: 62.1
+      attn: 8.6
+
+
+ROADCA:
+  TGN:
+    TGL:
+      I/O: 336.4
+    UNITY:
+      I/O: 76.5
+  TGAT:
+    TGL:
+      I/O: 774.3
+    UNITY:
+      I/O: 111.0

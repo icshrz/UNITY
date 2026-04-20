@@ -1,0 +1,52 @@
+GDELT:
+  TGN:
+    TGL:
+      Sample: 4.4
+      Gather: 8.1
+      Linears: 10.7
+      Attn: 8.0
+      GPU Updater: 4.9
+      Memory Update: 6.5
+    UNITY:
+      Sample: 4.4
+      Mapping Linears: 11.4
+      CPU updater: 10.
+      Attn: 8.5
+      Memory Update: 9.8
+
+  TGAT:
+    TGL:
+      Sample: 33.6
+      Gather: 162.9
+      Linears: 118.9
+      Attn: 8.6
+    UNITY:
+      Sample: 33.6
+      Mapping Linears: 122.1
+      Attn: 8.6
+
+
+ROADCA:
+  TGN:
+    TGL:
+      Sample: 7.3
+      Gather: 38.4
+      GPU Updater:
+      Linears: 56.0
+      Memory Update: 24.2
+    UNITY:
+      Sample: 7.3
+      Mapping Linears: 46.4
+      CPU updater:
+      Attn: 4.7
+      Memory Update: 29.2
+  TGAT:
+    TGL:
+      Sample: 7.6
+      Gather: 164.3
+      Linears: 45.4
+      Attn:
+    UNITY:
+      Sample: 7.6
+      Mapping Linears: 37.9
+      Attn: 4.2

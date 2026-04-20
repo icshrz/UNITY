@@ -1,0 +1,52 @@
+APAN:
+  WIKITALK:
+    Map: 1.65
+    Up: 0.17
+    Ded: 0
+    Het: 0.30
+    Pipe: 0.22
+  GDELT:
+    Map: 2.02
+    Up: 0.17
+    Ded: 0
+    Het: 0.21
+    Pipe: 0.32
+TGAT:
+  WIKITALK:
+    Map: 0.16
+    Up: 0
+    Ded: 0.06
+    Het: 0.34
+    Pipe: 0.13
+  GDELT:
+    Map: 0.09
+    Up: 0
+    Ded: 0.26
+    Het: 0.32
+    Pipe: 0.11
+JODIE:
+  WIKITALK:
+    Map: 0.24
+    Up: 0.14
+    Ded: 0
+    Het: 0.10
+    Pipe: 0.16
+  GDELT:
+    Map: 0.42
+    Up: 0.11
+    Ded: 0
+    Het: 0.14
+    Pipe: 0.23
+TGN:
+  WIKITALK:
+    Map: 0.25
+    Up: 0.11
+    Ded: 0.09
+    Het: 0.30
+    Pipe: 0.21
+  GDELT:
+    Map: 0.41
+    Up: 0.12
+    Ded: 0.07
+    Het: 0.29
+    Pipe: 0.21

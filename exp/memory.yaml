@@ -1,0 +1,80 @@
+GDELT:
+  APAN:
+    Others: 46.1
+    UNITY: 18.9
+  DySAT:
+    Others: 45.8
+    UNITY: 22.4
+  JODIE:
+    Others: 44.8
+    UNITY: 16.1
+  TGAT:
+    Others: 45.3
+    UNITY: 23.4
+  TGN:
+    Others: 42.7
+    UNITY: 19.0
+REDDIT:
+  APAN:
+    Others: 2.97
+    UNITY: 2.19
+  DySAT:
+    Others: 2.70
+    UNITY: 2.01
+  JODIE:
+    Others: 2.33
+    UNITY: 2.09
+  TGAT:
+    Others: 3.12
+    UNITY: 2.43
+  TGN:
+    Others: 2.93
+    UNITY: 2.47
+ROADCA:
+  APAN:
+    Others: 8.46
+    UNITY: 8.30
+  DySAT:
+    Others: 7.15
+    UNITY: 6.02
+  JODIE:
+    Others: 6.47
+    UNITY: 5.31
+  TGAT:
+    Others: 7.36
+    UNITY: 6.59
+  TGN:
+    Others: 7.43
+    UNITY: 6.50
+ROADTX:
+  APAN:
+    Others: 8.87
+    UNITY: 7.84
+  DySAT:
+    Others: 6.92
+    UNITY: 5.35
+  JODIE:
+    Others: 5.74
+    UNITY: 4.50
+  TGAT:
+    Others: 7.03
+    UNITY: 5.31
+  TGN:
+    Others: 6.91
+    UNITY: 4.97
+WIKITALK:
+  APAN:
+    Others: 3.61
+    UNITY: 3.49
+  DySAT:
+    Others: 2.85
+    UNITY: 2.71
+  JODIE:
+    Others: 2.80
+    UNITY: 2.70
+  TGAT:
+    Others: 3.64
+    UNITY: 3.50
+  TGN:
+    Others: 3.31
+    UNITY: 3.19

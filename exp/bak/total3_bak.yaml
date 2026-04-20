@@ -1,0 +1,105 @@
+WIKITALK:
+  APAN:
+    TGL: 11.2
+    MSPipe: 11.2
+    UNITY: 13.7
+  DySAT:
+    TGL: 38.4
+    MSPipe: 38.4
+    UNITY: 43.4
+  TGAT:
+    TGL: 38.4
+    MSPipe: 38.4
+    UNITY: 43.1
+  JODIE:
+    TGL: 5.9
+    MSPipe: 5.9
+    UNITY: 6.9
+  TGN:
+    TGL: 8.9
+    MSPipe: 8.9
+    UNITY: 10.7
+ROADCA:
+  APAN:
+    TGL: 11.2
+    MSPipe: 11.2
+    UNITY: 12.4
+  DySAT:
+    TGL: 168.4
+    MSPipe: 168.7
+    UNITY: 172.9
+  TGAT:
+    TGL: 168.6
+    MSPipe: 168.4
+    UNITY: 172.7
+  JODIE:
+    TGL: 21.7
+    MSPipe: 21.6
+    UNITY: 25.0
+  TGN:
+    TGL: 73.5
+    MSPipe: 74.9
+    UNITY: 82.6
+ROADTX:
+  APAN:
+    TGL: 11.2
+    MSPipe: 11.2
+    UNITY: 11.2
+  DySAT:
+    TGL: 167.2
+    MSPipe: 166.8
+    UNITY: 171.9
+  TGAT:
+    TGL: 166.2
+    MSPipe: 165.9
+    UNITY: 170.7
+  JODIE:
+    TGL: 21.2
+    MSPipe: 21.3
+    UNITY: 24.5
+  TGN:
+    TGL: 70.5
+    MSPipe: 70.9
+    UNITY: 79.6
+GDELT:
+  APAN:
+    TGL: 11.2
+    MSPipe: 11.2
+    UNITY: 11.2
+  DySAT:
+    TGL: 88.6
+    MSPipe: 88.4
+    UNITY: 94.3
+  TGAT:
+    TGL: 88.6
+    MSPipe: 88.4
+    UNITY: 93.7
+  JODIE:
+    TGL: 5.9
+    MSPipe: 5.9
+    UNITY: 6.9
+  TGN:
+    TGL: 7.3
+    MSPipe: 7.3
+    UNITY: 8.7
+REDDIT:
+  APAN:
+    TGL: 11.2
+    MSPipe: 11.2
+    UNITY: 11.2
+  DySAT:
+    TGL: 83.7
+    MSPipe: 83.6
+    UNITY: 90.4
+  TGAT:
+    TGL: 83.7
+    MSPipe: 83.6
+    UNITY: 90.4
+  JODIE:
+    TGL: 5.9
+    MSPipe: 5.9
+    UNITY: 6.9
+  TGN:
+    TGL: 14.4
+    MSPipe: 14.3
+    UNITY: 15.8

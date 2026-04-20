@@ -1,0 +1,608 @@
+Loading model at epoch 0...
+Epoch 0:
+Executing sample task for batch 0
+Time taken for sample 0: 2.0670 seconds
+Executing sample task for batch 1
+Time taken for sample 1: 0.0164 seconds
+Executing sample task for batch 2
+Time taken for sample 2: 0.0335 seconds
+Executing sample task for batch 3
+Time taken for sample 3: 0.0290 seconds
+Executing sample task for batch 4
+Time taken for sample 4: 0.0215 seconds
+Executing sample task for batch 5
+Time taken for sample 5: 0.0301 seconds
+Executing sample task for batch 6
+Time taken for sample 6: 0.0282 seconds
+Executing sample task for batch 7
+Time taken for sample 7: 0.0251 seconds
+Executing sample task for batch 8
+Time taken for sample 8: 0.0235 seconds
+Executing sample task for batch 9
+Time taken for sample 9: 0.0317 seconds
+Executing sample task for batch 10
+Time taken for sample 10: 0.0233 seconds
+Time taken for prepare 0: 0.6802 seconds
+Time taken for sample 11: 0.0506 seconds
+Time taken for prepare 0: 0.5532 seconds
+Time taken for cpy 0: 0.0350 seconds
+Time taken for update 0: 3.8401 seconds
+Time taken for qkv computation: 0.0886 seconds
+now shape1: torch.Size([7383, 100])
+now shape2: torch.Size([5583, 128])
+Time taken for qkv computation: 0.0058 seconds
+Time taken for att computation: 1.3148 seconds
+Time taken for another gather 0: 0.0126 seconds
+Time taken for infer 0: 5.4652 seconds
+Time taken for batch 0 computation: 5.4815 seconds
+node similarity: 0.32719347581552305
+edge similarity: 0.2560240963855422
+Time taken for sample 12: 0.0453 seconds
+Time taken for prepare 1: 0.4612 seconds
+Time taken for cpy 1: 0.4737 seconds
+Time taken for update 1: 0.0943 seconds
+Time taken for qkv computation: 0.0758 seconds
+now shape1: torch.Size([7112, 100])
+now shape2: torch.Size([5312, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0557 seconds
+Time taken for another gather 1: 0.0109 seconds
+Time taken for infer 1: 0.8109 seconds
+Time taken for batch 1 computation: 0.8444 seconds
+node similarity: 0.31992502883506346
+edge similarity: 0.24084890965732086
+Time taken for sample 13: 0.0339 seconds
+Time taken for prepare 2: 0.4218 seconds
+Time taken for cpy 2: 0.1079 seconds
+Time taken for update 2: 0.0856 seconds
+Time taken for qkv computation: 0.0699 seconds
+now shape1: torch.Size([6936, 100])
+now shape2: torch.Size([5136, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0773 seconds
+Time taken for another gather 2: 0.0166 seconds
+Time taken for infer 2: 0.4675 seconds
+Time taken for batch 2 computation: 0.4965 seconds
+node similarity: 0.3077912794853467
+edge similarity: 0.2329162656400385
+Time taken for sample 14: 0.0442 seconds
+Time taken for prepare 3: 0.3829 seconds
+Time taken for cpy 3: 0.0965 seconds
+Time taken for update 3: 0.0603 seconds
+Time taken for qkv computation: 0.0509 seconds
+now shape1: torch.Size([6995, 100])
+now shape2: torch.Size([5195, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0600 seconds
+Time taken for another gather 3: 0.0088 seconds
+Time taken for infer 3: 0.4090 seconds
+Time taken for batch 3 computation: 0.4305 seconds
+node similarity: 0.3185880250223414
+edge similarity: 0.24827024827024827
+Time taken for sample 15: 0.0285 seconds
+Time taken for prepare 4: 0.3863 seconds
+Time taken for cpy 4: 0.0929 seconds
+Time taken for update 4: 0.0647 seconds
+Time taken for qkv computation: 0.0643 seconds
+now shape1: torch.Size([6714, 100])
+now shape2: torch.Size([4914, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0363 seconds
+Time taken for another gather 4: 0.0086 seconds
+Time taken for infer 4: 0.4080 seconds
+Time taken for batch 4 computation: 0.4381 seconds
+node similarity: 0.3331890956295976
+edge similarity: 0.2715760763685954
+Time taken for sample 16: 0.0348 seconds
+Time taken for prepare 5: 0.3194 seconds
+Time taken for cpy 5: 0.0876 seconds
+Time taken for update 5: 0.0755 seconds
+Time taken for qkv computation: 0.0638 seconds
+now shape1: torch.Size([6933, 100])
+now shape2: torch.Size([5133, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0655 seconds
+Time taken for another gather 5: 0.0169 seconds
+Time taken for infer 5: 0.4259 seconds
+Time taken for batch 5 computation: 0.4541 seconds
+node similarity: 0.3401309913664781
+edge similarity: 0.2887352582350549
+Time taken for sample 17: 0.0381 seconds
+Time taken for prepare 6: 0.2959 seconds
+Time taken for cpy 6: 0.0965 seconds
+Time taken for update 6: 0.0549 seconds
+Time taken for qkv computation: 0.0578 seconds
+now shape1: torch.Size([6718, 100])
+now shape2: torch.Size([4918, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0711 seconds
+Time taken for another gather 6: 0.0178 seconds
+Time taken for infer 6: 0.4200 seconds
+Time taken for batch 6 computation: 0.4451 seconds
+node similarity: 0.37236024844720494
+edge similarity: 0.3105603448275862
+Time taken for sample 18: 0.0249 seconds
+Time taken for prepare 7: 0.3050 seconds
+Time taken for cpy 7: 0.0916 seconds
+Time taken for update 7: 0.0549 seconds
+Time taken for qkv computation: 0.0722 seconds
+now shape1: torch.Size([6440, 100])
+now shape2: torch.Size([4640, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0518 seconds
+Time taken for another gather 7: 0.0167 seconds
+Time taken for infer 7: 0.4041 seconds
+Time taken for batch 7 computation: 0.4275 seconds
+node similarity: 0.345309660282399
+edge similarity: 0.27704091163833366
+Time taken for sample 19: 0.0420 seconds
+Time taken for prepare 8: 0.3543 seconds
+Time taken for cpy 8: 0.1338 seconds
+Time taken for update 8: 0.0563 seconds
+Time taken for qkv computation: 0.0488 seconds
+now shape1: torch.Size([7153, 100])
+now shape2: torch.Size([5353, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0403 seconds
+Time taken for another gather 8: 0.0185 seconds
+Time taken for infer 8: 0.4222 seconds
+Time taken for batch 8 computation: 0.4538 seconds
+node similarity: 0.35548617305976804
+edge similarity: 0.30491270807957777
+Time taken for sample 20: 0.0465 seconds
+Time taken for prepare 9: 0.3289 seconds
+Time taken for cpy 9: 0.0841 seconds
+Time taken for update 9: 0.0570 seconds
+Time taken for qkv computation: 0.0482 seconds
+now shape1: torch.Size([6726, 100])
+now shape2: torch.Size([4926, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0561 seconds
+Time taken for another gather 9: 0.0059 seconds
+Time taken for infer 9: 0.3793 seconds
+Time taken for batch 9 computation: 0.4025 seconds
+node similarity: 0.33555975025410195
+edge similarity: 0.28641635541576566
+Time taken for sample 21: 0.0461 seconds
+Time taken for prepare 10: 0.2026 seconds
+Time taken for cpy 10: 0.2069 seconds
+Time taken for update 10: 0.0507 seconds
+Time taken for qkv computation: 0.0596 seconds
+now shape1: torch.Size([6887, 100])
+now shape2: torch.Size([5087, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0646 seconds
+Time taken for another gather 10: 0.0053 seconds
+Time taken for infer 10: 0.5165 seconds
+Time taken for batch 10 computation: 0.5671 seconds
+node similarity: 0.3178214914856136
+edge similarity: 0.24162011173184358
+Time taken for sample 22: 0.0301 seconds
+Time taken for prepare 11: 0.1769 seconds
+Time taken for cpy 11: 0.0464 seconds
+Time taken for update 11: 0.0527 seconds
+Time taken for qkv computation: 0.0537 seconds
+now shape1: torch.Size([6812, 100])
+now shape2: torch.Size([5012, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0476 seconds
+Time taken for another gather 11: 0.0066 seconds
+Time taken for infer 11: 0.3400 seconds
+Time taken for batch 11 computation: 0.3852 seconds
+node similarity: 0.3363376896499925
+edge similarity: 0.29771463866584313
+Time taken for sample 23: 0.0364 seconds
+Time taken for prepare 12: 0.1673 seconds
+Time taken for cpy 12: 0.0492 seconds
+Time taken for update 12: 0.0546 seconds
+Time taken for qkv computation: 0.0508 seconds
+now shape1: torch.Size([6657, 100])
+now shape2: torch.Size([4857, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0538 seconds
+Time taken for another gather 12: 0.0195 seconds
+Time taken for infer 12: 0.3608 seconds
+Time taken for batch 12 computation: 0.3946 seconds
+node similarity: 0.3180254300673149
+edge similarity: 0.27164790174002046
+Time taken for sample 24: 0.0322 seconds
+Time taken for prepare 13: 0.1555 seconds
+Time taken for cpy 13: 0.0504 seconds
+Time taken for update 13: 0.0486 seconds
+Time taken for qkv computation: 0.0600 seconds
+now shape1: torch.Size([6685, 100])
+now shape2: torch.Size([4885, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0472 seconds
+Time taken for another gather 13: 0.0203 seconds
+Time taken for infer 13: 0.3945 seconds
+Time taken for batch 13 computation: 0.4388 seconds
+node similarity: 0.3422516158124155
+edge similarity: 0.307438697712755
+Time taken for sample 25: 0.0323 seconds
+Time taken for prepare 14: 0.1637 seconds
+Time taken for cpy 14: 0.1753 seconds
+Time taken for update 14: 0.0460 seconds
+Time taken for qkv computation: 0.0464 seconds
+now shape1: torch.Size([6653, 100])
+now shape2: torch.Size([4853, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0504 seconds
+Time taken for another gather 14: 0.0226 seconds
+Time taken for infer 14: 0.5171 seconds
+Time taken for batch 14 computation: 0.5456 seconds
+node similarity: 0.329322844362178
+edge similarity: 0.28293828742259236
+Time taken for sample 26: 0.0663 seconds
+Time taken for prepare 15: 0.1570 seconds
+Time taken for cpy 15: 0.1624 seconds
+Time taken for update 15: 0.0464 seconds
+Time taken for qkv computation: 0.0413 seconds
+now shape1: torch.Size([6483, 100])
+now shape2: torch.Size([4683, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0476 seconds
+Time taken for another gather 15: 0.0060 seconds
+Time taken for infer 15: 0.4519 seconds
+Time taken for batch 15 computation: 0.4867 seconds
+node similarity: 0.33870733478576615
+edge similarity: 0.2902654867256637
+Time taken for sample 27: 0.0406 seconds
+Time taken for prepare 16: 0.2142 seconds
+Time taken for cpy 16: 0.0504 seconds
+Time taken for update 16: 0.0904 seconds
+Time taken for qkv computation: 0.0621 seconds
+now shape1: torch.Size([6885, 100])
+now shape2: torch.Size([5085, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.1067 seconds
+Time taken for another gather 16: 0.0206 seconds
+Time taken for infer 16: 0.4789 seconds
+Time taken for batch 16 computation: 0.5170 seconds
+node similarity: 0.3531902026005443
+edge similarity: 0.30639800581636895
+Time taken for sample 28: 0.0402 seconds
+Time taken for prepare 17: 0.1776 seconds
+Time taken for cpy 17: 0.0554 seconds
+Time taken for update 17: 0.0613 seconds
+Time taken for qkv computation: 0.0515 seconds
+now shape1: torch.Size([6614, 100])
+now shape2: torch.Size([4814, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0628 seconds
+Time taken for another gather 17: 0.0223 seconds
+Time taken for infer 17: 0.3661 seconds
+Time taken for batch 17 computation: 0.3910 seconds
+node similarity: 0.37494199535962874
+edge similarity: 0.3256162915326902
+Time taken for sample 29: 0.0320 seconds
+Time taken for prepare 18: 0.2033 seconds
+Time taken for cpy 18: 0.2080 seconds
+Time taken for update 18: 0.0648 seconds
+Time taken for qkv computation: 0.0603 seconds
+now shape1: torch.Size([6465, 100])
+now shape2: torch.Size([4665, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0587 seconds
+Time taken for another gather 18: 0.0157 seconds
+Time taken for infer 18: 0.5590 seconds
+Time taken for batch 18 computation: 0.6010 seconds
+node similarity: 0.3471004243281471
+edge similarity: 0.2863377609108159
+Time taken for sample 30: 0.0416 seconds
+Time taken for prepare 19: 0.1673 seconds
+Time taken for cpy 19: 0.0524 seconds
+Time taken for update 19: 0.0525 seconds
+Time taken for qkv computation: 0.0595 seconds
+now shape1: torch.Size([7070, 100])
+now shape2: torch.Size([5270, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0541 seconds
+Time taken for another gather 19: 0.0187 seconds
+Time taken for infer 19: 0.3512 seconds
+Time taken for batch 19 computation: 0.3977 seconds
+node similarity: 0.3591654247391952
+edge similarity: 0.3089613034623218
+Time taken for sample 31: 0.0408 seconds
+Time taken for prepare 20: 0.1711 seconds
+Time taken for cpy 20: 0.0567 seconds
+Time taken for update 20: 0.0488 seconds
+Time taken for qkv computation: 0.0487 seconds
+now shape1: torch.Size([6710, 100])
+now shape2: torch.Size([4910, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0457 seconds
+Time taken for another gather 20: 0.0172 seconds
+Time taken for infer 20: 0.3284 seconds
+Time taken for batch 20 computation: 0.3745 seconds
+node similarity: 0.35071020647239715
+edge similarity: 0.3048319745476238
+Time taken for sample 32: 0.0427 seconds
+Time taken for prepare 21: 0.2474 seconds
+Time taken for cpy 21: 0.0862 seconds
+Time taken for update 21: 0.0581 seconds
+Time taken for qkv computation: 0.0583 seconds
+now shape1: torch.Size([6829, 100])
+now shape2: torch.Size([5029, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0510 seconds
+Time taken for another gather 21: 0.0127 seconds
+Time taken for infer 21: 0.3855 seconds
+Time taken for batch 21 computation: 0.4155 seconds
+node similarity: 0.3631795340338054
+edge similarity: 0.2987203692049507
+Time taken for sample 33: 0.0392 seconds
+Time taken for cpy 22: 0.0847 seconds
+Time taken for prepare 22: 0.2506 seconds
+Time taken for update 22: 0.0478 seconds
+Time taken for qkv computation: 0.0458 seconds
+now shape1: torch.Size([6567, 100])
+now shape2: torch.Size([4767, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0470 seconds
+Time taken for another gather 22: 0.0183 seconds
+Time taken for infer 22: 0.3582 seconds
+Time taken for batch 22 computation: 0.3946 seconds
+node similarity: 0.33747079439252337
+edge similarity: 0.2765451664025357
+Time taken for sample 34: 0.0391 seconds
+Time taken for prepare 23: 0.2208 seconds
+Time taken for cpy 23: 0.0855 seconds
+Time taken for update 23: 0.0574 seconds
+Time taken for qkv computation: 0.0530 seconds
+now shape1: torch.Size([6848, 100])
+now shape2: torch.Size([5048, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0511 seconds
+Time taken for another gather 23: 0.0227 seconds
+Time taken for infer 23: 0.3886 seconds
+Time taken for batch 23 computation: 0.4208 seconds
+node similarity: 0.33972992181947403
+edge similarity: 0.28462273161413565
+Time taken for sample 35: 0.0295 seconds
+Time taken for prepare 24: 0.2328 seconds
+Time taken for cpy 24: 0.0784 seconds
+Time taken for update 24: 0.0589 seconds
+Time taken for qkv computation: 0.0564 seconds
+now shape1: torch.Size([7035, 100])
+now shape2: torch.Size([5235, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0507 seconds
+Time taken for another gather 24: 0.0214 seconds
+Time taken for infer 24: 0.3668 seconds
+Time taken for batch 24 computation: 0.3991 seconds
+node similarity: 0.3408058608058608
+edge similarity: 0.2821890547263682
+Time taken for sample 36: 0.0285 seconds
+Time taken for prepare 25: 0.2973 seconds
+Time taken for cpy 25: 0.1088 seconds
+Time taken for update 25: 0.0919 seconds
+Time taken for qkv computation: 0.0938 seconds
+now shape1: torch.Size([6825, 100])
+now shape2: torch.Size([5025, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0478 seconds
+Time taken for another gather 25: 0.0267 seconds
+Time taken for infer 25: 0.5056 seconds
+Time taken for batch 25 computation: 0.5719 seconds
+node similarity: 0.331262021009025
+edge similarity: 0.28977616454930427
+Time taken for sample 37: 0.0351 seconds
+Time taken for prepare 26: 0.1975 seconds
+Time taken for cpy 26: 0.0777 seconds
+Time taken for update 26: 0.0696 seconds
+Time taken for qkv computation: 0.0608 seconds
+now shape1: torch.Size([6759, 100])
+now shape2: torch.Size([4959, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0611 seconds
+Time taken for another gather 26: 0.0247 seconds
+Time taken for infer 26: 0.4087 seconds
+Time taken for batch 26 computation: 0.4493 seconds
+node similarity: 0.3304183063693339
+edge similarity: 0.2799841928472634
+Time taken for sample 38: 0.0299 seconds
+Time taken for prepare 27: 0.2231 seconds
+Time taken for cpy 27: 0.0795 seconds
+Time taken for update 27: 0.0693 seconds
+Time taken for qkv computation: 0.0546 seconds
+now shape1: torch.Size([6861, 100])
+now shape2: torch.Size([5061, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0503 seconds
+Time taken for another gather 27: 0.0183 seconds
+Time taken for infer 27: 0.3824 seconds
+Time taken for batch 27 computation: 0.4227 seconds
+node similarity: 0.30565030401898263
+edge similarity: 0.2528828646570908
+Time taken for sample 39: 0.0242 seconds
+Time taken for prepare 28: 0.2694 seconds
+Time taken for cpy 28: 0.0963 seconds
+Time taken for update 28: 0.0490 seconds
+Time taken for qkv computation: 0.0474 seconds
+now shape1: torch.Size([6743, 100])
+now shape2: torch.Size([4943, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0400 seconds
+Time taken for another gather 28: 0.0170 seconds
+Time taken for infer 28: 0.3702 seconds
+Time taken for batch 28 computation: 0.4022 seconds
+node similarity: 0.3494295983747461
+edge similarity: 0.3211567732115677
+Time taken for sample 40: 0.0268 seconds
+Time taken for prepare 29: 0.2378 seconds
+Time taken for cpy 29: 0.0784 seconds
+Time taken for update 29: 0.0802 seconds
+Time taken for qkv computation: 0.0366 seconds
+now shape1: torch.Size([6399, 100])
+now shape2: torch.Size([4599, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0594 seconds
+Time taken for another gather 29: 0.0169 seconds
+Time taken for infer 29: 0.3679 seconds
+Time taken for batch 29 computation: 0.4096 seconds
+node similarity: 0.29658181818181817
+edge similarity: 0.25911330049261083
+Time taken for sample 41: 0.0406 seconds
+Time taken for cpy 30: 0.0822 seconds
+Time taken for prepare 30: 0.2832 seconds
+Time taken for update 30: 0.0598 seconds
+Time taken for qkv computation: 0.0581 seconds
+now shape1: torch.Size([6875, 100])
+now shape2: torch.Size([5075, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0629 seconds
+Time taken for another gather 30: 0.0050 seconds
+Time taken for infer 30: 0.4067 seconds
+Time taken for batch 30 computation: 0.4475 seconds
+node similarity: 0.32746425884123403
+edge similarity: 0.295562435500516
+Time taken for sample 42: 0.0159 seconds
+Time taken for cpy 31: 0.2249 seconds
+Time taken for prepare 31: 0.2371 seconds
+Time taken for update 31: 0.0608 seconds
+Time taken for qkv computation: 0.0669 seconds
+now shape1: torch.Size([6645, 100])
+now shape2: torch.Size([4845, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.1033 seconds
+Time taken for another gather 31: 0.0186 seconds
+Time taken for infer 31: 0.5864 seconds
+Time taken for batch 31 computation: 0.6292 seconds
+node similarity: 0.32638574233499473
+edge similarity: 0.2976560879485584
+Time taken for sample 43: 0.0321 seconds
+Time taken for prepare 32: 0.2117 seconds
+Time taken for cpy 32: 0.0756 seconds
+Time taken for update 32: 0.0626 seconds
+Time taken for qkv computation: 0.0459 seconds
+now shape1: torch.Size([6621, 100])
+now shape2: torch.Size([4821, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0527 seconds
+Time taken for another gather 32: 0.0114 seconds
+Time taken for infer 32: 0.3913 seconds
+Time taken for batch 32 computation: 0.4305 seconds
+node similarity: 0.33713503649635035
+edge similarity: 0.3008793969849246
+Time taken for sample 44: 0.0362 seconds
+Time taken for prepare 33: 0.2112 seconds
+Time taken for cpy 33: 0.0583 seconds
+Time taken for update 33: 0.0496 seconds
+Time taken for qkv computation: 0.0502 seconds
+now shape1: torch.Size([6576, 100])
+now shape2: torch.Size([4776, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0403 seconds
+Time taken for another gather 33: 0.0185 seconds
+Time taken for infer 33: 0.3242 seconds
+Time taken for batch 33 computation: 0.3633 seconds
+node similarity: 0.296355221290136
+edge similarity: 0.23856081345326555
+Time taken for sample 45: 0.0479 seconds
+Time taken for prepare 34: 0.2071 seconds
+Time taken for cpy 34: 0.0693 seconds
+Time taken for update 34: 0.0471 seconds
+Time taken for qkv computation: 0.0440 seconds
+now shape1: torch.Size([6914, 100])
+now shape2: torch.Size([5114, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0427 seconds
+Time taken for another gather 34: 0.0148 seconds
+Time taken for infer 34: 0.3200 seconds
+Time taken for batch 34 computation: 0.3495 seconds
+node similarity: 0.338338040731381
+edge similarity: 0.2957174751370002
+Time taken for sample 46: 0.0310 seconds
+Time taken for prepare 35: 0.1801 seconds
+Time taken for cpy 35: 0.0719 seconds
+Time taken for update 35: 0.0473 seconds
+Time taken for qkv computation: 0.0411 seconds
+now shape1: torch.Size([6727, 100])
+now shape2: torch.Size([4927, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0605 seconds
+Time taken for another gather 35: 0.0178 seconds
+Time taken for infer 35: 0.3373 seconds
+Time taken for batch 35 computation: 0.3658 seconds
+node similarity: 0.3293305313719604
+edge similarity: 0.2807486631016043
+Time taken for sample 47: 0.0348 seconds
+Time taken for prepare 36: 0.1938 seconds
+Time taken for cpy 36: 0.0828 seconds
+Time taken for update 36: 0.0435 seconds
+Time taken for qkv computation: 0.0407 seconds
+now shape1: torch.Size([6662, 100])
+now shape2: torch.Size([4862, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0435 seconds
+Time taken for another gather 36: 0.0222 seconds
+Time taken for infer 36: 0.3417 seconds
+Time taken for batch 36 computation: 0.3769 seconds
+node similarity: 0.33455938697318005
+edge similarity: 0.2905820105820106
+Time taken for sample 48: 0.0318 seconds
+Time taken for prepare 37: 0.1791 seconds
+Time taken for cpy 37: 0.0644 seconds
+Time taken for update 37: 0.0484 seconds
+Time taken for qkv computation: 0.0513 seconds
+now shape1: torch.Size([6525, 100])
+now shape2: torch.Size([4725, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0507 seconds
+Time taken for another gather 37: 0.0152 seconds
+Time taken for infer 37: 0.3390 seconds
+Time taken for batch 37 computation: 0.3689 seconds
+node similarity: 0.3303435694740043
+edge similarity: 0.2796149016324822
+Time taken for sample 49: 0.0381 seconds
+Time taken for prepare 38: 0.1926 seconds
+Time taken for cpy 38: 0.0773 seconds
+Time taken for update 38: 0.0473 seconds
+Time taken for qkv computation: 0.0597 seconds
+now shape1: torch.Size([6578, 100])
+now shape2: torch.Size([4778, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0436 seconds
+Time taken for another gather 38: 0.0196 seconds
+Time taken for infer 38: 0.3435 seconds
+Time taken for batch 38 computation: 0.3677 seconds
+node similarity: 0.3294996265870052
+edge similarity: 0.27783452502553624
+Time taken for sample 50: 0.0493 seconds
+Time taken for prepare 39: 0.1791 seconds
+Time taken for cpy 39: 0.0695 seconds
+Time taken for update 39: 0.0576 seconds
+Time taken for qkv computation: 0.0490 seconds
+now shape1: torch.Size([6695, 100])
+now shape2: torch.Size([4895, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0484 seconds
+Time taken for another gather 39: 0.0156 seconds
+Time taken for infer 39: 0.3857 seconds
+Time taken for batch 39 computation: 0.4126 seconds
+node similarity: 0.346177750155376
+edge similarity: 0.32075064710957724
+Time taken for sample 51: 0.0314 seconds
+Time taken for prepare 40: 0.1911 seconds
+Time taken for cpy 40: 0.0695 seconds
+Time taken for update 40: 0.0594 seconds
+Time taken for qkv computation: 0.0442 seconds
+now shape1: torch.Size([6436, 100])
+now shape2: torch.Size([4636, 128])
+Time taken for qkv computation: 0.0002 seconds
+Time taken for att computation: 0.0405 seconds
+Time taken for another gather 40: 0.0069 seconds
+Time taken for infer 40: 0.3345 seconds
+Time taken for batch 40 computation: 0.3751 seconds
+node similarity: 0.3084126040428062
+edge similarity: 0.2593344155844156
+Time taken for sample 52: 0.0344 seconds
+Time taken for cpy 41: 0.0711 seconds
+Time taken for prepare 41: 0.2086 seconds
+Time taken for update 41: 0.0561 seconds
+Time taken for qkv computation: 0.0754 seconds
+now shape1: torch.Size([6728, 100])
+now shape2: torch.Size([4928, 128])
+Time taken for qkv computation: 0.0003 seconds
+Time taken for att computation: 0.0408 seconds

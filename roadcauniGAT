@@ -1,0 +1,32 @@
+Loading model at epoch 0...
+No model found at models/_TGAT.pkl, using randomly initialized weights.
+Epoch 0:
+Executing sample task for batch 0
+Time taken for sample 0: 0.9743 seconds
+Executing sample task for batch 1
+Time taken for sample 1: 0.0117 seconds
+Executing sample task for batch 2
+Time taken for sample 2: 0.0120 seconds
+Executing sample task for batch 3
+Time taken for sample 3: 0.0111 seconds
+Executing sample task for batch 4
+Time taken for sample 4: 0.0137 seconds
+Executing sample task for batch 5
+Time taken for sample 5: 0.0105 seconds
+Executing sample task for batch 6
+Time taken for sample 6: 0.0110 seconds
+Executing sample task for batch 7
+Time taken for sample 7: 0.0106 seconds
+Executing sample task for batch 8
+Time taken for sample 8: 0.0109 seconds
+Executing sample task for batch 9
+Time taken for sample 9: 0.0100 seconds
+Executing sample task for batch 10
+Time taken for sample 10: 0.0100 seconds
+Time taken for prepare 0: 0.5260 seconds
+Time taken for sample 11: 0.0130 seconds
+Time taken for prepare 0: 0.5670 seconds
+Time taken for cpy 0: 0.4793 seconds
+Time taken for update 0: 0.0000 seconds
+Time taken for qkv computation: 1.1842 seconds
+Time taken for att computation: 0.3602 seconds

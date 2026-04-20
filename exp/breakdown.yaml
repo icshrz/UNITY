@@ -1,0 +1,50 @@
+WIKITALK:
+  TGN:
+    TGL:
+      Sample: 4.2
+      Gather: 12.5
+      Linears: 9.2
+      Attn: 4.7
+      GPU Updater: 3.6
+      Memory Update: 3.7
+    UNITY:
+      Sample: 4.2
+      Mapping Linears: 9.7
+      Memory Update: 4.8
+      Attn: 4.7
+      CPU Updater: 10.7
+  TGAT:
+    TGL:
+      Sample: 11.3
+      Gather: 17.8
+      Linears: 24.1
+      Attn: 8.1
+    UNITY:
+      Sample: 11.3
+      Mapping Linears: 26.7
+      Attn: 8.1
+ROADCA:
+  TGN:
+    TGL:
+      Sample: 7.3
+      Gather: 38.4
+      GPU Updater: 6.2
+      Linears: 17.6
+      Attn: 7.9
+      Memory Update: 3.8
+    UNITY:
+      Sample: 7.3
+      Mapping Linears: 20.4
+      Memory Update: 4.5
+      Attn: 7.9
+      CPU Updater: 17.7
+  TGAT:
+    TGL:
+      Sample: 7.6
+      Gather: 44.8
+      Linears: 77.8
+      Attn: 13.8
+    UNITY:
+      Sample: 7.6
+      Mapping Linears: 87.9
+      Attn: 13.8

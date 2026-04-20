@@ -1,0 +1,902 @@
+[
+    {
+        "Node Similarity": "0.0014393666786613889",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15570494186046513,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0016574585635359116",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1468154012234617,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0014561339643247178",
+        "Edge Similarity": "0.0005414185165132648",
+        "NID Ratio": 0.15119705340699818,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.003115264797507788",
+        "Edge Similarity": "0.0005468963631391851",
+        "NID Ratio": 0.15216599927193297,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001987353206865402",
+        "Edge Similarity": "0.0008032128514056225",
+        "NID Ratio": 0.14861645592816564,
+        "EID Ratio": 0.0013672409078480108
+    },
+    {
+        "Node Similarity": "0.0030647196682891654",
+        "Edge Similarity": "0.0016012810248198558",
+        "NID Ratio": 0.14995483288166211,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0029476787030213707",
+        "Edge Similarity": "0.0005512679162072767",
+        "NID Ratio": 0.1505318190012619,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.004922515952597994",
+        "Edge Similarity": "0.0013568521031207597",
+        "NID Ratio": 0.15162122328666172,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002512562814070352",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15095715587967184,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002898550724637681",
+        "Edge Similarity": "0.0016129032258064516",
+        "NID Ratio": 0.14967695620961952,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0010783608914450035",
+        "Edge Similarity": "0.0005313496280552603",
+        "NID Ratio": 0.1534420289855073,
+        "EID Ratio": 0.001612903225806428
+    },
+    {
+        "Node Similarity": "0.0016242555495397943",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15366642703091304,
+        "EID Ratio": 0.0005313496280552332
+    },
+    {
+        "Node Similarity": "0.0029218407596785976",
+        "Edge Similarity": "0.000544069640914037",
+        "NID Ratio": 0.14726583649160796,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.003452662184263129",
+        "Edge Similarity": "0.001080205238995409",
+        "NID Ratio": 0.14974433893352812,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002187386073641998",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1510085407959295,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0026949335249730508",
+        "Edge Similarity": "0.0013276686139139671",
+        "NID Ratio": 0.14892453518045934,
+        "EID Ratio": 0.0013564839934888662
+    },
+    {
+        "Node Similarity": "0.0018389113644722325",
+        "Edge Similarity": "0.0008246289169873557",
+        "NID Ratio": 0.15055695292849447,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0034984349106978456",
+        "Edge Similarity": "0.0013770311209033324",
+        "NID Ratio": 0.15336520779698415,
+        "EID Ratio": 0.0008246289169873133
+    },
+    {
+        "Node Similarity": "0.002364926323449154",
+        "Edge Similarity": "0.001352447930754666",
+        "NID Ratio": 0.15172159823236975,
+        "EID Ratio": 0.0005508124483613042
+    },
+    {
+        "Node Similarity": "0.004129263913824057",
+        "Edge Similarity": "0.0005305039787798408",
+        "NID Ratio": 0.1515372021102419,
+        "EID Ratio": 0.000540979172301892
+    },
+    {
+        "Node Similarity": "0.003968969871910518",
+        "Edge Similarity": "0.0013358268768367619",
+        "NID Ratio": 0.14937163375224416,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001093693036820999",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1529857477900054,
+        "EID Ratio": 0.0016029922522040607
+    },
+    {
+        "Node Similarity": "0.0056672760511883",
+        "Edge Similarity": "0.002997275204359673",
+        "NID Ratio": 0.1512942034269048,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0029417172274315132",
+        "Edge Similarity": "0.0010992030777686177",
+        "NID Ratio": 0.15265082266910424,
+        "EID Ratio": 0.0005449591280654031
+    },
+    {
+        "Node Similarity": "0.0014474398407816175",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15425629711344002,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0027573529411764708",
+        "Edge Similarity": "0.0008241758241758242",
+        "NID Ratio": 0.15342862312285144,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0027292576419213972",
+        "Edge Similarity": "0.0008116883116883117",
+        "NID Ratio": 0.14908088235294115,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0034627300893019866",
+        "Edge Similarity": "0.0024410089503661514",
+        "NID Ratio": 0.15593158660844253,
+        "EID Ratio": 0.0005411255411255089
+    },
+    {
+        "Node Similarity": "0.0007268762493185535",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14871514488791693,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0016423357664233577",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15173541704524807,
+        "EID Ratio": 0.0013502565487442109
+    },
+    {
+        "Node Similarity": "0.002373562169070659",
+        "Edge Similarity": "0.0008158825129181398",
+        "NID Ratio": 0.15565693430656935,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0025519504192489974",
+        "Edge Similarity": "0.0005425935973955507",
+        "NID Ratio": 0.14789118130363332,
+        "EID Ratio": 0.0005439216752787246
+    },
+    {
+        "Node Similarity": "0.003293084522502744",
+        "Edge Similarity": "0.0005455537370430987",
+        "NID Ratio": 0.1520233321181188,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.003097103297504099",
+        "Edge Similarity": "0.0029818378964489023",
+        "NID Ratio": 0.15056714233443103,
+        "EID Ratio": 0.0010911074740862503
+    },
+    {
+        "Node Similarity": "0.002748763056624519",
+        "Edge Similarity": "0.0016406890894175555",
+        "NID Ratio": 0.15558389506285297,
+        "EID Ratio": 0.0005421523448089216
+    },
+    {
+        "Node Similarity": "0.004778533357838633",
+        "Edge Similarity": "0.0016478989288656962",
+        "NID Ratio": 0.15173172072567342,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0018406037180195105",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15328064693990073,
+        "EID Ratio": 0.0010985992859104954
+    },
+    {
+        "Node Similarity": "0.0007289958082741025",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15240198785201542,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.004512635379061372",
+        "Edge Similarity": "0.0010695187165775401",
+        "NID Ratio": 0.14579916165482043,
+        "EID Ratio": 0.0010848928668294455
+    },
+    {
+        "Node Similarity": "0.002220988339811216",
+        "Edge Similarity": "0.0011101859561476548",
+        "NID Ratio": 0.1530685920577617,
+        "EID Ratio": 0.0010695187165775666
+    },
+    {
+        "Node Similarity": "0.002186588921282799",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1534332778086248,
+        "EID Ratio": 0.0008326394671107629
+    },
+    {
+        "Node Similarity": "0.005055976886962802",
+        "Edge Similarity": "0.001337613697164259",
+        "NID Ratio": 0.14650145772594747,
+        "EID Ratio": 0.0005422993492407713
+    },
+    {
+        "Node Similarity": "0.0009038322487346348",
+        "Edge Similarity": "0.0002679528403001072",
+        "NID Ratio": 0.1484290357529794,
+        "EID Ratio": 0.0010700909577313622
+    },
+    {
+        "Node Similarity": "0.001830831197363603",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14750542299349245,
+        "EID Ratio": 0.001339764201500504
+    },
+    {
+        "Node Similarity": "0.0027442371020856204",
+        "Edge Similarity": "0.0005455537370430987",
+        "NID Ratio": 0.1525082387403881,
+        "EID Ratio": 0.0005461496450027692
+    },
+    {
+        "Node Similarity": "0.0034614683913281106",
+        "Edge Similarity": "0.000813228517213337",
+        "NID Ratio": 0.15568971825832423,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002384446074834923",
+        "Edge Similarity": "0.0008214676889375684",
+        "NID Ratio": 0.15412643468755693,
+        "EID Ratio": 0.0013553808620222485
+    },
+    {
+        "Node Similarity": "0.0036845983787767134",
+        "Edge Similarity": "0.0024807056229327455",
+        "NID Ratio": 0.15480557593543653,
+        "EID Ratio": 0.0016429353778751876
+    },
+    {
+        "Node Similarity": "0.002022802500919456",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15291083271923356,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.003474126897056135",
+        "Edge Similarity": "0.0008176614881439084",
+        "NID Ratio": 0.1502390584773814,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002364926323449154",
+        "Edge Similarity": "0.0016229375169055991",
+        "NID Ratio": 0.14646187602852445,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001455604075691412",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15481171548117156,
+        "EID Ratio": 0.0018934271030565109
+    },
+    {
+        "Node Similarity": "0.004027091341753615",
+        "Edge Similarity": "0.002184002184002184",
+        "NID Ratio": 0.1473799126637555,
+        "EID Ratio": 0.0008116883116883189
+    },
+    {
+        "Node Similarity": "0.0040116703136396795",
+        "Edge Similarity": "0.002171552660152009",
+        "NID Ratio": 0.15522606626395752,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0019956458635703917",
+        "Edge Similarity": "0.0013469827586206897",
+        "NID Ratio": 0.14970824215900802,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0016304347826086956",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14912917271407833,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0025482344375682563",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15126811594202894,
+        "EID Ratio": 0.0021505376344086446
+    },
+    {
+        "Node Similarity": "0.004915346805024577",
+        "Edge Similarity": "0.0016246953696181965",
+        "NID Ratio": 0.15307608299963593,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0009025270758122744",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1531039504824322,
+        "EID Ratio": 0.0016246953696181787
+    },
+    {
+        "Node Similarity": "0.0032679738562091504",
+        "Edge Similarity": "0.001348435814455232",
+        "NID Ratio": 0.15198555956678705,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0010980966325036604",
+        "Edge Similarity": "0.0008187772925764192",
+        "NID Ratio": 0.14324618736383443,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0018311664530305805",
+        "Edge Similarity": "0.0005462988254575252",
+        "NID Ratio": 0.1513543191800878,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001093095281472035",
+        "Edge Similarity": "0.0005421523448088912",
+        "NID Ratio": 0.15546603186229624,
+        "EID Ratio": 0.0005462988254575363
+    },
+    {
+        "Node Similarity": "0.003271537622682661",
+        "Edge Similarity": "0.0018908698001080498",
+        "NID Ratio": 0.14938968846784473,
+        "EID Ratio": 0.0013553808620222485
+    },
+    {
+        "Node Similarity": "0.0030819434372733865",
+        "Edge Similarity": "0.0016146393972012918",
+        "NID Ratio": 0.14903671392221007,
+        "EID Ratio": 0.0002701242571583329
+    },
+    {
+        "Node Similarity": "0.003865267807840972",
+        "Edge Similarity": "0.0016515276630883566",
+        "NID Ratio": 0.15264684554024655,
+        "EID Ratio": 0.0008073196986005948
+    },
+    {
+        "Node Similarity": "0.001105379513633014",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15516289342904477,
+        "EID Ratio": 0.0002752546105146969
+    },
+    {
+        "Node Similarity": "0.0016492578339747114",
+        "Edge Similarity": "0.0005468963631391851",
+        "NID Ratio": 0.15051584377302873,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.004191725897576089",
+        "Edge Similarity": "0.0005424464334147003",
+        "NID Ratio": 0.15539673813450616,
+        "EID Ratio": 0.0010937927262784086
+    },
+    {
+        "Node Similarity": "0.003681885125184094",
+        "Edge Similarity": "0.0005506607929515419",
+        "NID Ratio": 0.15472936030617823,
+        "EID Ratio": 0.0008136696501220841
+    },
+    {
+        "Node Similarity": "0.0020054694621695532",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14966863033873345,
+        "EID Ratio": 0.0005506607929515184
+    },
+    {
+        "Node Similarity": "0.0025589471760190095",
+        "Edge Similarity": "0.0008172160174339417",
+        "NID Ratio": 0.1558796718322698,
+        "EID Ratio": 0.0016282225237449488
+    },
+    {
+        "Node Similarity": "0.00181422351233672",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15134344726741,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002562225475841874",
+        "Edge Similarity": "0.0008187772925764192",
+        "NID Ratio": 0.15293904208998543,
+        "EID Ratio": 0.0008081896551723755
+    },
+    {
+        "Node Similarity": "0.00288496213487198",
+        "Edge Similarity": "0.0005339028296849973",
+        "NID Ratio": 0.15574670571010252,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0069216757741347905",
+        "Edge Similarity": "0.0027100271002710027",
+        "NID Ratio": 0.15091958168049047,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0009150805270863836",
+        "Edge Similarity": "0.0005458515283842794",
+        "NID Ratio": 0.14608378870673955,
+        "EID Ratio": 0.0005420054200542257
+    },
+    {
+        "Node Similarity": "0.0025463805020007274",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14769399707174236,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0014558689717925387",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1493270280101855,
+        "EID Ratio": 0.00027041644131964304
+    },
+    {
+        "Node Similarity": "0.0014609203798392988",
+        "Edge Similarity": "0.0008161044613710555",
+        "NID Ratio": 0.14504094631483166,
+        "EID Ratio": 0.0005412719891745299
+    },
+    {
+        "Node Similarity": "0.0023989665990035063",
+        "Edge Similarity": "0.0005526388505111909",
+        "NID Ratio": 0.1532140248356465,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0009187798603454612",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15445654179737955,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.004922515952597994",
+        "Edge Similarity": "0.0032564450474898234",
+        "NID Ratio": 0.15012862918044834,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.00470929179496468",
+        "Edge Similarity": "0.0016124697661918839",
+        "NID Ratio": 0.15205104831358252,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0009191176470588235",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14961057779387787,
+        "EID Ratio": 0.0005374899220639273
+    },
+    {
+        "Node Similarity": "0.0027327382036800873",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14944852941176467,
+        "EID Ratio": 0.0005494505494505475
+    },
+    {
+        "Node Similarity": "0.0032549728752260397",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1492075059209328,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.007158590308370044",
+        "Edge Similarity": "0.004111842105263158",
+        "NID Ratio": 0.1482820976491862,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0009104151493080845",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14665932452276065,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0034614683913281106",
+        "Edge Similarity": "0.0005421523448088912",
+        "NID Ratio": 0.15149308084486524,
+        "EID Ratio": 0.001895991332611091
+    },
+    {
+        "Node Similarity": "0.0010865628395508873",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15048278374931678,
+        "EID Ratio": 0.0005421523448089216
+    },
+    {
+        "Node Similarity": "0.0012912746725696365",
+        "Edge Similarity": "0.00027616680475006904",
+        "NID Ratio": 0.1483158275986961,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0018234865061998542",
+        "Edge Similarity": "0.0010857763300760044",
+        "NID Ratio": 0.154215089466888,
+        "EID Ratio": 0.001657000828500399
+    },
+    {
+        "Node Similarity": "0.0019913106444605358",
+        "Edge Similarity": "0.0013426423200859291",
+        "NID Ratio": 0.15134938001458786,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002364066193853428",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15296886314265024,
+        "EID Ratio": 0.002148227712137518
+    },
+    {
+        "Node Similarity": "0.004035956705191708",
+        "Edge Similarity": "0.0016433853738701725",
+        "NID Ratio": 0.15475541007455906,
+        "EID Ratio": 0.0005406866720735204
+    },
+    {
+        "Node Similarity": "0.003095411507647487",
+        "Edge Similarity": "0.0008125677139761647",
+        "NID Ratio": 0.15410016510731972,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.00416289592760181",
+        "Edge Similarity": "0.0008053691275167785",
+        "NID Ratio": 0.1516751638747269,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.005613908004346252",
+        "Edge Similarity": "0.0032240730789897904",
+        "NID Ratio": 0.1475113122171946,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0021937842778793418",
+        "Edge Similarity": "0.0005449591280653951",
+        "NID Ratio": 0.15048895327779788,
+        "EID Ratio": 0.0010746910263299547
+    },
+    {
+        "Node Similarity": "0.0036569756811117207",
+        "Edge Similarity": "0.001362769146906514",
+        "NID Ratio": 0.15009140767824503,
+        "EID Ratio": 0.0008174386920980492
+    },
+    {
+        "Node Similarity": "0.0025311878502983186",
+        "Edge Similarity": "0.0008040739748056821",
+        "NID Ratio": 0.1535929786066923,
+        "EID Ratio": 0.002725538293813057
+    },
+    {
+        "Node Similarity": "0.0018221574344023323",
+        "Edge Similarity": "0.0005422993492407809",
+        "NID Ratio": 0.1534984632073766,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0012706480304955528",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15251457725947526,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0027208416470161437",
+        "Edge Similarity": "0.0005386479935362241",
+        "NID Ratio": 0.15011798874568882,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0018014772113132769",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15526936332305463,
+        "EID Ratio": 0.000538647993536201
+    },
+    {
+        "Node Similarity": "0.0007328691828508611",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15222482435597184,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002740226525392766",
+        "Edge Similarity": "0.0008165487207403375",
+        "NID Ratio": 0.15463539758153166,
+        "EID Ratio": 0.0005467468562055933
+    },
+    {
+        "Node Similarity": "0.0021766733176129148",
+        "Edge Similarity": "0.0005386479935362241",
+        "NID Ratio": 0.14760686883449037,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.003076923076923077",
+        "Edge Similarity": "0.0005369127516778523",
+        "NID Ratio": 0.15399963722111376,
+        "EID Ratio": 0.000538647993536201
+    },
+    {
+        "Node Similarity": "0.002022802500919456",
+        "Edge Similarity": "0.0005497526113249038",
+        "NID Ratio": 0.1505882352941177,
+        "EID Ratio": 0.0013422818791946067
+    },
+    {
+        "Node Similarity": "0.003427128427128427",
+        "Edge Similarity": "0.002403846153846154",
+        "NID Ratio": 0.15115851415961745,
+        "EID Ratio": 0.0016492578339747377
+    },
+    {
+        "Node Similarity": "0.00593098490294752",
+        "Edge Similarity": "0.003188097768331562",
+        "NID Ratio": 0.1507936507936508,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0023688046647230322",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15186915887850472,
+        "EID Ratio": 0.0015940488841658107
+    },
+    {
+        "Node Similarity": "0.004010207801676996",
+        "Edge Similarity": "0.002170374389582203",
+        "NID Ratio": 0.15360787172011658,
+        "EID Ratio": 0.0013557483731019282
+    },
+    {
+        "Node Similarity": "0.002364496180429247",
+        "Edge Similarity": "0.0008112493239588967",
+        "NID Ratio": 0.14947138169886987,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001624548736462094",
+        "Edge Similarity": "0.0008021390374331551",
+        "NID Ratio": 0.15223717715532925,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0025547445255474453",
+        "Edge Similarity": "0.0016304347826086956",
+        "NID Ratio": 0.1496389891696751,
+        "EID Ratio": 0.0005347593582887278
+    },
+    {
+        "Node Similarity": "0.0034633612832664965",
+        "Edge Similarity": "0.0016277807921866521",
+        "NID Ratio": 0.1512773722627737,
+        "EID Ratio": 0.0008152173913043015
+    },
+    {
+        "Node Similarity": "0.0039941902687000725",
+        "Edge Similarity": "0.0018878101402373248",
+        "NID Ratio": 0.15257017863652933,
+        "EID Ratio": 0.0008138903960933641
+    },
+    {
+        "Node Similarity": "0.0029287937030935385",
+        "Edge Similarity": "0.001092001092001092",
+        "NID Ratio": 0.15250544662309373,
+        "EID Ratio": 0.0008090614886731018
+    },
+    {
+        "Node Similarity": "0.005106693416013132",
+        "Edge Similarity": "0.0010860711376595167",
+        "NID Ratio": 0.15010067728354382,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0034507809662186707",
+        "Edge Similarity": "0.0018888289260658392",
+        "NID Ratio": 0.15192412912639064,
+        "EID Ratio": 0.001357588922074382
+    },
+    {
+        "Node Similarity": "0.005328923190003675",
+        "Edge Similarity": "0.0027457440966501922",
+        "NID Ratio": 0.1491100617508173,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.001643535427319211",
+        "Edge Similarity": "0.000544069640914037",
+        "NID Ratio": 0.1576626240352812,
+        "EID Ratio": 0.0024711696869851307
+    },
+    {
+        "Node Similarity": "0.0009157509157509158",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15175310445580714,
+        "EID Ratio": 0.0008161044613710366
+    },
+    {
+        "Node Similarity": "0.0022002200220022",
+        "Edge Similarity": "0.0010946907498631637",
+        "NID Ratio": 0.15512820512820513,
+        "EID Ratio": 0.003278688524590123
+    },
+    {
+        "Node Similarity": "0.001970619849516302",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14998166483315,
+        "EID Ratio": 0.0005473453749316182
+    },
+    {
+        "Node Similarity": "0.003271537622682661",
+        "Edge Similarity": "0.0008103727714748784",
+        "NID Ratio": 0.15191687567180223,
+        "EID Ratio": 0.0013220518244315693
+    },
+    {
+        "Node Similarity": "0.001099102399706906",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14794620138131587,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0005403458213256485",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.15900348049093238,
+        "EID Ratio": 0.0008198961464881416
+    },
+    {
+        "Node Similarity": "0.005212077641984184",
+        "Edge Similarity": "0.001328374070138151",
+        "NID Ratio": 0.1498559077809798,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.002939555392246923",
+        "Edge Similarity": "0.0005489980785067252",
+        "NID Ratio": 0.14701653486700217,
+        "EID Ratio": 0.0005313496280552332
+    },
+    {
+        "Node Similarity": "0.004751461988304093",
+        "Edge Similarity": "0.0010893246187363835",
+        "NID Ratio": 0.15395921366893262,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0034333212865919767",
+        "Edge Similarity": "0.0016068559185859668",
+        "NID Ratio": 0.14985380116959068,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0016313213703099511",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.1492591254065775,
+        "EID Ratio": 0.0008034279592930016
+    },
+    {
+        "Node Similarity": "0.0022115739034279398",
+        "Edge Similarity": "0.000827357970215113",
+        "NID Ratio": 0.15044408192858438,
+        "EID Ratio": 0.0008071025020177647
+    },
+    {
+        "Node Similarity": "0.0031038889903231698",
+        "Edge Similarity": "0.0005439216752787598",
+        "NID Ratio": 0.1546258754146701,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0020164986251145736",
+        "Edge Similarity": "0.0008207934336525308",
+        "NID Ratio": 0.1542815409895928,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0027377258623836466",
+        "Edge Similarity": "0.0008154389779831476",
+        "NID Ratio": 0.1506874427131072,
+        "EID Ratio": 0.0005471956224349928
+    },
+    {
+        "Node Similarity": "0.003275705186533212",
+        "Edge Similarity": "0.0008119079837618403",
+        "NID Ratio": 0.15020989231611603,
+        "EID Ratio": 0.0008154389779831961
+    },
+    {
+        "Node Similarity": "0.0020381693533444508",
+        "Edge Similarity": "0.0013900472616068947",
+        "NID Ratio": 0.15304822565969067,
+        "EID Ratio": 0.0008119079837618504
+    },
+    {
+        "Node Similarity": "0.005896443707388981",
+        "Edge Similarity": "0.0033085194375516956",
+        "NID Ratio": 0.15453029460811563,
+        "EID Ratio": 0.0005560189046427411
+    },
+    {
+        "Node Similarity": "0.0018178512997636793",
+        "Edge Similarity": "0.0005403944879762226",
+        "NID Ratio": 0.15515017505067252,
+        "EID Ratio": 0.0013785497656465528
+    },
+    {
+        "Node Similarity": "0.004203216374269006",
+        "Edge Similarity": "0.0013616557734204794",
+        "NID Ratio": 0.1501545173604799,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0032798833819241984",
+        "Edge Similarity": "0.0016268980477223427",
+        "NID Ratio": 0.15186403508771928,
+        "EID Ratio": 0.0016339869281045694
+    },
+    {
+        "Node Similarity": "0.004022673249222892",
+        "Edge Similarity": "0.001362769146906514",
+        "NID Ratio": 0.14978134110787167,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.0021806287479556605",
+        "Edge Similarity": "0.0",
+        "NID Ratio": 0.14920460778935818,
+        "EID Ratio": 0.0
+    },
+    {
+        "Node Similarity": "0.005133846718005134",
+        "Edge Similarity": "0.0024630541871921183",
+        "NID Ratio": 0.14900963111030352,
+        "EID Ratio": 0.0005401026194976621
+    },
+    {
+        "Node Similarity": "0.004211682841970335",
+        "Edge Similarity": "0.0013657470636438131",
+        "NID Ratio": 0.15089842317565094,
+        "EID Ratio": 0.0
+    }
+]

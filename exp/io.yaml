@@ -1,0 +1,13 @@
+GDELT:
+  TGN:
+    TGL:
+      I/O: 68.9
+      Memcpy: 8.6
+    UNITY:
+      I/O: 25.7
+  TGAT:
+    TGL:
+      I/O: 556.1
+      Memcpy: 141.9
+    UNITY:
+      I/O: 96.7

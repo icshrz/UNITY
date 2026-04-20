@@ -1,0 +1,18 @@
+WIKITALK:
+  GPU:
+    TGL: 91.2
+    MSPipe: 79.1
+    UNITY: 100
+  CPU:
+    TGL: 8.8
+    MSPipe: 90.2
+    UNITY: 100
+ROADCA:
+  GPU:
+    TGL: 95.4
+    MSPipe: 59.1
+    UNITY: 87.1
+  CPU:
+    TGL: 4.6
+    MSPipe: 100
+    UNITY: 100

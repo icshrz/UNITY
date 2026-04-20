@@ -1,0 +1,80 @@
+GDELT:
+  APAN:
+    Others: 145.0
+    UniTGL: 30.3
+  DySAT:
+    Others: 144.8
+    UniTGL: 32.0
+  JODIE:
+    Others: 145.3
+    UniTGL: 26.9
+  TGAT:
+    Others: 145.3
+    UniTGL: 32.0
+  TGN:
+    Others: 142.9
+    UniTGL: 30.7
+REDDIT:
+  APAN:
+    Others: 6.53
+    UniTGL: 4.51
+  DySAT:
+    Others: 6.64
+    UniTGL: 5.58
+  JODIE:
+    Others: 6.27
+    UniTGL: 4.99
+  TGAT:
+    Others: 6.90
+    UniTGL: 5.97
+  TGN:
+    Others: 6.39
+    UniTGL: 5.14
+ROADCA:
+  APAN:
+    Others: 211.0
+    UniTGL: 19.23
+  DySAT:
+    Others: 60.4
+    UniTGL: 16.80
+  JODIE:
+    Others: 55.1
+    UniTGL: 16.39
+  TGAT:
+    Others: 67.9
+    UniTGL: 17.01
+  TGN:
+    Others: 67.8
+    UniTGL: 17.27
+ROADTX:
+  APAN:
+    Others: 151.3
+    UniTGL: 17.97
+  DySAT:
+    Others: 45.1
+    UniTGL: 16.57
+  JODIE:
+    Others: 40.4
+    UniTGL: 15.59
+  TGAT:
+    Others: 52.9
+    UniTGL: 16.71
+  TGN:
+    Others: 52.9
+    UniTGL: 16.74
+WIKITALK:
+  APAN:
+    Others: 20.5
+    UniTGL: 5.75
+  DySAT:
+    Others: 9.23
+    UniTGL: 4.77
+  JODIE:
+    Others: 8.44
+    UniTGL: 4.50
+  TGAT:
+    Others: 9.28
+    UniTGL: 4.79
+  TGN:
+    Others: 9.21
+    UniTGL: 4.74

@@ -1,0 +1,34 @@
+WIKITALK:
+  APAN: 1.55
+  DySAT: 1.50
+  JODIE: 1.40
+  TGAT: 0.98
+  TGN: 0.95
+  
+GDELT:
+  APAN: 1.53
+  DySAT: 1.35
+  JODIE: 1.21
+  TGAT: 0.93
+  TGN: 0.95
+
+REDDIT:
+  APAN: 1.40
+  DySAT: 1.51
+  JODIE: 1.57
+  TGAT: 0.90
+  TGN: 0.99
+
+ROADCA:
+  APAN: 1.13
+  DySAT: 1.20
+  JODIE: 1.13
+  TGAT: 0.82
+  TGN: 0.85
+
+ROADTX:
+  APAN: 1.23
+  DySAT: 1.26
+  JODIE: 1.21
+  TGAT: 0.88
+  TGN: 0.86

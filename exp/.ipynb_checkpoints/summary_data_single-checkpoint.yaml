@@ -1,0 +1,105 @@
+GDELT:
+  APAN:
+    TGL: 3.2368
+    TGLite: 3.1877
+    UniTGL: 1.772
+  DySAT:
+    TGL: 5.2844
+    TGLite: 5.1024
+    UniTGL: 2.5492
+  JODIE:
+    TGL: 3.2872
+    TGLite: 3.1957
+    UniTGL: 1.7116
+  TGAT:
+    TGL: 5.3576
+    TGLite: 5.1135
+    UniTGL: 2.7236
+  TGN:
+    TGL: 3.7937
+    TGLite: 3.5205
+    UniTGL: 2.2801
+REDDIT:
+  APAN:
+    TGL: 2.1869
+    TGLite: 2.1409
+    UniTGL: 1.4241
+  DySAT:
+    TGL: 8.5651
+    TGLite: 8.4379
+    UniTGL: 2.1432
+  JODIE:
+    TGL: 2.1565
+    TGLite: 2.0866
+    UniTGL: 1.4042
+  TGAT:
+    TGL: 7.9671
+    TGLite: 7.8304
+    UniTGL: 2.079
+  TGN:
+    TGL: 2.7713
+    TGLite: 2.6047
+    UniTGL: 1.7517
+ROADCA:
+  APAN:
+    TGL: 2.682
+    TGLite: 2.5783
+    UniTGL: 1.2796
+  DySAT:
+    TGL: 3.8287
+    TGLite: 3.7062
+    UniTGL: 1.5602
+  JODIE:
+    TGL: 2.6093
+    TGLite: 2.5706
+    UniTGL: 1.1443
+  TGAT:
+    TGL: 3.4029
+    TGLite: 3.2906
+    UniTGL: 1.5953
+  TGN:
+    TGL: 2.8878
+    TGLite: 2.8693
+    UniTGL: 1.5821
+ROADTX:
+  APAN:
+    TGL: 2.3803
+    TGLite: 2.3165
+    UniTGL: 1.4354
+  DySAT:
+    TGL: 3.6652
+    TGLite: 3.54
+    UniTGL: 1.6564
+  JODIE:
+    TGL: 1.9772
+    TGLite: 1.9255
+    UniTGL: 1.1325
+  TGAT:
+    TGL: 3.266
+    TGLite: 3.1382
+    UniTGL: 1.5708
+  TGN:
+    TGL: 2.7239
+    TGLite: 2.603
+    UniTGL: 1.5498
+WIKITALK:
+  APAN:
+    TGL: 2.2309
+    TGLite: 2.2028
+    UniTGL: 1.7029
+  DySAT:
+    TGL: 5.8984
+    TGLite: 5.7311
+    UniTGL: 1.6165
+  JODIE:
+    TGL: 2.0615
+    TGLite: 2.0216
+    UniTGL: 1.1568
+  TGAT:
+    TGL: 3.6315
+    TGLite: 3.5706
+    UniTGL: 1.5561
+  TGN:
+    TGL: 2.4987
+    TGLite: 2.4689
+    UniTGL: 1.5043

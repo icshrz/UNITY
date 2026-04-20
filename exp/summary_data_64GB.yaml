@@ -1,0 +1,105 @@
+GDELT:
+  APAN:
+    TGL: 0.1615
+    TGLite: 0.0920
+    UniTGL: 0.0563
+  DySAT:
+    TGL: 0.8407
+    TGLite: 0.7646
+    UniTGL: 0.1151
+  JODIE:
+    TGL: 0.0520
+    TGLite: 0.0454
+    UniTGL: 0.0384
+  TGAT:
+    TGL: 0.8509
+    TGLite: 0.6937
+    UniTGL: 0.1059
+  TGN:
+    TGL: 0.1599
+    TGLite: 0.0723
+    UniTGL: 0.0449
+REDDIT:
+  APAN:
+    TGL: 0.0593
+    TGLite: 0.0498
+    UniTGL: 0.0322
+  DySAT:
+    TGL: 0.0884
+    TGLite: 0.0617
+    UniTGL: 0.0358
+  JODIE:
+    TGL: 0.0352
+    TGLite: 0.0278
+    UniTGL: 0.0234
+  TGAT:
+    TGL: 0.1204
+    TGLite: 0.1089
+    UniTGL: 0.0727
+  TGN:
+    TGL: 0.0543
+    TGLite: 0.0466
+    UniTGL: 0.0337
+ROADCA:
+  APAN:
+    TGL: 0.1986
+    TGLite: 0.1336
+    UniTGL: 0.1035
+  DySAT:
+    TGL: 0.9751
+    TGLite: 0.8844
+    UniTGL: 0.2054
+  JODIE:
+    TGL: 0.0747
+    TGLite: 0.0671
+    UniTGL: 0.0613
+  TGAT:
+    TGL: 0.7826
+    TGLite: 0.6647
+    UniTGL: 0.2126
+  TGN:
+    TGL: 0.2010
+    TGLite: 0.1409
+    UniTGL: 0.0879
+ROADTX:
+  APAN:
+    TGL: 0.1639
+    TGLite: 0.1165
+    UniTGL: 0.0843
+  DySAT:
+    TGL: 0.7150
+    TGLite: 0.6223
+    UniTGL: 0.1872
+  JODIE:
+    TGL: 0.0657
+    TGLite: 0.0565
+    UniTGL: 0.0470
+  TGAT:
+    TGL: 0.6137
+    TGLite: 0.5443
+    UniTGL: 0.2015
+  TGN:
+    TGL: 0.1706
+    TGLite: 0.1375
+    UniTGL: 0.0806
+WIKITALK:
+  APAN:
+    TGL: 0.0366
+    TGLite: 0.0336
+    UniTGL: 0.0103
+  DySAT:
+    TGL: 0.0568
+    TGLite: 0.0434
+    UniTGL: 0.0292
+  JODIE:
+    TGL: 0.0293
+    TGLite: 0.0220
+    UniTGL: 0.0185
+  TGAT:
+    TGL: 0.0659
+    TGLite: 0.0563
+    UniTGL: 0.0377
+  TGN:
+    TGL: 0.0385
+    TGLite: 0.0312
+    UniTGL: 0.0247

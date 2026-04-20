@@ -1,0 +1,63 @@
+GDELT:
+  TGN:
+    TGL:
+      sample: 4.4
+      gather: 23.1
+      I/O: 77.9
+      mailbox_gather: 4.2
+      layers: 21.7
+      mailbox_update: 4.4
+      mem_update: 4.4
+    UniTGL:
+      sample: 4.4
+      I/O: 25.7
+      mailbox_gather: 4.7
+      mapping: 29.4
+      attn: 8.5
+      mailbox_update: 5.4
+      mem_update: 4.4
+
+  TGAT:
+    TGL:
+      sample: 33.6
+      gather: 162.9
+      I/O: 696.1
+      mailbox_gather: 0.0
+      layers: 118.9
+      mailbox_update: 0.0
+      mem_update: 0.0
+    UniTGL:
+      sample: 34.7
+      I/O: 96.7
+      mapping: 62.1
+      attn: 8.6
+
+
+ROADCA:
+  TGN:
+    TGL:
+      sample: 7.3
+      gather: 24.6
+      I/O: 336.4
+      mailbox_gather: 13.8
+      layers: 56.0
+      mailbox_update: 17.9
+      mem_update: 6.3
+    UniTGL:
+      sample: 7.6
+      I/O: 76.5
+      mapping: 46.4
+      attn: 4.7
+      mailbox_update: 23.1
+      mem_update: 6.1
+  TGAT:
+    TGL:
+      sample: 7.6
+      gather: 164.3
+      I/O: 774.3
+      layers: 45.4
+    UniTGL:
+      sample: 8.7
+      I/O: 111.0
+      mapping: 37.9
+      attn: 4.2

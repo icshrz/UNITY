@@ -1,0 +1,1030 @@
+WIKITALK:
+  APAN:
+    TGL:
+      Sample: 3.3
+      CPU Gather: 7.9
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 7.3
+      GPU Updater: 3.1
+      Linear: 1.4
+      Attention: 0.0
+    MSPipe:
+      Sample: 3.3
+      CPU Gather: 7.7
+      GPU Gather: 1.2
+      memcpyH2D: 3.4
+      memcpyD2H: 4.5
+      Mailbox: 7.9
+      GPU Updater: 3.1
+      Linear: 1.4
+      Attention: 0.0
+    UNITY:
+      Sample: 3.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 7.3
+      GPU Updater: 2.2
+      Linear: 1.4
+      Attention: 0.0
+    TGLite:
+      Sample: 3.0
+      CPU Gather: 7.9
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 7.3
+      GPU Updater: 3.1
+      Linear: 1.2
+      Attention: 0.0
+  DySAT:
+    TGL:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 22.8
+      Attention: 7.7
+    MSPipe:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 22.8
+      Attention: 7.7
+    UNITY:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 16.6
+      Attention: 7.7
+    TGLite:
+      Sample: 5.3
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 22.8
+      Attention: 7.0
+  TGAT:
+    TGL:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 23.9
+      Attention: 9.2
+    MSPipe:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 23.9
+      Attention: 9.2
+    UNITY:
+      Sample: 5.7
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 16.4
+      Attention: 9.2
+    TGLite:
+      Sample: 5.3
+      CPU Gather: 0
+      GPU Gather: 4.2
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 23.9
+      Attention: 8.8
+  JODIE:
+    TGL:
+      Sample: 0.0
+      CPU Gather: 1.2
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 2.8
+      Linear: 2.0
+      Attention: 0.0
+    MSPipe:
+      Sample: 0.0
+      CPU Gather: 3.1
+      GPU Gather: 1.2
+      memcpyH2D: 1.8
+      memcpyD2H: 2.4
+      Mailbox: 3.3
+      GPU Updater: 2.8
+      Linear: 2.0
+      Attention: 0.0
+    UNITY:
+      Sample: 0.0
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.3
+      GPU Updater: 2.2
+      Linear: 2.0
+      Attention: 0.0
+    TGLite:
+      Sample: 0.0
+      CPU Gather: 1.2
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 2.8
+      Linear: 1.8
+      Attention: 0.0
+  TGN:
+    TGL:
+      Sample: 2.4
+      CPU Gather: 2.3
+      GPU Gather: 1.5
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.0
+      Linear: 9.6
+      Attention: 4.5
+    MSPipe:
+      Sample: 2.4
+      CPU Gather: 6.3
+      GPU Gather: 1.5
+      memcpyH2D: 3.4
+      memcpyD2H: 4.5
+      Mailbox: 3.3
+      GPU Updater: 3.0
+      Linear: 9.6
+      Attention: 4.5
+    UNITY:
+      Sample: 2.4
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.3
+      GPU Updater: 2.4
+      Linear: 6.5
+      Attention: 5.3
+    TGLite:
+      Sample: 2.2
+      CPU Gather: 2.3
+      GPU Gather: 1.5
+      memcpyH2D: 0
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.0
+      Linear: 9.6
+      Attention: 4.1
+ROADCA:
+  APAN:
+    TGL:
+      Sample: 3.3
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 0.5
+      Mailbox: 9.5
+      GPU Updater: 3.6
+      Linear: 1.5
+      Attention: 0.0
+    MSPipe:
+      Sample: 3.3
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 4.5
+      Mailbox: 9.5
+      GPU Updater: 3.6
+      Linear: 1.5
+      Attention: 0.0
+    UNITY:
+      Sample: 3.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 9.5
+      GPU Updater: 3.1
+      Linear: 1.5
+      Attention: 0.0
+    TGLite:
+      Sample: 3.0
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 0.5
+      Mailbox: 9.5
+      GPU Updater: 3.6
+      Linear: 1.3
+      Attention: 0.0
+  DySAT:
+    TGL:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 68.1
+      Attention: 17.3
+    MSPipe:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 68.1
+      Attention: 17.3
+    UNITY:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 50.7
+      Attention: 17.3
+    TGLite:
+      Sample: 3.2
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 68.1
+      Attention: 16.1
+  TGAT:
+    TGL:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 73.2
+      Attention: 25.5
+    MSPipe:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 73.2
+      Attention: 25.5
+    UNITY:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 52.5
+      Attention: 25.5
+    TGLite:
+      Sample: 3.2
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 73.2
+      Attention: 23.1
+  JODIE:
+    TGL:
+      Sample: 0.0
+      CPU Gather: 3.7
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 0.5
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 2.2
+      Attention: 0.0
+    MSPipe:
+      Sample: 0.0
+      CPU Gather: 6.5
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 6.4
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 2.2
+      Attention: 0.0
+    UNITY:
+      Sample: 0.0
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 5.5
+      GPU Updater: 2.4
+      Linear: 2.2
+      Attention: 0.0
+    TGLite:
+      Sample: 0.0
+      CPU Gather: 3.7
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 0.5
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 1.9
+      Attention: 0.0
+  TGN:
+    TGL:
+      Sample: 2.6
+      CPU Gather: 11.7
+      GPU Gather: 6.5
+      memcpyH2D: 9.5
+      memcpyD2H: 0.5
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 20.7
+      Attention: 4.7
+    MSPipe:
+      Sample: 2.6
+      CPU Gather: 17.5
+      GPU Gather: 6.5
+      memcpyH2D: 9.5
+      memcpyD2H: 21.1
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 20.7
+      Attention: 4.7
+    UNITY:
+      Sample: 2.6
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 5.5
+      GPU Updater: 2.4
+      Linear: 15.8
+      Attention: 4.7
+    TGLite:
+      Sample: 2.2
+      CPU Gather: 11.7
+      GPU Gather: 6.5
+      memcpyH2D: 9.5
+      memcpyD2H: 0.5
+      Mailbox: 5.5
+      GPU Updater: 3.2
+      Linear: 20.7
+      Attention: 4.1
+ROADTX:
+  APAN:
+    TGL:
+      Sample: 3.3
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 0.5
+      Mailbox: 9.1
+      GPU Updater: 3.4
+      Linear: 1.4
+      Attention: 0.0
+    MSPipe:
+      Sample: 3.3
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 4.5
+      Mailbox: 9.1
+      GPU Updater: 3.4
+      Linear: 1.4
+      Attention: 0.0
+    UNITY:
+      Sample: 3.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 9.1
+      GPU Updater: 2.9
+      Linear: 1.4
+      Attention: 0.0
+    TGLite:
+      Sample: 3.0
+      CPU Gather: 7.9
+      GPU Gather: 1.9
+      memcpyH2D: 3.4
+      memcpyD2H: 0.5
+      Mailbox: 9.1
+      GPU Updater: 3.4
+      Linear: 1.2
+      Attention: 0.0
+  DySAT:
+    TGL:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 67.3
+      Attention: 17.1
+    MSPipe:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 67.3
+      Attention: 17.1
+    UNITY:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 46.8
+      Attention: 17.1
+    TGLite:
+      Sample: 3.2
+      CPU Gather: 0
+      GPU Gather: 18.9
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 67.3
+      Attention: 15.6
+  TGAT:
+    TGL:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.4
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 66.6
+      Attention: 23.3
+    MSPipe:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 18.4
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 66.6
+      Attention: 23.3
+    UNITY:
+      Sample: 3.5
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 50.3
+      Attention: 23.3
+    TGLite:
+      Sample: 3.2
+      CPU Gather: 0
+      GPU Gather: 18.4
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 66.6
+      Attention: 20.0
+  JODIE:
+    TGL:
+      Sample: 0.0
+      CPU Gather: 3.3
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 0.5
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 2.1
+      Attention: 0.0
+    MSPipe:
+      Sample: 0.0
+      CPU Gather: 6.3
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 6.4
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 2.1
+      Attention: 0.0
+    UNITY:
+      Sample: 0.0
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 5.0
+      GPU Updater: 2.5
+      Linear: 2.1
+      Attention: 0.0
+    TGLite:
+      Sample: 0.0
+      CPU Gather: 3.3
+      GPU Gather: 1.9
+      memcpyH2D: 4.0
+      memcpyD2H: 0.5
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 1.8
+      Attention: 0.0
+  TGN:
+    TGL:
+      Sample: 2.3
+      CPU Gather: 11.7
+      GPU Gather: 6.3
+      memcpyH2D: 9.2
+      memcpyD2H: 0.5
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 19.0
+      Attention: 4.6
+    MSPipe:
+      Sample: 2.3
+      CPU Gather: 17.1
+      GPU Gather: 6.3
+      memcpyH2D: 9.2
+      memcpyD2H: 15.4
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 19.0
+      Attention: 4.6
+    UNITY:
+      Sample: 2.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 5.0
+      GPU Updater: 2.5
+      Linear: 14.2
+      Attention: 4.6
+    TGLite:
+      Sample: 2.0
+      CPU Gather: 11.7
+      GPU Gather: 6.3
+      memcpyH2D: 9.2
+      memcpyD2H: 0.5
+      Mailbox: 5.0
+      GPU Updater: 3.2
+      Linear: 19.0
+      Attention: 4.3
+GDELT:
+  APAN:
+    TGL:
+      Sample: 1.2
+      CPU Gather: 7.9
+      GPU Gather: 1.2
+      memcpyH2D: 5.5
+      memcpyD2H: 0.4
+      Mailbox: 5.1
+      GPU Updater: 2.4
+      Linear: 1.4
+      Attention: 0.0
+    MSPipe:
+      Sample: 1.2
+      CPU Gather: 7.9
+      GPU Gather: 1.2
+      memcpyH2D: 5.5
+      memcpyD2H: 6.9
+      Mailbox: 5.1
+      GPU Updater: 2.4
+      Linear: 1.4
+      Attention: 0.0
+    UNITY:
+      Sample: 1.2
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 5.1
+      GPU Updater: 1.8
+      Linear: 1.4
+      Attention: 0.0
+    TGLite:
+      Sample: 1.1
+      CPU Gather: 7.9
+      GPU Gather: 1.2
+      memcpyH2D: 5.5
+      memcpyD2H: 0.4
+      Mailbox: 5.1
+      GPU Updater: 2.4
+      Linear: 1.3
+      Attention: 0.0
+  DySAT:
+    TGL:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 113.3
+      Attention: 17.7
+    MSPipe:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 113.3
+      Attention: 17.7
+    UNITY:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 69.1
+      Attention: 17.7
+    TGLite:
+      Sample: 23.0
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 113.3
+      Attention: 14.9
+  TGAT:
+    TGL:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 163.8
+      Attention: 18.2
+    MSPipe:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 163.8
+      Attention: 18.2
+    UNITY:
+      Sample: 25.3
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 103.7
+      Attention: 18.2
+    TGLite:
+      Sample: 22.9
+      CPU Gather: 0
+      GPU Gather: 19.5
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 163.8
+      Attention: 15.1
+  JODIE:
+    TGL:
+      Sample: 0.0
+      CPU Gather: 1.1
+      GPU Gather: 1.2
+      memcpyH2D: 2.3
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 2.1
+      Attention: 0.0
+    MSPipe:
+      Sample: 0.0
+      CPU Gather: 2.2
+      GPU Gather: 1.2
+      memcpyH2D: 2.3
+      memcpyD2H: 3.6
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 2.1
+      Attention: 0.0
+    UNITY:
+      Sample: 0.0
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.3
+      GPU Updater: 2.4
+      Linear: 2.1
+      Attention: 0.0
+    TGLite:
+      Sample: 0.0
+      CPU Gather: 1.1
+      GPU Gather: 1.2
+      memcpyH2D: 2.3
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 1.8
+      Attention: 0.0
+  TGN:
+    TGL:
+      Sample: 2.5
+      CPU Gather: 2.3
+      GPU Gather: 1.5
+      memcpyH2D: 2.6
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 6.1
+      Attention: 4.8
+    MSPipe:
+      Sample: 2.5
+      CPU Gather: 3.4
+      GPU Gather: 1.5
+      memcpyH2D: 2.6
+      memcpyD2H: 3.2
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 6.1
+      Attention: 4.8
+    UNITY:
+      Sample: 2.5
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.3
+      GPU Updater: 2.3
+      Linear: 4.7
+      Attention: 4.8
+    TGLite:
+      Sample: 2.2
+      CPU Gather: 2.3
+      GPU Gather: 1.5
+      memcpyH2D: 2.6
+      memcpyD2H: 0.4
+      Mailbox: 3.3
+      GPU Updater: 3.1
+      Linear: 6.1
+      Attention: 4.2
+REDDIT:
+  APAN:
+    TGL:
+      Sample: 1.2
+      CPU Gather: 7.6
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 6.1
+      GPU Updater: 2.4
+      Linear: 1.4
+      Attention: 0.0
+    MSPipe:
+      Sample: 1.2
+      CPU Gather: 7.4
+      GPU Gather: 1.2
+      memcpyH2D: 4.9
+      memcpyD2H: 5.7
+      Mailbox: 6.1
+      GPU Updater: 2.4
+      Linear: 1.4
+      Attention: 0.0
+    UNITY:
+      Sample: 1.2
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 6.1
+      GPU Updater: 1.9
+      Linear: 1.4
+      Attention: 0.0
+    TGLite:
+      Sample: 1.0
+      CPU Gather: 7.6
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 6.1
+      GPU Updater: 2.4
+      Linear: 1.2
+      Attention: 0.0
+  DySAT:
+    TGL:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 54.3
+      Attention: 18.8
+    MSPipe:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 54.3
+      Attention: 18.8
+    UNITY:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 34.8
+      Attention: 18.8
+    TGLite:
+      Sample: 10.4
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 54.3
+      Attention: 15.7
+  TGAT:
+    TGL:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 132.4
+      Attention: 20.4
+    MSPipe:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 132.4
+      Attention: 20.4
+    UNITY:
+      Sample: 12.9
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 86.5
+      Attention: 20.4
+    TGLite:
+      Sample: 10.3
+      CPU Gather: 0
+      GPU Gather: 15.7
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 0.0
+      GPU Updater: 0.0
+      Linear: 132.4
+      Attention: 16.9
+  JODIE:
+    TGL:
+      Sample: 0.0
+      CPU Gather: 1.1
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 3.7
+      GPU Updater: 3.0
+      Linear: 2.1
+      Attention: 0.0
+    MSPipe:
+      Sample: 0.0
+      CPU Gather: 1.9
+      GPU Gather: 1.2
+      memcpyH2D: 1.6
+      memcpyD2H: 2.6
+      Mailbox: 3.7
+      GPU Updater: 3.0
+      Linear: 2.1
+      Attention: 0.0
+    UNITY:
+      Sample: 0.0
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.7
+      GPU Updater: 2.0
+      Linear: 1.3
+      Attention: 0.0
+    TGLite:
+      Sample: 0.0
+      CPU Gather: 1.1
+      GPU Gather: 1.2
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 3.7
+      GPU Updater: 3.0
+      Linear: 1.7
+      Attention: 0.0
+  TGN:
+    TGL:
+      Sample: 2.6
+      CPU Gather: 2.6
+      GPU Gather: 1.8
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 3.7
+      GPU Updater: 2.8
+      Linear: 8.6
+      Attention: 5.0
+    MSPipe:
+      Sample: 2.6
+      CPU Gather: 3.6
+      GPU Gather: 1.8
+      memcpyH2D: 3.5
+      memcpyD2H: 4.8
+      Mailbox: 3.7
+      GPU Updater: 2.8
+      Linear: 8.6
+      Attention: 5.0
+    UNITY:
+      Sample: 2.6
+      CPU Gather: 0
+      GPU Gather: 0
+      memcpyH2D: 0
+      memcpyD2H: 0
+      Mailbox: 3.7
+      GPU Updater: 2.2
+      Linear: 6.6
+      Attention: 5.0
+    TGLite:
+      Sample: 2.2
+      CPU Gather: 2.6
+      GPU Gather: 1.8
+      memcpyH2D: 0
+      memcpyD2H: 0.3
+      Mailbox: 3.7
+      GPU Updater: 2.8
+      Linear: 8.6
+      Attention: 4.3

@@ -1,0 +1,41 @@
+Cleaning previous builds...
+Creating a new build directory...
+Running cmake...
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PythonInterp: /home/zhr/miniconda3/envs/ptdgl2/bin/python (found suitable version "3.9.20", minimum required is "3.7")
+-- Found PythonLibs: /home/zhr/miniconda3/envs/ptdgl2/lib/libpython3.9.so
+-- Performing Test HAS_FLTO
+-- Performing Test HAS_FLTO - Success
+-- Found pybind11: /home/zhr/miniconda3/envs/ptdgl2/lib/python3.9/site-packages/pybind11/include (found version "2.13.6")
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE
+-- Found CUDA: /usr/local/cuda (found version "11.4") 
+-- The CUDA compiler identification is NVIDIA 11.4.315
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: /usr/local/cuda/bin/nvcc - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Caffe2: CUDA detected: 11.4
+-- Caffe2: CUDA nvcc is: /usr/local/cuda/bin/nvcc
+-- Caffe2: CUDA toolkit directory: /usr/local/cuda
+-- Caffe2: Header version is: 11.4
+-- Found CUDNN: /usr/lib/aarch64-linux-gnu/libcudnn.so
+-- Found cuDNN: v8.6.0  (include: /usr/include, library: /usr/lib/aarch64-linux-gnu/libcudnn.so)
+-- /usr/local/cuda/lib64/libnvrtc.so shorthash is 7c7201d5

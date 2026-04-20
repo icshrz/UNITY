@@ -1,0 +1,26 @@
+1-hop:
+  roadca:
+    gather: 11.7
+    total: 52.1
+  wikitalk:
+    gather: 3.8
+    total: 24.1
+  gdelt:
+    gather: 3.8
+    total: 24.8
+  reddit:
+    gather: 4.4
+    total: 25.3
+2-hop:
+  roadca:
+    gather: 18.9
+    total: 67.4
+  wikitalk:
+    gather: 4.2
+    total: 39.3
+  gdelt:
+    gather: 19.5
+    total: 159.8
+  reddit:
+    gather: 15.7
+    total: 168.3

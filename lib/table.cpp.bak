@@ -1,0 +1,100 @@
+#include "unignn/table.h"
+
+namespace unignn {
+
+Table::Table() {
+    // Constructor implementation (optional)
+}
+
+
+std::unordered_map<size_t, size_t> Table::getNodeFeatureAddressMapping(const std::vector<size_t>& ids) {
+    // Create a new mapping for node features specific to this subgraph
+    std::unordered_map<size_t, size_t> subgraph_node_address_map;
+
+    // Loop through the input node ids
+    for (const auto& node_id : ids) {
+        // Check if the node_id exists in the global node feature address map
+        if (node_feature_address_mappings_.find(node_id) != node_feature_address_mappings_.end()) {
+            // Add the mapping to the subgraph-specific map
+            subgraph_node_address_map[node_id] = node_feature_address_mappings_[node_id];
+        } else {
+            // If the node_id does not exist, assign a default value (optional)
+            subgraph_node_address_map[node_id] = 0;  // Default or error value
+        }
+    }
+
+    // Return the subgraph node address map
+    return subgraph_node_address_map;
+}
+
+std::unordered_map<size_t, size_t> Table::getEdgeFeatureAddressMapping(const std::vector<size_t>& ids) {
+    // Create a new mapping for edge features specific to this subgraph
+    std::unordered_map<size_t, size_t> subgraph_edge_address_map;
+
+    // Loop through the input edge ids
+    for (const auto& edge_id : ids) {
+        // Check if the edge_id exists in the global edge feature address map
+        if (edge_feature_address_mappings_.find(edge_id) != edge_feature_address_mappings_.end()) {
+            // Add the mapping to the subgraph-specific map
+            subgraph_edge_address_map[edge_id] = edge_feature_address_mappings_[edge_id];
+        } else {
+            // If the edge_id does not exist, assign a default value (optional)
+            subgraph_edge_address_map[edge_id] = 0;  // Default or error value
+        }
+    }
+
+    // Return the subgraph edge address map
+    return subgraph_edge_address_map;
+}
+
+
+void Table::addFeatureAddress(std::unordered_map<size_t, size_t>& address_map, size_t id, size_t feature_address) {
+    // Add the feature address to the address map
+    address_map[id] = feature_address;
+}
+
+void Table::addNodeFeatureAddress(size_t node_id, size_t feature_address) {
+    // Add global feature address mapping (similar to the individual node/edge mappings)
+    addFeatureAddress(node_feature_address_mappings_, node_id, feature_address);
+}
+
+void Table::addEdgeFeatureAddress(size_t edge_id, size_t feature_address) {
+    // Add global feature address mapping (similar to the individual node/edge mappings)
+    addFeatureAddress(edge_feature_address_mappings_, edge_id, feature_address);
+}
+
+void Table::addNodeBatchFeatureAddress(const std::vector<size_t>& ids, const std::vector<size_t>& feature_addresses) {
+    // Check if the sizes of ids and feature_addresses are the same
+    if (ids.size() != feature_addresses.size()) {
+        std::cerr << "The number of IDs and feature addresses don't match." << std::endl;
+        return;  // Bail out if sizes don't match
+    }
+    // Add each id and corresponding feature address to the map
+    for (size_t i = 0; i < ids.size(); ++i) {
+        node_feature_address_mappings_[ids[i]] = feature_addresses[i];
+    }
+}
+
+void Table::addEdgeBatchFeatureAddress(const std::vector<size_t>& ids, const std::vector<size_t>& feature_addresses) {
+    // Check if the sizes of ids and feature_addresses are the same
+    if (ids.size() != feature_addresses.size()) {
+        std::cerr << "The number of IDs and feature addresses don't match." << std::endl;
+        return;  // Bail out if sizes don't match
+    }
+    // Add each id and corresponding feature address to the map
+    for (size_t i = 0; i < ids.size(); ++i) {
+        edge_feature_address_mappings_[ids[i]] = feature_addresses[i];
+    }
+}
+
+// Python bindings
+PYBIND11_MODULE(unignn, m) {
+    py::class_<Table>(m, "Table")
+        .def(py::init<>())  // Constructor
+        .def("getNodeFeatureAddressMapping", &Table::getNodeFeatureAddressMapping)
+        .def("getEdgeFeatureAddressMapping", &Table::getEdgeFeatureAddressMapping)
+        .def("addNodeFeatureAddress", &Table::addNodeFeatureAddress)
+        .def("addEdgeFeatureAddress", &Table::addEdgeFeatureAddress);
+}
+
+}  // namespace unignn

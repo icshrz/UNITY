@@ -1,0 +1,202 @@
+Loading model at epoch 0...
+Epoch 0:
+	test AP: 0.9882  test AUC: 0.9875
+Epoch 1:
+	test AP: 0.9966  test AUC: 0.9971
+Epoch 2:
+	test AP: 0.9963  test AUC: 0.9970
+Epoch 3:
+	test AP: 0.9957  test AUC: 0.9965
+Epoch 4:
+	test AP: 0.9953  test AUC: 0.9962
+Epoch 5:
+	test AP: 0.9952  test AUC: 0.9962
+Epoch 6:
+	test AP: 0.9948  test AUC: 0.9959
+Epoch 7:
+	test AP: 0.9942  test AUC: 0.9955
+Epoch 8:
+	test AP: 0.9948  test AUC: 0.9960
+Epoch 9:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 10:
+	test AP: 0.9946  test AUC: 0.9957
+Epoch 11:
+	test AP: 0.9944  test AUC: 0.9957
+Epoch 12:
+	test AP: 0.9951  test AUC: 0.9960
+Epoch 13:
+	test AP: 0.9946  test AUC: 0.9958
+Epoch 14:
+	test AP: 0.9945  test AUC: 0.9957
+Epoch 15:
+	test AP: 0.9948  test AUC: 0.9959
+Epoch 16:
+	test AP: 0.9947  test AUC: 0.9958
+Epoch 17:
+	test AP: 0.9950  test AUC: 0.9961
+Epoch 18:
+	test AP: 0.9953  test AUC: 0.9962
+Epoch 19:
+	test AP: 0.9949  test AUC: 0.9960
+Epoch 20:
+	test AP: 0.9957  test AUC: 0.9965
+Epoch 21:
+	test AP: 0.9955  test AUC: 0.9964
+Epoch 22:
+	test AP: 0.9954  test AUC: 0.9964
+Epoch 23:
+	test AP: 0.9957  test AUC: 0.9965
+Epoch 24:
+	test AP: 0.9958  test AUC: 0.9966
+Epoch 25:
+	test AP: 0.9959  test AUC: 0.9967
+Epoch 26:
+	test AP: 0.9960  test AUC: 0.9968
+Epoch 27:
+	test AP: 0.9961  test AUC: 0.9968
+Epoch 28:
+	test AP: 0.9961  test AUC: 0.9968
+Epoch 29:
+	test AP: 0.9960  test AUC: 0.9968
+Epoch 30:
+	test AP: 0.9961  test AUC: 0.9968
+Epoch 31:
+	test AP: 0.9961  test AUC: 0.9968
+Epoch 32:
+	test AP: 0.9959  test AUC: 0.9967
+Epoch 33:
+	test AP: 0.9959  test AUC: 0.9967
+Epoch 34:
+	test AP: 0.9956  test AUC: 0.9965
+Epoch 35:
+	test AP: 0.9958  test AUC: 0.9966
+Epoch 36:
+	test AP: 0.9953  test AUC: 0.9963
+Epoch 37:
+	test AP: 0.9956  test AUC: 0.9965
+Epoch 38:
+	test AP: 0.9955  test AUC: 0.9965
+Epoch 39:
+	test AP: 0.9956  test AUC: 0.9964
+Epoch 40:
+	test AP: 0.9955  test AUC: 0.9964
+Epoch 41:
+	test AP: 0.9956  test AUC: 0.9965
+Epoch 42:
+	test AP: 0.9955  test AUC: 0.9963
+Epoch 43:
+	test AP: 0.9952  test AUC: 0.9963
+Epoch 44:
+	test AP: 0.9951  test AUC: 0.9962
+Epoch 45:
+	test AP: 0.9952  test AUC: 0.9962
+Epoch 46:
+	test AP: 0.9951  test AUC: 0.9961
+Epoch 47:
+	test AP: 0.9951  test AUC: 0.9961
+Epoch 48:
+	test AP: 0.9950  test AUC: 0.9960
+Epoch 49:
+	test AP: 0.9950  test AUC: 0.9962
+Epoch 50:
+	test AP: 0.9943  test AUC: 0.9956
+Epoch 51:
+	test AP: 0.9944  test AUC: 0.9958
+Epoch 52:
+	test AP: 0.9946  test AUC: 0.9958
+Epoch 53:
+	test AP: 0.9949  test AUC: 0.9960
+Epoch 54:
+	test AP: 0.9947  test AUC: 0.9959
+Epoch 55:
+	test AP: 0.9944  test AUC: 0.9957
+Epoch 56:
+	test AP: 0.9946  test AUC: 0.9959
+Epoch 57:
+	test AP: 0.9945  test AUC: 0.9957
+Epoch 58:
+	test AP: 0.9944  test AUC: 0.9957
+Epoch 59:
+	test AP: 0.9944  test AUC: 0.9958
+Epoch 60:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 61:
+	test AP: 0.9942  test AUC: 0.9956
+Epoch 62:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 63:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 64:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 65:
+	test AP: 0.9943  test AUC: 0.9956
+Epoch 66:
+	test AP: 0.9940  test AUC: 0.9955
+Epoch 67:
+	test AP: 0.9939  test AUC: 0.9954
+Epoch 68:
+	test AP: 0.9939  test AUC: 0.9952
+Epoch 69:
+	test AP: 0.9935  test AUC: 0.9951
+Epoch 70:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 71:
+	test AP: 0.9939  test AUC: 0.9954
+Epoch 72:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 73:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 74:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 75:
+	test AP: 0.9936  test AUC: 0.9952
+Epoch 76:
+	test AP: 0.9935  test AUC: 0.9951
+Epoch 77:
+	test AP: 0.9938  test AUC: 0.9952
+Epoch 78:
+	test AP: 0.9941  test AUC: 0.9955
+Epoch 79:
+	test AP: 0.9937  test AUC: 0.9951
+Epoch 80:
+	test AP: 0.9934  test AUC: 0.9950
+Epoch 81:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 82:
+	test AP: 0.9931  test AUC: 0.9949
+Epoch 83:
+	test AP: 0.9937  test AUC: 0.9952
+Epoch 84:
+	test AP: 0.9933  test AUC: 0.9950
+Epoch 85:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 86:
+	test AP: 0.9939  test AUC: 0.9953
+Epoch 87:
+	test AP: 0.9935  test AUC: 0.9951
+Epoch 88:
+	test AP: 0.9936  test AUC: 0.9952
+Epoch 89:
+	test AP: 0.9933  test AUC: 0.9949
+Epoch 90:
+	test AP: 0.9934  test AUC: 0.9950
+Epoch 91:
+	test AP: 0.9932  test AUC: 0.9949
+Epoch 92:
+	test AP: 0.9933  test AUC: 0.9949
+Epoch 93:
+	test AP: 0.9935  test AUC: 0.9950
+Epoch 94:
+	test AP: 0.9935  test AUC: 0.9950
+Epoch 95:
+	test AP: 0.9931  test AUC: 0.9948
+Epoch 96:
+	test AP: 0.9925  test AUC: 0.9945
+Epoch 97:
+	test AP: 0.9930  test AUC: 0.9948
+Epoch 98:
+	test AP: 0.9933  test AUC: 0.9949
+Epoch 99:
+	test AP: 0.9931  test AUC: 0.9948
+	test AP:0.997720  test AUC:0.998005

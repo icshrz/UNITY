@@ -1,0 +1,32 @@
+TGAT:
+  UNITY MLP: 
+    WT: 22.2
+    REDDIT: 105.6
+    GDELT: 152.8
+    ROADCA: 75.9
+  Original MLP: 
+    WT: 21.7
+    REDDIT: 102.2
+    GDELT: 148.9
+    ROADCA: 66.5
+  Mapping Management:
+    WT: 1.55
+    REDDIT: 4.56
+    GDELT: 5.21
+    ROADCA: 0.25
+TGN:
+  UNITY MLP:
+    WT: 8.41
+    REDDIT: 7.84
+    GDELT: 5.58
+    ROADCA: 19.9
+  Original MLP:
+    WT: 8.25
+    REDDIT: 7.73
+    GDELT: 5.50
+    ROADCA: 18.8
+  Mapping Management:
+    WT: 0.39
+    REDDIT: 0.45
+    GDELT: 0.23
+    ROADCA: 0.27

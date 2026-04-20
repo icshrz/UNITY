@@ -1,0 +1,1849 @@
+Loading model at epoch 0...
+No model found at models/_config/TGN.yml.pkl, using randomly initialized weights.
+Executing sample task for batch 0
+nid shape: 7220
+eid shape: 5420
+Time taken for sample 0: 0.9759 seconds
+Executing sample task for batch 1
+nid shape: 7343
+eid shape: 5543
+Time taken for sample 1: 0.0069 seconds
+Executing sample task for batch 2
+nid shape: 7050
+eid shape: 5250
+Time taken for sample 2: 0.0086 seconds
+Executing sample task for batch 3
+nid shape: 6928
+eid shape: 5128
+Time taken for sample 3: 0.0084 seconds
+Executing sample task for batch 4
+nid shape: 6709
+eid shape: 4909
+Time taken for sample 4: 0.0087 seconds
+Executing sample task for batch 5
+nid shape: 6717
+eid shape: 4917
+Time taken for sample 5: 0.0068 seconds
+Executing sample task for batch 6
+nid shape: 6392
+eid shape: 4592
+Time taken for sample 6: 0.0081 seconds
+Executing sample task for batch 7
+nid shape: 6439
+eid shape: 4639
+Time taken for sample 7: 0.0072 seconds
+Executing sample task for batch 8
+nid shape: 6489
+eid shape: 4689
+Time taken for sample 8: 0.0070 seconds
+Executing sample task for batch 9
+nid shape: 6545
+eid shape: 4745
+Time taken for sample 9: 0.0083 seconds
+Executing sample task for batch 10
+nid shape: 6618
+eid shape: 4818
+Time taken for sample 10: 0.0072 seconds
+Time taken for prepare 0: 0.0850 seconds
+edge similarity: 0.33950701348222795
+nid shape: 6387
+eid shape: 4587
+Time taken for sample 11: 0.0079 seconds
+Time taken for prepare 0: 0.0887 seconds
+Time taken for update 0: 1.1500 seconds
+Time taken for qkv computation: 0.0108 seconds
+Time taken for att computation: 0.3478 seconds
+Time taken for another gather 0: 0.0008 seconds
+Time taken for another update: 0.0040 seconds
+Time taken for infer 0: 1.5607 seconds
+Time taken for batch 0 computation: 1.5676 seconds
+edge similarity: 0.3777304964539007
+nid shape: 6636
+eid shape: 4836
+Time taken for sample 12: 0.0075 seconds
+Time taken for prepare 1: 0.0805 seconds
+Time taken for update 1: 0.0111 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 1: 0.0006 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 1: 0.0735 seconds
+Time taken for batch 1 computation: 0.0887 seconds
+edge similarity: 0.332419168591224
+nid shape: 6542
+eid shape: 4742
+Time taken for sample 13: 0.0076 seconds
+Time taken for prepare 2: 0.0764 seconds
+Time taken for update 2: 0.0088 seconds
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 2: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 2: 0.0665 seconds
+Time taken for batch 2 computation: 0.0805 seconds
+edge similarity: 0.33253838127887914
+nid shape: 6511
+eid shape: 4711
+Time taken for sample 14: 0.0130 seconds
+Time taken for prepare 3: 0.0761 seconds
+Time taken for update 3: 0.0067 seconds
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 3: 0.0002 seconds
+Time taken for another update: 0.0037 seconds
+Time taken for infer 3: 0.0662 seconds
+Time taken for batch 3 computation: 0.0764 seconds
+edge similarity: 0.350305195771922
+nid shape: 6493
+eid shape: 4693
+Time taken for sample 15: 0.0092 seconds
+Time taken for prepare 4: 0.0715 seconds
+Time taken for update 4: 0.0061 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 4: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 4: 0.0606 seconds
+Time taken for batch 4 computation: 0.0761 seconds
+edge similarity: 0.3299436795994994
+nid shape: 6646
+eid shape: 4846
+Time taken for sample 16: 0.0084 seconds
+Time taken for prepare 5: 0.0706 seconds
+Time taken for update 5: 0.0058 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 5: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 5: 0.0602 seconds
+Time taken for batch 5 computation: 0.0715 seconds
+edge similarity: 0.26898586737070973
+nid shape: 6318
+eid shape: 4518
+Time taken for sample 17: 0.0106 seconds
+Time taken for prepare 6: 0.0689 seconds
+Time taken for update 6: 0.0059 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 6: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 6: 0.0583 seconds
+Time taken for batch 6 computation: 0.0706 seconds
+edge similarity: 0.33672368623824933
+nid shape: 6578
+eid shape: 4778
+Time taken for sample 18: 0.0110 seconds
+Time taken for prepare 7: 0.0692 seconds
+Time taken for update 7: 0.0060 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0041 seconds
+Time taken for another gather 7: 0.0001 seconds
+Time taken for another update: 0.0040 seconds
+Time taken for infer 7: 0.0604 seconds
+Time taken for batch 7 computation: 0.0689 seconds
+edge similarity: 0.293353705118411
+nid shape: 6385
+eid shape: 4585
+Time taken for sample 19: 0.0112 seconds
+Time taken for prepare 8: 0.0687 seconds
+Time taken for update 8: 0.0061 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 8: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 8: 0.0618 seconds
+Time taken for batch 8 computation: 0.0702 seconds
+edge similarity: 0.31776971894832273
+nid shape: 6570
+eid shape: 4770
+Time taken for sample 20: 0.0115 seconds
+Time taken for prepare 9: 0.0680 seconds
+Time taken for update 9: 0.0061 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 9: 0.0003 seconds
+Time taken for another update: 0.0036 seconds
+Time taken for infer 9: 0.0587 seconds
+Time taken for batch 9 computation: 0.0687 seconds
+edge similarity: 0.33709096602473776
+nid shape: 6606
+eid shape: 4806
+Time taken for sample 21: 0.0114 seconds
+Time taken for prepare 10: 0.0592 seconds
+Time taken for update 10: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 10: 0.0004 seconds
+Time taken for another update: 0.0043 seconds
+Time taken for infer 10: 0.0519 seconds
+Time taken for batch 10 computation: 0.0680 seconds
+edge similarity: 0.3037974683544304
+nid shape: 6281
+eid shape: 4481
+Time taken for sample 22: 0.0112 seconds
+Time taken for prepare 11: 0.0610 seconds
+Time taken for update 11: 0.0060 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 11: 0.0003 seconds
+Time taken for another update: 0.0038 seconds
+Time taken for infer 11: 0.0524 seconds
+Time taken for batch 11 computation: 0.0599 seconds
+edge similarity: 0.3546316111280954
+nid shape: 6707
+eid shape: 4907
+Time taken for sample 23: 0.0083 seconds
+Time taken for prepare 12: 0.0614 seconds
+Time taken for update 12: 0.0076 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 12: 0.0002 seconds
+Time taken for another update: 0.0046 seconds
+Time taken for infer 12: 0.0590 seconds
+Time taken for batch 12 computation: 0.0666 seconds
+edge similarity: 0.32621717094148367
+nid shape: 6458
+eid shape: 4658
+Time taken for sample 24: 0.0079 seconds
+Time taken for prepare 13: 0.0599 seconds
+Time taken for update 13: 0.0041 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 13: 0.0002 seconds
+Time taken for another update: 0.0042 seconds
+Time taken for infer 13: 0.0333 seconds
+Time taken for batch 13 computation: 0.0614 seconds
+edge similarity: 0.3186508547666718
+nid shape: 6441
+eid shape: 4641
+Time taken for sample 25: 0.0101 seconds
+Time taken for prepare 14: 0.0608 seconds
+Time taken for update 14: 0.0059 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 14: 0.0004 seconds
+Time taken for another update: 0.0047 seconds
+Time taken for infer 14: 0.0561 seconds
+Time taken for batch 14 computation: 0.0653 seconds
+edge similarity: 0.3528438158290701
+nid shape: 6278
+eid shape: 4478
+Time taken for sample 26: 0.0090 seconds
+Time taken for prepare 15: 0.0626 seconds
+Time taken for update 15: 0.0069 seconds
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 15: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 15: 0.0588 seconds
+Time taken for batch 15 computation: 0.0672 seconds
+edge similarity: 0.32826843937955047
+nid shape: 6438
+eid shape: 4638
+Time taken for sample 27: 0.0090 seconds
+Time taken for prepare 16: 0.0603 seconds
+Time taken for update 16: 0.0068 seconds
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0059 seconds
+Time taken for another gather 16: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 16: 0.0583 seconds
+Time taken for batch 16 computation: 0.0689 seconds
+edge similarity: 0.27333536029188205
+nid shape: 6457
+eid shape: 4657
+Time taken for sample 28: 0.0086 seconds
+Time taken for prepare 17: 0.0607 seconds
+Time taken for update 17: 0.0067 seconds
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0085 seconds
+Time taken for another gather 17: 0.0003 seconds
+Time taken for another update: 0.0046 seconds
+Time taken for infer 17: 0.0632 seconds
+Time taken for batch 17 computation: 0.0742 seconds
+edge similarity: 0.3542678151918559
+nid shape: 6582
+eid shape: 4782
+Time taken for sample 29: 0.0086 seconds
+Time taken for prepare 18: 0.0591 seconds
+Time taken for update 18: 0.0041 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 18: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 18: 0.0322 seconds
+Time taken for batch 18 computation: 0.0607 seconds
+edge similarity: 0.30121765601217654
+nid shape: 6475
+eid shape: 4675
+Time taken for sample 30: 0.0103 seconds
+Time taken for prepare 19: 0.0615 seconds
+Time taken for update 19: 0.0059 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 19: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 19: 0.0526 seconds
+Time taken for batch 19 computation: 0.0641 seconds
+edge similarity: 0.3184983348471087
+nid shape: 6406
+eid shape: 4606
+Time taken for sample 31: 0.0112 seconds
+Time taken for prepare 20: 0.0615 seconds
+Time taken for update 20: 0.0060 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 20: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 20: 0.0536 seconds
+Time taken for batch 20 computation: 0.0650 seconds
+edge similarity: 0.3513771692405668
+nid shape: 6353
+eid shape: 4553
+Time taken for sample 32: 0.0084 seconds
+Time taken for prepare 21: 0.0650 seconds
+Time taken for update 21: 0.0051 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 21: 0.0001 seconds
+Time taken for another update: 0.0027 seconds
+Time taken for infer 21: 0.0565 seconds
+Time taken for batch 21 computation: 0.0677 seconds
+edge similarity: 0.31564037572685255
+nid shape: 6553
+eid shape: 4753
+Time taken for sample 33: 0.0087 seconds
+Time taken for prepare 22: 0.0683 seconds
+Time taken for update 22: 0.0067 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 22: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 22: 0.0600 seconds
+Time taken for batch 22 computation: 0.0683 seconds
+edge similarity: 0.3567668008671415
+nid shape: 6605
+eid shape: 4805
+Time taken for sample 34: 0.0109 seconds
+Time taken for prepare 23: 0.0669 seconds
+Time taken for update 23: 0.0043 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 23: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 23: 0.0332 seconds
+Time taken for batch 23 computation: 0.0683 seconds
+edge similarity: 0.30600838379133677
+nid shape: 6489
+eid shape: 4689
+Time taken for sample 35: 0.0110 seconds
+Time taken for prepare 24: 0.0658 seconds
+Time taken for update 24: 0.0063 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 24: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 24: 0.0583 seconds
+Time taken for batch 24 computation: 0.0685 seconds
+edge similarity: 0.3405543166613571
+nid shape: 6476
+eid shape: 4676
+Time taken for sample 36: 0.0097 seconds
+Time taken for prepare 25: 0.0649 seconds
+Time taken for update 25: 0.0062 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 25: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 25: 0.0603 seconds
+Time taken for batch 25 computation: 0.0693 seconds
+edge similarity: 0.3066169617893756
+nid shape: 6267
+eid shape: 4467
+Time taken for sample 37: 0.0113 seconds
+Time taken for prepare 26: 0.0638 seconds
+Time taken for update 26: 0.0061 seconds
+Time taken for qkv computation: 0.0078 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 26: 0.0003 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 26: 0.0607 seconds
+Time taken for batch 26 computation: 0.0697 seconds
+edge similarity: 0.3472200712405142
+nid shape: 6593
+eid shape: 4793
+Time taken for sample 38: 0.0122 seconds
+Time taken for prepare 27: 0.0665 seconds
+Time taken for update 27: 0.0057 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 27: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 27: 0.0589 seconds
+Time taken for batch 27 computation: 0.0676 seconds
+edge similarity: 0.3305986022485567
+nid shape: 6539
+eid shape: 4739
+Time taken for sample 39: 0.0110 seconds
+Time taken for prepare 28: 0.0673 seconds
+Time taken for update 28: 0.0062 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 28: 0.0002 seconds
+Time taken for another update: 0.0044 seconds
+Time taken for infer 28: 0.0606 seconds
+Time taken for batch 28 computation: 0.0692 seconds
+edge similarity: 0.3233976833976834
+nid shape: 6338
+eid shape: 4538
+Time taken for sample 40: 0.0109 seconds
+Time taken for prepare 29: 0.0665 seconds
+Time taken for update 29: 0.0063 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 29: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 29: 0.0587 seconds
+Time taken for batch 29 computation: 0.0689 seconds
+edge similarity: 0.30705588510771153
+nid shape: 6301
+eid shape: 4501
+Time taken for sample 41: 0.0132 seconds
+Time taken for prepare 30: 0.0642 seconds
+Time taken for update 30: 0.0059 seconds
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 30: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 30: 0.0563 seconds
+Time taken for batch 30 computation: 0.0676 seconds
+edge similarity: 0.3300802770344719
+nid shape: 6372
+eid shape: 4572
+Time taken for sample 42: 0.0070 seconds
+Time taken for prepare 31: 0.0641 seconds
+Time taken for update 31: 0.0057 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 31: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 31: 0.0572 seconds
+Time taken for batch 31 computation: 0.0656 seconds
+edge similarity: 0.3316038455669159
+nid shape: 6540
+eid shape: 4740
+Time taken for sample 43: 0.0094 seconds
+Time taken for prepare 32: 0.0638 seconds
+Time taken for update 32: 0.0059 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 32: 0.0002 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 32: 0.0585 seconds
+Time taken for batch 32 computation: 0.0673 seconds
+edge similarity: 0.3265707797123391
+nid shape: 6159
+eid shape: 4359
+Time taken for sample 44: 0.0108 seconds
+Time taken for prepare 33: 0.0685 seconds
+Time taken for update 33: 0.0060 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 33: 0.0002 seconds
+Time taken for another update: 0.0039 seconds
+Time taken for infer 33: 0.0608 seconds
+Time taken for batch 33 computation: 0.0717 seconds
+edge similarity: 0.3445831406996456
+nid shape: 6355
+eid shape: 4555
+Time taken for sample 45: 0.0113 seconds
+Time taken for prepare 34: 0.0645 seconds
+Time taken for update 34: 0.0051 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 34: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 34: 0.0567 seconds
+Time taken for batch 34 computation: 0.0685 seconds
+edge similarity: 0.3092958616429895
+nid shape: 6300
+eid shape: 4500
+Time taken for sample 46: 0.0111 seconds
+Time taken for prepare 35: 0.0631 seconds
+Time taken for update 35: 0.0056 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 35: 0.0001 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 35: 0.0560 seconds
+Time taken for batch 35 computation: 0.0656 seconds
+edge similarity: 0.3188128291048348
+nid shape: 6605
+eid shape: 4805
+Time taken for sample 47: 0.0113 seconds
+Time taken for prepare 36: 0.0632 seconds
+Time taken for update 36: 0.0056 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 36: 0.0002 seconds
+Time taken for another update: 0.0028 seconds
+Time taken for infer 36: 0.0553 seconds
+Time taken for batch 36 computation: 0.0666 seconds
+edge similarity: 0.29076293038070683
+nid shape: 6506
+eid shape: 4706
+Time taken for sample 48: 0.0115 seconds
+Time taken for prepare 37: 0.0634 seconds
+Time taken for update 37: 0.0060 seconds
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 37: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 37: 0.0545 seconds
+Time taken for batch 37 computation: 0.0667 seconds
+edge similarity: 0.3084569506040679
+nid shape: 6444
+eid shape: 4644
+Time taken for sample 49: 0.0115 seconds
+Time taken for prepare 38: 0.0661 seconds
+Time taken for update 38: 0.0051 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 38: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 38: 0.0572 seconds
+Time taken for batch 38 computation: 0.0682 seconds
+edge similarity: 0.3070369201640896
+nid shape: 6752
+eid shape: 4952
+Time taken for sample 50: 0.0114 seconds
+Time taken for prepare 39: 0.0650 seconds
+Time taken for update 39: 0.0051 seconds
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 39: 0.0004 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 39: 0.0585 seconds
+Time taken for batch 39 computation: 0.0694 seconds
+edge similarity: 0.30185684811934616
+nid shape: 6444
+eid shape: 4644
+Time taken for sample 51: 0.0068 seconds
+Time taken for prepare 40: 0.0614 seconds
+Time taken for update 40: 0.0059 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 40: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 40: 0.0542 seconds
+Time taken for batch 40 computation: 0.0674 seconds
+edge similarity: 0.2945699937225361
+nid shape: 6870
+eid shape: 5070
+Time taken for sample 52: 0.0101 seconds
+Time taken for prepare 41: 0.0643 seconds
+Time taken for update 41: 0.0048 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 41: 0.0002 seconds
+Time taken for another update: 0.0037 seconds
+Time taken for infer 41: 0.0545 seconds
+Time taken for batch 41 computation: 0.0615 seconds
+edge similarity: 0.29204892966360857
+nid shape: 6309
+eid shape: 4509
+Time taken for sample 53: 0.0109 seconds
+Time taken for prepare 42: 0.0641 seconds
+Time taken for update 42: 0.0049 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 42: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 42: 0.0540 seconds
+Time taken for batch 42 computation: 0.0643 seconds
+edge similarity: 0.3524922877090437
+nid shape: 6208
+eid shape: 4408
+Time taken for sample 54: 0.0108 seconds
+Time taken for prepare 43: 0.0629 seconds
+Time taken for update 43: 0.0050 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 43: 0.0003 seconds
+Time taken for another update: 0.0047 seconds
+Time taken for infer 43: 0.0567 seconds
+Time taken for batch 43 computation: 0.0674 seconds
+edge similarity: 0.2981904012588513
+nid shape: 6403
+eid shape: 4603
+Time taken for sample 55: 0.0112 seconds
+Time taken for prepare 44: 0.0642 seconds
+Time taken for update 44: 0.0056 seconds
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 44: 0.0003 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 44: 0.0608 seconds
+Time taken for batch 44 computation: 0.0720 seconds
+edge similarity: 0.29984126984126985
+nid shape: 6800
+eid shape: 5000
+Time taken for sample 56: 0.0114 seconds
+Time taken for prepare 45: 0.0621 seconds
+Time taken for update 45: 0.0050 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 45: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 45: 0.0539 seconds
+Time taken for batch 45 computation: 0.0650 seconds
+edge similarity: 0.3320211960635882
+nid shape: 6388
+eid shape: 4588
+Time taken for sample 57: 0.0113 seconds
+Time taken for prepare 46: 0.0648 seconds
+Time taken for update 46: 0.0059 seconds
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 46: 0.0001 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 46: 0.0556 seconds
+Time taken for batch 46 computation: 0.0669 seconds
+edge similarity: 0.3283123270826929
+nid shape: 6104
+eid shape: 4304
+Time taken for sample 58: 0.0109 seconds
+Time taken for prepare 47: 0.0625 seconds
+Time taken for update 47: 0.0057 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 47: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 47: 0.0541 seconds
+Time taken for batch 47 computation: 0.0656 seconds
+edge similarity: 0.32433271260086904
+nid shape: 6210
+eid shape: 4410
+Time taken for sample 59: 0.0109 seconds
+Time taken for prepare 48: 0.0639 seconds
+Time taken for update 48: 0.0058 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 48: 0.0002 seconds
+Time taken for another update: 0.0046 seconds
+Time taken for infer 48: 0.0584 seconds
+Time taken for batch 48 computation: 0.0700 seconds
+edge similarity: 0.3461196682464455
+nid shape: 6477
+eid shape: 4677
+Time taken for sample 60: 0.0085 seconds
+Time taken for prepare 49: 0.0647 seconds
+Time taken for update 49: 0.0060 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 49: 0.0001 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 49: 0.0561 seconds
+Time taken for batch 49 computation: 0.0675 seconds
+edge similarity: 0.32464307883302296
+nid shape: 6375
+eid shape: 4575
+Time taken for sample 61: 0.0097 seconds
+Time taken for prepare 50: 0.0635 seconds
+Time taken for update 50: 0.0058 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0059 seconds
+Time taken for another gather 50: 0.0002 seconds
+Time taken for another update: 0.0047 seconds
+Time taken for infer 50: 0.0587 seconds
+Time taken for batch 50 computation: 0.0655 seconds
+edge similarity: 0.2992721979621543
+nid shape: 6542
+eid shape: 4742
+Time taken for sample 62: 0.0108 seconds
+Time taken for prepare 51: 0.0682 seconds
+Time taken for update 51: 0.0066 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 51: 0.0002 seconds
+Time taken for another update: 0.0039 seconds
+Time taken for infer 51: 0.0589 seconds
+Time taken for batch 51 computation: 0.0690 seconds
+edge similarity: 0.35695038833412585
+nid shape: 6480
+eid shape: 4680
+Time taken for sample 63: 0.0073 seconds
+Time taken for prepare 52: 0.0611 seconds
+Time taken for update 52: 0.0055 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 52: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 52: 0.0545 seconds
+Time taken for batch 52 computation: 0.0682 seconds
+edge similarity: 0.3247422680412371
+nid shape: 6722
+eid shape: 4922
+Time taken for sample 64: 0.0092 seconds
+Time taken for prepare 53: 0.0588 seconds
+Time taken for update 53: 0.0049 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 53: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 53: 0.0514 seconds
+Time taken for batch 53 computation: 0.0622 seconds
+edge similarity: 0.31407152897079493
+nid shape: 6750
+eid shape: 4950
+Time taken for sample 65: 0.0109 seconds
+Time taken for prepare 54: 0.0631 seconds
+Time taken for update 54: 0.0060 seconds
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 54: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 54: 0.0544 seconds
+Time taken for batch 54 computation: 0.0656 seconds
+edge similarity: 0.2863235294117647
+nid shape: 6463
+eid shape: 4663
+Time taken for sample 66: 0.0101 seconds
+Time taken for prepare 55: 0.0644 seconds
+Time taken for update 55: 0.0083 seconds
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 55: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 55: 0.0620 seconds
+Time taken for batch 55 computation: 0.0733 seconds
+edge similarity: 0.382592360676268
+nid shape: 6527
+eid shape: 4727
+Time taken for sample 67: 0.0081 seconds
+Time taken for prepare 56: 0.0619 seconds
+Time taken for update 56: 0.0051 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0102 seconds
+Time taken for another gather 56: 0.0002 seconds
+Time taken for another update: 0.0037 seconds
+Time taken for infer 56: 0.0638 seconds
+Time taken for batch 56 computation: 0.0751 seconds
+edge similarity: 0.33076671035386634
+nid shape: 6381
+eid shape: 4581
+Time taken for sample 68: 0.0083 seconds
+Time taken for prepare 57: 0.0632 seconds
+Time taken for update 57: 0.0063 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 57: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 57: 0.0405 seconds
+Time taken for batch 57 computation: 0.0619 seconds
+edge similarity: 0.30161030595813204
+nid shape: 6422
+eid shape: 4622
+Time taken for sample 69: 0.0074 seconds
+Time taken for prepare 58: 0.0611 seconds
+Time taken for update 58: 0.0275 seconds
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 58: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 58: 0.0906 seconds
+Time taken for batch 58 computation: 0.1015 seconds
+edge similarity: 0.28176624980700943
+nid shape: 6712
+eid shape: 4912
+Time taken for sample 70: 0.0082 seconds
+Time taken for prepare 59: 0.0642 seconds
+Time taken for update 59: 0.0058 seconds
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 59: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 59: 0.0612 seconds
+Time taken for batch 59 computation: 0.0697 seconds
+edge similarity: 0.35262745098039217
+nid shape: 6542
+eid shape: 4742
+Time taken for sample 71: 0.0079 seconds
+Time taken for prepare 60: 0.0622 seconds
+Time taken for update 60: 0.0053 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 60: 0.0002 seconds
+Time taken for another update: 0.0048 seconds
+Time taken for infer 60: 0.0431 seconds
+Time taken for batch 60 computation: 0.0642 seconds
+edge similarity: 0.3361357383063283
+nid shape: 6444
+eid shape: 4644
+Time taken for sample 72: 0.0084 seconds
+Time taken for prepare 61: 0.0648 seconds
+Time taken for update 61: 0.0064 seconds
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 61: 0.0006 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 61: 0.0420 seconds
+Time taken for batch 61 computation: 0.0622 seconds
+edge similarity: 0.3287037037037037
+nid shape: 6185
+eid shape: 4385
+Time taken for sample 73: 0.0081 seconds
+Time taken for prepare 62: 0.0632 seconds
+Time taken for update 62: 0.0059 seconds
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0098 seconds
+Time taken for another gather 62: 0.0002 seconds
+Time taken for another update: 0.0051 seconds
+Time taken for infer 62: 0.0443 seconds
+Time taken for batch 62 computation: 0.0648 seconds
+edge similarity: 0.3411187146682535
+nid shape: 6522
+eid shape: 4722
+Time taken for sample 74: 0.0107 seconds
+Time taken for prepare 63: 0.0655 seconds
+Time taken for update 63: 0.0060 seconds
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 63: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 63: 0.0393 seconds
+Time taken for batch 63 computation: 0.0632 seconds
+edge similarity: 0.32222222222222224
+nid shape: 6687
+eid shape: 4887
+Time taken for sample 75: 0.0093 seconds
+Time taken for prepare 64: 0.0658 seconds
+Time taken for update 64: 0.0079 seconds
+Time taken for qkv computation: 0.0066 seconds
+Time taken for att computation: 0.0078 seconds
+Time taken for another gather 64: 0.0002 seconds
+Time taken for another update: 0.0050 seconds
+Time taken for infer 64: 0.0672 seconds
+Time taken for batch 64 computation: 0.0781 seconds
+edge similarity: 0.3592758780751973
+nid shape: 6507
+eid shape: 4707
+Time taken for sample 76: 0.0087 seconds
+Time taken for prepare 65: 0.0606 seconds
+Time taken for update 65: 0.0055 seconds
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0077 seconds
+Time taken for another gather 65: 0.0002 seconds
+Time taken for another update: 0.0038 seconds
+Time taken for infer 65: 0.0406 seconds
+Time taken for batch 65 computation: 0.0658 seconds
+edge similarity: 0.3145396047188601
+nid shape: 6709
+eid shape: 4909
+Time taken for sample 77: 0.0078 seconds
+Time taken for prepare 66: 0.0613 seconds
+Time taken for update 66: 0.0084 seconds
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0080 seconds
+Time taken for another gather 66: 0.0002 seconds
+Time taken for another update: 0.0049 seconds
+Time taken for infer 66: 0.0646 seconds
+Time taken for batch 66 computation: 0.0727 seconds
+edge similarity: 0.306535025858016
+nid shape: 6615
+eid shape: 4815
+Time taken for sample 78: 0.0084 seconds
+Time taken for prepare 67: 0.0629 seconds
+Time taken for update 67: 0.0060 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 67: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 67: 0.0551 seconds
+Time taken for batch 67 computation: 0.0635 seconds
+edge similarity: 0.31781376518218624
+nid shape: 6623
+eid shape: 4823
+Time taken for sample 79: 0.0069 seconds
+Time taken for prepare 68: 0.0599 seconds
+Time taken for update 68: 0.0060 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0087 seconds
+Time taken for another gather 68: 0.0002 seconds
+Time taken for another update: 0.0042 seconds
+Time taken for infer 68: 0.0610 seconds
+Time taken for batch 68 computation: 0.0684 seconds
+edge similarity: 0.34833134684147793
+nid shape: 6762
+eid shape: 4962
+Time taken for sample 80: 0.0084 seconds
+Time taken for prepare 69: 0.0663 seconds
+Time taken for update 69: 0.0069 seconds
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0083 seconds
+Time taken for another gather 69: 0.0002 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 69: 0.0633 seconds
+Time taken for batch 69 computation: 0.0714 seconds
+edge similarity: 0.3054111892387649
+nid shape: 6712
+eid shape: 4912
+Time taken for sample 81: 0.0097 seconds
+Time taken for prepare 70: 0.0642 seconds
+Time taken for update 70: 0.0062 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 70: 0.0002 seconds
+Time taken for another update: 0.0037 seconds
+Time taken for infer 70: 0.0557 seconds
+Time taken for batch 70 computation: 0.0663 seconds
+edge similarity: 0.2852265673494724
+nid shape: 6608
+eid shape: 4808
+Time taken for sample 82: 0.0080 seconds
+Time taken for prepare 71: 0.0604 seconds
+Time taken for update 71: 0.0057 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 71: 0.0001 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 71: 0.0534 seconds
+Time taken for batch 71 computation: 0.0642 seconds
+edge similarity: 0.29345189975747776
+nid shape: 6754
+eid shape: 4954
+Time taken for sample 83: 0.0081 seconds
+Time taken for prepare 72: 0.0584 seconds
+Time taken for update 72: 0.0059 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 72: 0.0003 seconds
+Time taken for another update: 0.0042 seconds
+Time taken for infer 72: 0.0543 seconds
+Time taken for batch 72 computation: 0.0624 seconds
+edge similarity: 0.3084943268935909
+nid shape: 6717
+eid shape: 4917
+Time taken for sample 84: 0.0071 seconds
+Time taken for prepare 73: 0.0613 seconds
+Time taken for update 73: 0.0061 seconds
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 73: 0.0002 seconds
+Time taken for another update: 0.0037 seconds
+Time taken for infer 73: 0.0536 seconds
+Time taken for batch 73 computation: 0.0643 seconds
+edge similarity: 0.34768954688200987
+nid shape: 6523
+eid shape: 4723
+Time taken for sample 85: 0.0067 seconds
+Time taken for prepare 74: 0.0626 seconds
+Time taken for update 74: 0.0284 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 74: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 74: 0.0904 seconds
+Time taken for batch 74 computation: 0.0997 seconds
+edge similarity: 0.34163208852005533
+nid shape: 6738
+eid shape: 4938
+Time taken for sample 86: 0.0075 seconds
+Time taken for prepare 75: 0.0614 seconds
+Time taken for update 75: 0.0059 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 75: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 75: 0.0561 seconds
+Time taken for batch 75 computation: 0.0648 seconds
+edge similarity: 0.3274705619317335
+nid shape: 6523
+eid shape: 4723
+Time taken for sample 87: 0.0075 seconds
+Time taken for prepare 76: 0.0653 seconds
+Time taken for update 76: 0.0062 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 76: 0.0001 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 76: 0.0581 seconds
+Time taken for batch 76 computation: 0.0658 seconds
+edge similarity: 0.32123960695389264
+nid shape: 6585
+eid shape: 4785
+Time taken for sample 88: 0.0064 seconds
+Time taken for prepare 77: 0.0639 seconds
+Time taken for update 77: 0.0060 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 77: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 77: 0.0550 seconds
+Time taken for batch 77 computation: 0.0653 seconds
+edge similarity: 0.3448588253057527
+nid shape: 6958
+eid shape: 5158
+Time taken for sample 89: 0.0103 seconds
+Time taken for prepare 78: 0.0632 seconds
+Time taken for update 78: 0.0057 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 78: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 78: 0.0548 seconds
+Time taken for batch 78 computation: 0.0639 seconds
+edge similarity: 0.323868677905945
+nid shape: 6603
+eid shape: 4803
+Time taken for sample 90: 0.0109 seconds
+Time taken for prepare 79: 0.0647 seconds
+Time taken for update 79: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 79: 0.0002 seconds
+Time taken for another update: 0.0049 seconds
+Time taken for infer 79: 0.0565 seconds
+Time taken for batch 79 computation: 0.0649 seconds
+edge similarity: 0.3626340882002384
+nid shape: 6594
+eid shape: 4794
+Time taken for sample 91: 0.0086 seconds
+Time taken for prepare 80: 0.0647 seconds
+Time taken for update 80: 0.0061 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 80: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 80: 0.0557 seconds
+Time taken for batch 80 computation: 0.0654 seconds
+edge similarity: 0.32778450363196127
+nid shape: 6812
+eid shape: 5012
+Time taken for sample 92: 0.0072 seconds
+Time taken for prepare 81: 0.0645 seconds
+Time taken for update 81: 0.0058 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 81: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 81: 0.0556 seconds
+Time taken for batch 81 computation: 0.0647 seconds
+edge similarity: 0.32721350310926856
+nid shape: 6521
+eid shape: 4721
+Time taken for sample 93: 0.0101 seconds
+Time taken for prepare 82: 0.0642 seconds
+Time taken for update 82: 0.0062 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 82: 0.0003 seconds
+Time taken for another update: 0.0030 seconds
+Time taken for infer 82: 0.0538 seconds
+Time taken for batch 82 computation: 0.0645 seconds
+edge similarity: 0.3337799612922436
+nid shape: 6785
+eid shape: 4985
+Time taken for sample 94: 0.0109 seconds
+Time taken for prepare 83: 0.0646 seconds
+Time taken for update 83: 0.0060 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 83: 0.0003 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 83: 0.0577 seconds
+Time taken for batch 83 computation: 0.0648 seconds
+edge similarity: 0.3128928407174613
+nid shape: 6739
+eid shape: 4939
+Time taken for sample 95: 0.0108 seconds
+Time taken for prepare 84: 0.0622 seconds
+Time taken for update 84: 0.0061 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 84: 0.0002 seconds
+Time taken for another update: 0.0036 seconds
+Time taken for infer 84: 0.0546 seconds
+Time taken for batch 84 computation: 0.0646 seconds
+edge similarity: 0.3400118729593351
+nid shape: 6665
+eid shape: 4865
+Time taken for sample 96: 0.0114 seconds
+Time taken for prepare 85: 0.0674 seconds
+Time taken for update 85: 0.0062 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 85: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 85: 0.0587 seconds
+Time taken for batch 85 computation: 0.0662 seconds
+edge similarity: 0.33895446880269814
+nid shape: 6858
+eid shape: 5058
+Time taken for sample 97: 0.0118 seconds
+Time taken for prepare 86: 0.0645 seconds
+Time taken for update 86: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 86: 0.0002 seconds
+Time taken for another update: 0.0062 seconds
+Time taken for infer 86: 0.0594 seconds
+Time taken for batch 86 computation: 0.0674 seconds
+edge similarity: 0.31662870159453305
+nid shape: 6658
+eid shape: 4858
+Time taken for sample 98: 0.0078 seconds
+Time taken for prepare 87: 0.0619 seconds
+Time taken for update 87: 0.0061 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 87: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 87: 0.0544 seconds
+Time taken for batch 87 computation: 0.0645 seconds
+edge similarity: 0.30569129060074735
+nid shape: 6909
+eid shape: 5109
+Time taken for sample 99: 0.0104 seconds
+Time taken for prepare 88: 0.0682 seconds
+Time taken for update 88: 0.0051 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 88: 0.0002 seconds
+Time taken for another update: 0.0038 seconds
+Time taken for infer 88: 0.0584 seconds
+Time taken for batch 88 computation: 0.0687 seconds
+edge similarity: 0.3954263213690747
+nid shape: 6732
+eid shape: 4932
+Time taken for sample 100: 0.0110 seconds
+Time taken for prepare 89: 0.0633 seconds
+Time taken for update 89: 0.0067 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 89: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 89: 0.0554 seconds
+Time taken for batch 89 computation: 0.0682 seconds
+edge similarity: 0.35668789808917195
+nid shape: 6952
+eid shape: 5152
+Time taken for sample 101: 0.0110 seconds
+Time taken for prepare 90: 0.0643 seconds
+Time taken for update 90: 0.0057 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 90: 0.0002 seconds
+Time taken for another update: 0.0055 seconds
+Time taken for infer 90: 0.0558 seconds
+Time taken for batch 90 computation: 0.0644 seconds
+edge similarity: 0.33279506752789195
+nid shape: 6574
+eid shape: 4774
+Time taken for sample 102: 0.0118 seconds
+Time taken for prepare 91: 0.0660 seconds
+Time taken for update 91: 0.0063 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 91: 0.0003 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 91: 0.0592 seconds
+Time taken for batch 91 computation: 0.0664 seconds
+edge similarity: 0.3395184787609262
+nid shape: 6311
+eid shape: 4511
+Time taken for sample 103: 0.0109 seconds
+Time taken for prepare 92: 0.0631 seconds
+Time taken for update 92: 0.0050 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 92: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 92: 0.0536 seconds
+Time taken for batch 92 computation: 0.0660 seconds
+edge similarity: 0.2879882092851879
+nid shape: 6572
+eid shape: 4772
+Time taken for sample 104: 0.0113 seconds
+Time taken for prepare 93: 0.0662 seconds
+Time taken for update 93: 0.0052 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 93: 0.0003 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 93: 0.0560 seconds
+Time taken for batch 93 computation: 0.0669 seconds
+edge similarity: 0.3294257308205965
+nid shape: 6144
+eid shape: 4344
+Time taken for sample 105: 0.0109 seconds
+Time taken for prepare 94: 0.0644 seconds
+Time taken for update 94: 0.0052 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 94: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 94: 0.0543 seconds
+Time taken for batch 94 computation: 0.0662 seconds
+edge similarity: 0.36159039759939987
+nid shape: 6478
+eid shape: 4678
+Time taken for sample 106: 0.0101 seconds
+Time taken for prepare 95: 0.0659 seconds
+Time taken for update 95: 0.0060 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 95: 0.0003 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 95: 0.0564 seconds
+Time taken for batch 95 computation: 0.0677 seconds
+edge similarity: 0.33756197142023914
+nid shape: 6838
+eid shape: 5038
+Time taken for sample 107: 0.0079 seconds
+Time taken for prepare 96: 0.0630 seconds
+Time taken for update 96: 0.0061 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 96: 0.0002 seconds
+Time taken for another update: 0.0040 seconds
+Time taken for infer 96: 0.0551 seconds
+Time taken for batch 96 computation: 0.0669 seconds
+edge similarity: 0.36887954340642837
+nid shape: 6838
+eid shape: 5038
+Time taken for sample 108: 0.0116 seconds
+Time taken for prepare 97: 0.0639 seconds
+Time taken for update 97: 0.0060 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 97: 0.0001 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 97: 0.0547 seconds
+Time taken for batch 97 computation: 0.0630 seconds
+edge similarity: 0.33608336951802
+nid shape: 6741
+eid shape: 4941
+Time taken for sample 109: 0.0112 seconds
+Time taken for prepare 98: 0.0637 seconds
+Time taken for update 98: 0.0058 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 98: 0.0002 seconds
+Time taken for another update: 0.0029 seconds
+Time taken for infer 98: 0.0532 seconds
+Time taken for batch 98 computation: 0.0639 seconds
+edge similarity: 0.3480392156862745
+nid shape: 6508
+eid shape: 4708
+Time taken for sample 110: 0.0110 seconds
+Time taken for prepare 99: 0.0614 seconds
+Time taken for update 99: 0.0061 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0072 seconds
+Time taken for another gather 99: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 99: 0.0562 seconds
+Time taken for batch 99 computation: 0.0672 seconds
+edge similarity: 0.32897008055235905
+nid shape: 6963
+eid shape: 5163
+Time taken for sample 111: 0.0112 seconds
+Time taken for prepare 100: 0.0649 seconds
+Time taken for update 100: 0.0061 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 100: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 100: 0.0548 seconds
+Time taken for batch 100 computation: 0.0659 seconds
+edge similarity: 0.3360206875570429
+nid shape: 6510
+eid shape: 4710
+Time taken for sample 112: 0.0109 seconds
+Time taken for prepare 101: 0.0597 seconds
+Time taken for update 101: 0.0063 seconds
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 101: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 101: 0.0529 seconds
+Time taken for batch 101 computation: 0.0649 seconds
+edge similarity: 0.3438440817620029
+nid shape: 6639
+eid shape: 4839
+Time taken for sample 113: 0.0110 seconds
+Time taken for prepare 102: 0.0594 seconds
+Time taken for update 102: 0.0050 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 102: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 102: 0.0513 seconds
+Time taken for batch 102 computation: 0.0621 seconds
+edge similarity: 0.3160377358490566
+nid shape: 6531
+eid shape: 4731
+Time taken for sample 114: 0.0109 seconds
+Time taken for prepare 103: 0.0624 seconds
+Time taken for update 103: 0.0062 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 103: 0.0002 seconds
+Time taken for another update: 0.0038 seconds
+Time taken for infer 103: 0.0543 seconds
+Time taken for batch 103 computation: 0.0656 seconds
+edge similarity: 0.3714192708333333
+nid shape: 6881
+eid shape: 5081
+Time taken for sample 115: 0.0115 seconds
+Time taken for prepare 104: 0.0573 seconds
+Time taken for update 104: 0.0058 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 104: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 104: 0.0524 seconds
+Time taken for batch 104 computation: 0.0634 seconds
+edge similarity: 0.32185859833281877
+nid shape: 6512
+eid shape: 4712
+Time taken for sample 116: 0.0065 seconds
+Time taken for prepare 105: 0.0612 seconds
+Time taken for update 105: 0.0050 seconds
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 105: 0.0001 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 105: 0.0540 seconds
+Time taken for batch 105 computation: 0.0641 seconds
+edge similarity: 0.3119333138344545
+nid shape: 6625
+eid shape: 4825
+Time taken for sample 117: 0.0109 seconds
+Time taken for prepare 106: 0.0628 seconds
+Time taken for update 106: 0.0061 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 106: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 106: 0.0548 seconds
+Time taken for batch 106 computation: 0.0628 seconds
+edge similarity: 0.3512723018426441
+nid shape: 6845
+eid shape: 5045
+Time taken for sample 118: 0.0112 seconds
+Time taken for prepare 107: 0.0631 seconds
+Time taken for update 107: 0.0061 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 107: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 107: 0.0557 seconds
+Time taken for batch 107 computation: 0.0673 seconds
+edge similarity: 0.3073727933541018
+nid shape: 6956
+eid shape: 5156
+Time taken for sample 119: 0.0119 seconds
+Time taken for prepare 108: 0.0625 seconds
+Time taken for update 108: 0.0061 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 108: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 108: 0.0544 seconds
+Time taken for batch 108 computation: 0.0656 seconds
+edge similarity: 0.34711124769514445
+nid shape: 6526
+eid shape: 4726
+Time taken for sample 120: 0.0107 seconds
+Time taken for prepare 109: 0.0611 seconds
+Time taken for update 109: 0.0051 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 109: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 109: 0.0526 seconds
+Time taken for batch 109 computation: 0.0637 seconds
+edge similarity: 0.26583369237397675
+nid shape: 6888
+eid shape: 5088
+Time taken for sample 121: 0.0108 seconds
+Time taken for prepare 110: 0.0660 seconds
+Time taken for update 110: 0.0061 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 110: 0.0002 seconds
+Time taken for another update: 0.0030 seconds
+Time taken for infer 110: 0.0552 seconds
+Time taken for batch 110 computation: 0.0664 seconds
+edge similarity: 0.3244239631336406
+nid shape: 6413
+eid shape: 4613
+Time taken for sample 122: 0.0114 seconds
+Time taken for prepare 111: 0.0603 seconds
+Time taken for update 111: 0.0052 seconds
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 111: 0.0002 seconds
+Time taken for another update: 0.0029 seconds
+Time taken for infer 111: 0.0517 seconds
+Time taken for batch 111 computation: 0.0660 seconds
+edge similarity: 0.31089019430637144
+nid shape: 6573
+eid shape: 4773
+Time taken for sample 123: 0.0113 seconds
+Time taken for prepare 112: 0.0633 seconds
+Time taken for update 112: 0.0068 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 112: 0.0002 seconds
+Time taken for another update: 0.0031 seconds
+Time taken for infer 112: 0.0550 seconds
+Time taken for batch 112 computation: 0.0660 seconds
+edge similarity: 0.29934160159240547
+nid shape: 6647
+eid shape: 4847
+Time taken for sample 124: 0.0109 seconds
+Time taken for prepare 113: 0.0601 seconds
+Time taken for update 113: 0.0064 seconds
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 113: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 113: 0.0522 seconds
+Time taken for batch 113 computation: 0.0633 seconds
+edge similarity: 0.28949280627815727
+nid shape: 6629
+eid shape: 4829
+Time taken for sample 125: 0.0103 seconds
+Time taken for prepare 114: 0.0688 seconds
+Time taken for update 114: 0.0060 seconds
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 114: 0.0002 seconds
+Time taken for another update: 0.0051 seconds
+Time taken for infer 114: 0.0595 seconds
+Time taken for batch 114 computation: 0.0710 seconds
+edge similarity: 0.32017813267813267
+nid shape: 6694
+eid shape: 4894
+Time taken for sample 126: 0.0072 seconds
+Time taken for prepare 115: 0.0598 seconds
+Time taken for update 115: 0.0073 seconds
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0081 seconds
+Time taken for another gather 115: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 115: 0.0598 seconds
+Time taken for batch 115 computation: 0.0688 seconds
+edge similarity: 0.31154716981132075
+nid shape: 6756
+eid shape: 4956
+Time taken for sample 127: 0.0080 seconds
+Time taken for prepare 116: 0.0627 seconds
+Time taken for update 116: 0.0048 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 116: 0.0002 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 116: 0.0550 seconds
+Time taken for batch 116 computation: 0.0659 seconds
+edge similarity: 0.3151205259313367
+nid shape: 6622
+eid shape: 4822
+Time taken for sample 128: 0.0071 seconds
+Time taken for prepare 117: 0.0638 seconds
+Time taken for update 117: 0.0054 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 117: 0.0002 seconds
+Time taken for another update: 0.0028 seconds
+Time taken for infer 117: 0.0535 seconds
+Time taken for batch 117 computation: 0.0647 seconds
+edge similarity: 0.37492811960897066
+nid shape: 6743
+eid shape: 4943
+Time taken for sample 129: 0.0104 seconds
+Time taken for prepare 118: 0.0637 seconds
+Time taken for update 118: 0.0061 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 118: 0.0001 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 118: 0.0542 seconds
+Time taken for batch 118 computation: 0.0661 seconds
+edge similarity: 0.3694452957401165
+nid shape: 6858
+eid shape: 5058
+Time taken for sample 130: 0.0111 seconds
+Time taken for prepare 119: 0.0631 seconds
+Time taken for update 119: 0.0059 seconds
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 119: 0.0002 seconds
+Time taken for another update: 0.0039 seconds
+Time taken for infer 119: 0.0561 seconds
+Time taken for batch 119 computation: 0.0668 seconds
+edge similarity: 0.30647502903600465
+nid shape: 6652
+eid shape: 4852
+Time taken for sample 131: 0.0109 seconds
+Time taken for prepare 120: 0.0636 seconds
+Time taken for update 120: 0.0062 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 120: 0.0002 seconds
+Time taken for another update: 0.0040 seconds
+Time taken for infer 120: 0.0546 seconds
+Time taken for batch 120 computation: 0.0655 seconds
+edge similarity: 0.3545922345236239
+nid shape: 6809
+eid shape: 5009
+Time taken for sample 132: 0.0116 seconds
+Time taken for prepare 121: 0.0609 seconds
+Time taken for update 121: 0.0068 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 121: 0.0004 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 121: 0.0544 seconds
+Time taken for batch 121 computation: 0.0659 seconds
+edge similarity: 0.32101019321466606
+nid shape: 6512
+eid shape: 4712
+Time taken for sample 133: 0.0114 seconds
+Time taken for prepare 122: 0.0593 seconds
+Time taken for update 122: 0.0053 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 122: 0.0001 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 122: 0.0516 seconds
+Time taken for batch 122 computation: 0.0629 seconds
+edge similarity: 0.35685271551075676
+nid shape: 6552
+eid shape: 4752
+Time taken for sample 134: 0.0113 seconds
+Time taken for prepare 123: 0.0631 seconds
+Time taken for update 123: 0.0061 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 123: 0.0003 seconds
+Time taken for another update: 0.0044 seconds
+Time taken for infer 123: 0.0580 seconds
+Time taken for batch 123 computation: 0.0689 seconds
+edge similarity: 0.35103333836174383
+nid shape: 6530
+eid shape: 4730
+Time taken for sample 135: 0.0080 seconds
+Time taken for prepare 124: 0.0611 seconds
+Time taken for update 124: 0.0056 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 124: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 124: 0.0526 seconds
+Time taken for batch 124 computation: 0.0631 seconds
+edge similarity: 0.32850313713773527
+nid shape: 6402
+eid shape: 4602
+Time taken for sample 136: 0.0111 seconds
+Time taken for prepare 125: 0.0628 seconds
+Time taken for update 125: 0.0062 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 125: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 125: 0.0534 seconds
+Time taken for batch 125 computation: 0.0611 seconds
+edge similarity: 0.3426583777383067
+nid shape: 6637
+eid shape: 4837
+Time taken for sample 137: 0.0108 seconds
+Time taken for prepare 126: 0.0645 seconds
+Time taken for update 126: 0.0062 seconds
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 126: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 126: 0.0545 seconds
+Time taken for batch 126 computation: 0.0628 seconds
+edge similarity: 0.3607671398369073
+nid shape: 6701
+eid shape: 4901
+Time taken for sample 138: 0.0116 seconds
+Time taken for prepare 127: 0.0626 seconds
+Time taken for update 127: 0.0057 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 127: 0.0002 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 127: 0.0532 seconds
+Time taken for batch 127 computation: 0.0645 seconds
+edge similarity: 0.30416728459142817
+nid shape: 6776
+eid shape: 4976
+Time taken for sample 139: 0.0107 seconds
+Time taken for prepare 128: 0.0629 seconds
+Time taken for update 128: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 128: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 128: 0.0529 seconds
+Time taken for batch 128 computation: 0.0633 seconds
+edge similarity: 0.3328958880139983
+nid shape: 6812
+eid shape: 5012
+Time taken for sample 140: 0.0112 seconds
+Time taken for prepare 129: 0.0632 seconds
+Time taken for update 129: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 129: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 129: 0.0535 seconds
+Time taken for batch 129 computation: 0.0646 seconds
+edge similarity: 0.3550811785929044
+nid shape: 6770
+eid shape: 4970
+Time taken for sample 141: 0.0111 seconds
+Time taken for prepare 130: 0.0618 seconds
+Time taken for update 130: 0.0060 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 130: 0.0002 seconds
+Time taken for another update: 0.0028 seconds
+Time taken for infer 130: 0.0519 seconds
+Time taken for batch 130 computation: 0.0632 seconds
+edge similarity: 0.3219268615068292
+nid shape: 6693
+eid shape: 4893
+Time taken for sample 142: 0.0108 seconds
+Time taken for prepare 131: 0.0638 seconds
+Time taken for update 131: 0.0061 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0077 seconds
+Time taken for another gather 131: 0.0001 seconds
+Time taken for another update: 0.0035 seconds
+Time taken for infer 131: 0.0592 seconds
+Time taken for batch 131 computation: 0.0708 seconds
+edge similarity: 0.3286240786240786
+nid shape: 6738
+eid shape: 4938
+Time taken for sample 143: 0.0112 seconds
+Time taken for prepare 132: 0.0614 seconds
+Time taken for update 132: 0.0062 seconds
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 132: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 132: 0.0554 seconds
+Time taken for batch 132 computation: 0.0668 seconds
+edge similarity: 0.3676739926739927
+nid shape: 6465
+eid shape: 4665
+Time taken for sample 144: 0.0071 seconds
+Time taken for prepare 133: 0.0614 seconds
+Time taken for update 133: 0.0062 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 133: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 133: 0.0542 seconds
+Time taken for batch 133 computation: 0.0655 seconds
+edge similarity: 0.32052067381317
+nid shape: 7087
+eid shape: 5287
+Time taken for sample 145: 0.0094 seconds
+Time taken for prepare 134: 0.0599 seconds
+Time taken for update 134: 0.0057 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 134: 0.0002 seconds
+Time taken for another update: 0.0041 seconds
+Time taken for infer 134: 0.0527 seconds
+Time taken for batch 134 computation: 0.0614 seconds
+edge similarity: 0.3336457357075914
+nid shape: 6653
+eid shape: 4853
+Time taken for sample 146: 0.0115 seconds
+Time taken for prepare 135: 0.0597 seconds
+Time taken for update 135: 0.0057 seconds
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 135: 0.0004 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 135: 0.0519 seconds
+Time taken for batch 135 computation: 0.0630 seconds
+edge similarity: 0.3008889558535483
+nid shape: 6784
+eid shape: 4984
+Time taken for sample 147: 0.0110 seconds
+Time taken for prepare 136: 0.0628 seconds
+Time taken for update 136: 0.0065 seconds
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 136: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 136: 0.0543 seconds
+Time taken for batch 136 computation: 0.0652 seconds
+edge similarity: 0.30502910013430834
+nid shape: 6792
+eid shape: 4992
+Time taken for sample 148: 0.0112 seconds
+Time taken for prepare 137: 0.0626 seconds
+Time taken for update 137: 0.0061 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 137: 0.0002 seconds
+Time taken for another update: 0.0046 seconds
+Time taken for infer 137: 0.0541 seconds
+Time taken for batch 137 computation: 0.0657 seconds
+edge similarity: 0.31995277449822906
+nid shape: 6617
+eid shape: 4817
+Time taken for sample 149: 0.0116 seconds
+Time taken for prepare 138: 0.0611 seconds
+Time taken for update 138: 0.0061 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 138: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 138: 0.0524 seconds
+Time taken for batch 138 computation: 0.0631 seconds
+edge similarity: 0.3602466236054022
+nid shape: 6825
+eid shape: 5025
+Time taken for sample 150: 0.0115 seconds
+Time taken for prepare 139: 0.0630 seconds
+Time taken for update 139: 0.0058 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0067 seconds
+Time taken for another gather 139: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 139: 0.0562 seconds
+Time taken for batch 139 computation: 0.0674 seconds
+edge similarity: 0.32141802067946823
+nid shape: 6594
+eid shape: 4794
+Time taken for sample 151: 0.0111 seconds
+Time taken for prepare 140: 0.0616 seconds
+Time taken for update 140: 0.0063 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 140: 0.0001 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 140: 0.0522 seconds
+Time taken for batch 140 computation: 0.0633 seconds
+edge similarity: 0.3517107425668609
+nid shape: 7063
+eid shape: 5263
+Time taken for sample 152: 0.0112 seconds
+Time taken for prepare 141: 0.0621 seconds
+Time taken for update 141: 0.0060 seconds
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 141: 0.0002 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 141: 0.0531 seconds
+Time taken for batch 141 computation: 0.0639 seconds
+edge similarity: 0.360937963787474
+nid shape: 6359
+eid shape: 4559
+Time taken for sample 153: 0.0101 seconds
+Time taken for prepare 142: 0.0640 seconds
+Time taken for update 142: 0.0060 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 142: 0.0001 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 142: 0.0528 seconds
+Time taken for batch 142 computation: 0.0639 seconds
+edge similarity: 0.3539056457849961
+nid shape: 6803
+eid shape: 5003
+Time taken for sample 154: 0.0105 seconds
+Time taken for prepare 143: 0.0609 seconds
+Time taken for update 143: 0.0062 seconds
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 143: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 143: 0.0524 seconds
+Time taken for batch 143 computation: 0.0640 seconds
+edge similarity: 0.32383236912656976
+nid shape: 6957
+eid shape: 5157
+Time taken for sample 155: 0.0108 seconds
+Time taken for prepare 144: 0.0647 seconds
+Time taken for update 144: 0.0066 seconds
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 144: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 144: 0.0557 seconds
+Time taken for batch 144 computation: 0.0650 seconds
+edge similarity: 0.3801292649932361
+nid shape: 6457
+eid shape: 4657
+Time taken for sample 156: 0.0111 seconds
+Time taken for prepare 145: 0.0612 seconds
+Time taken for update 145: 0.0063 seconds
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 145: 0.0002 seconds
+Time taken for another update: 0.0045 seconds
+Time taken for infer 145: 0.0549 seconds
+Time taken for batch 145 computation: 0.0664 seconds
+edge similarity: 0.3256191037735849
+nid shape: 6412
+eid shape: 4612
+Time taken for sample 157: 0.0109 seconds
+Time taken for prepare 146: 0.0625 seconds
+Time taken for update 146: 0.0044 seconds
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 146: 0.0002 seconds
+Time taken for another update: 0.0033 seconds
+Time taken for infer 146: 0.0319 seconds
+Time taken for batch 146 computation: 0.0612 seconds
+edge similarity: 0.34260895170789163
+nid shape: 6720
+eid shape: 4920
+Time taken for sample 158: 0.0109 seconds
+Time taken for prepare 147: 0.0621 seconds
+Time taken for update 147: 0.0065 seconds
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 147: 0.0004 seconds
+Time taken for another update: 0.0034 seconds
+Time taken for infer 147: 0.0572 seconds
+Time taken for batch 147 computation: 0.0684 seconds
+edge similarity: 0.3642133897536648
+nid shape: 6833
+eid shape: 5033
+Time taken for sample 159: 0.0113 seconds
+Time taken for prepare 148: 0.0615 seconds
+Time taken for update 148: 0.0058 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 148: 0.0002 seconds
+Time taken for another update: 0.0032 seconds
+Time taken for infer 148: 0.0519 seconds
+Time taken for batch 148 computation: 0.0636 seconds
+edge similarity: 0.32556776556776557
+nid shape: 6895
+eid shape: 5095
+Time taken for sample 160: 0.0084 seconds
+Time taken for prepare 149: 0.0625 seconds
+Time taken for update 149: 0.0042 seconds
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 149: 0.0001 seconds
+Time taken for another update: 0.0042 seconds
+Time taken for infer 149: 0.0329 seconds
+Time taken for batch 149 computation: 0.0615 seconds
+peak memory: 3450.62
+	test AP: 0.4084  test AUC: 0.3355

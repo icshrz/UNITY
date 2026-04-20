@@ -1,0 +1,3406 @@
+Loading model at epoch 0...
+Epoch 0:
+Executing sample task for batch 0
+Time taken for sample 0: 0.7796 seconds
+Executing sample task for batch 1
+Time taken for sample 1: 0.0099 seconds
+Executing sample task for batch 2
+Time taken for sample 2: 0.0086 seconds
+Executing sample task for batch 3
+Time taken for sample 3: 0.0062 seconds
+Executing sample task for batch 4
+Time taken for sample 4: 0.0059 seconds
+Executing sample task for batch 5
+Time taken for sample 5: 0.0062 seconds
+Executing sample task for batch 6
+Time taken for sample 6: 0.0066 seconds
+Executing sample task for batch 7
+Time taken for sample 7: 0.0081 seconds
+Executing sample task for batch 8
+Time taken for sample 8: 0.0094 seconds
+Executing sample task for batch 9
+Time taken for sample 9: 0.0068 seconds
+Executing sample task for batch 10
+Time taken for sample 10: 0.0077 seconds
+Time taken for prepare 0: 0.0674 seconds
+Time taken for sample 11: 0.0078 seconds
+Time taken for prepare 0: 0.0585 seconds
+Time taken for update 0: 1.2812 seconds
+now shape1: torch.Size([7518, 100])
+now shape2: torch.Size([5718, 128])
+Time taken for qkv computation: 0.0129 seconds
+Time taken for att computation: 0.3791 seconds
+Time taken for another gather 0: 0.0032 seconds
+Time taken for infer 0: 1.6911 seconds
+Time taken for batch 0 computation: 1.7010 seconds
+Time taken for sample 12: 0.0078 seconds
+Time taken for prepare 1: 0.0534 seconds
+Time taken for update 1: 0.0442 seconds
+now shape1: torch.Size([7249, 100])
+now shape2: torch.Size([5449, 128])
+Time taken for qkv computation: 0.0111 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 1: 0.0027 seconds
+Time taken for infer 1: 0.0752 seconds
+Time taken for batch 1 computation: 0.0838 seconds
+Time taken for sample 13: 0.0078 seconds
+Time taken for prepare 2: 0.0488 seconds
+Time taken for update 2: 0.0412 seconds
+now shape1: torch.Size([6811, 100])
+now shape2: torch.Size([5011, 128])
+Time taken for qkv computation: 0.0031 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 2: 0.0027 seconds
+Time taken for infer 2: 0.0702 seconds
+Time taken for batch 2 computation: 0.0764 seconds
+Time taken for sample 14: 0.0084 seconds
+Time taken for prepare 3: 0.0468 seconds
+Time taken for update 3: 0.0236 seconds
+now shape1: torch.Size([6817, 100])
+now shape2: torch.Size([5017, 128])
+Time taken for qkv computation: 0.0113 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 3: 0.0028 seconds
+Time taken for infer 3: 0.0576 seconds
+Time taken for batch 3 computation: 0.0635 seconds
+Time taken for sample 15: 0.0078 seconds
+Time taken for prepare 4: 0.0438 seconds
+Time taken for update 4: 0.0223 seconds
+now shape1: torch.Size([6836, 100])
+now shape2: torch.Size([5036, 128])
+Time taken for qkv computation: 0.0116 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 4: 0.0027 seconds
+Time taken for infer 4: 0.0524 seconds
+Time taken for batch 4 computation: 0.0586 seconds
+Time taken for sample 16: 0.0078 seconds
+Time taken for prepare 5: 0.0472 seconds
+Time taken for update 5: 0.0237 seconds
+now shape1: torch.Size([6500, 100])
+now shape2: torch.Size([4700, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 5: 0.0028 seconds
+Time taken for infer 5: 0.0530 seconds
+Time taken for batch 5 computation: 0.0595 seconds
+Time taken for sample 17: 0.0076 seconds
+Time taken for prepare 6: 0.0439 seconds
+Time taken for update 6: 0.0218 seconds
+now shape1: torch.Size([6969, 100])
+now shape2: torch.Size([5169, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 6: 0.0030 seconds
+Time taken for infer 6: 0.0529 seconds
+Time taken for batch 6 computation: 0.0610 seconds
+Time taken for sample 18: 0.0073 seconds
+Time taken for prepare 7: 0.0475 seconds
+Time taken for update 7: 0.0238 seconds
+now shape1: torch.Size([6490, 100])
+now shape2: torch.Size([4690, 128])
+Time taken for qkv computation: 0.0098 seconds
+Time taken for att computation: 0.0081 seconds
+Time taken for another gather 7: 0.0031 seconds
+Time taken for infer 7: 0.0643 seconds
+Time taken for batch 7 computation: 0.0737 seconds
+Time taken for sample 19: 0.0077 seconds
+Time taken for prepare 8: 0.0485 seconds
+Time taken for update 8: 0.0525 seconds
+now shape1: torch.Size([6634, 100])
+now shape2: torch.Size([4834, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 8: 0.0028 seconds
+Time taken for infer 8: 0.0847 seconds
+Time taken for batch 8 computation: 0.0915 seconds
+Time taken for sample 20: 0.0082 seconds
+Time taken for prepare 9: 0.0432 seconds
+Time taken for update 9: 0.0221 seconds
+now shape1: torch.Size([6970, 100])
+now shape2: torch.Size([5170, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 9: 0.0032 seconds
+Time taken for infer 9: 0.0555 seconds
+Time taken for batch 9 computation: 0.0633 seconds
+Time taken for sample 21: 0.0076 seconds
+Time taken for prepare 10: 0.0335 seconds
+Time taken for update 10: 0.0200 seconds
+now shape1: torch.Size([6551, 100])
+now shape2: torch.Size([4751, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0072 seconds
+Time taken for another gather 10: 0.0031 seconds
+Time taken for infer 10: 0.0583 seconds
+Time taken for batch 10 computation: 0.0661 seconds
+Time taken for sample 22: 0.0088 seconds
+Time taken for prepare 11: 0.0382 seconds
+Time taken for update 11: 0.0221 seconds
+now shape1: torch.Size([6812, 100])
+now shape2: torch.Size([5012, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 11: 0.0034 seconds
+Time taken for infer 11: 0.0600 seconds
+Time taken for batch 11 computation: 0.0678 seconds
+Time taken for sample 23: 0.0073 seconds
+Time taken for prepare 12: 0.0418 seconds
+Time taken for update 12: 0.0470 seconds
+now shape1: torch.Size([6727, 100])
+now shape2: torch.Size([4927, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0087 seconds
+Time taken for another gather 12: 0.0039 seconds
+Time taken for infer 12: 0.0898 seconds
+Time taken for batch 12 computation: 0.0976 seconds
+Time taken for sample 24: 0.0088 seconds
+Time taken for prepare 13: 0.0463 seconds
+Time taken for update 13: 0.0241 seconds
+now shape1: torch.Size([6494, 100])
+now shape2: torch.Size([4694, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0089 seconds
+Time taken for another gather 13: 0.0033 seconds
+Time taken for infer 13: 0.0652 seconds
+Time taken for batch 13 computation: 0.0735 seconds
+Time taken for sample 25: 0.0073 seconds
+Time taken for prepare 14: 0.0301 seconds
+Time taken for update 14: 0.0176 seconds
+now shape1: torch.Size([6697, 100])
+now shape2: torch.Size([4897, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 14: 0.0029 seconds
+Time taken for infer 14: 0.0474 seconds
+Time taken for batch 14 computation: 0.0552 seconds
+Time taken for sample 26: 0.0074 seconds
+Time taken for prepare 15: 0.0353 seconds
+Time taken for update 15: 0.0195 seconds
+now shape1: torch.Size([6781, 100])
+now shape2: torch.Size([4981, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0067 seconds
+Time taken for another gather 15: 0.0030 seconds
+Time taken for infer 15: 0.0538 seconds
+Time taken for batch 15 computation: 0.0616 seconds
+Time taken for sample 27: 0.0075 seconds
+Time taken for prepare 16: 0.0406 seconds
+Time taken for update 16: 0.0216 seconds
+now shape1: torch.Size([6481, 100])
+now shape2: torch.Size([4681, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0081 seconds
+Time taken for another gather 16: 0.0031 seconds
+Time taken for infer 16: 0.0601 seconds
+Time taken for batch 16 computation: 0.0677 seconds
+Time taken for sample 28: 0.0074 seconds
+Time taken for prepare 17: 0.0281 seconds
+Time taken for update 17: 0.0181 seconds
+now shape1: torch.Size([6746, 100])
+now shape2: torch.Size([4946, 128])
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0083 seconds
+Time taken for another gather 17: 0.0032 seconds
+Time taken for infer 17: 0.0568 seconds
+Time taken for batch 17 computation: 0.0641 seconds
+Time taken for sample 29: 0.0072 seconds
+Time taken for prepare 18: 0.0284 seconds
+Time taken for update 18: 0.0341 seconds
+now shape1: torch.Size([6381, 100])
+now shape2: torch.Size([4581, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0084 seconds
+Time taken for another gather 18: 0.0034 seconds
+Time taken for infer 18: 0.0739 seconds
+Time taken for batch 18 computation: 0.0816 seconds
+Time taken for sample 30: 0.0081 seconds
+Time taken for prepare 19: 0.0291 seconds
+Time taken for update 19: 0.0185 seconds
+now shape1: torch.Size([6594, 100])
+now shape2: torch.Size([4794, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0085 seconds
+Time taken for another gather 19: 0.0037 seconds
+Time taken for infer 19: 0.0597 seconds
+Time taken for batch 19 computation: 0.0679 seconds
+Time taken for sample 31: 0.0074 seconds
+Time taken for prepare 20: 0.0354 seconds
+Time taken for update 20: 0.0190 seconds
+now shape1: torch.Size([6708, 100])
+now shape2: torch.Size([4908, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 20: 0.0032 seconds
+Time taken for infer 20: 0.0544 seconds
+Time taken for batch 20 computation: 0.0620 seconds
+Time taken for sample 32: 0.0080 seconds
+Time taken for prepare 21: 0.0381 seconds
+Time taken for update 21: 0.0216 seconds
+now shape1: torch.Size([6548, 100])
+now shape2: torch.Size([4748, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0083 seconds
+Time taken for another gather 21: 0.0034 seconds
+Time taken for infer 21: 0.0608 seconds
+Time taken for batch 21 computation: 0.0695 seconds
+Time taken for sample 33: 0.0068 seconds
+Time taken for prepare 22: 0.0422 seconds
+Time taken for update 22: 0.0239 seconds
+now shape1: torch.Size([6235, 100])
+now shape2: torch.Size([4435, 128])
+Time taken for qkv computation: 0.0078 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 22: 0.0038 seconds
+Time taken for infer 22: 0.0641 seconds
+Time taken for batch 22 computation: 0.0714 seconds
+Time taken for sample 34: 0.0072 seconds
+Time taken for prepare 23: 0.0374 seconds
+Time taken for update 23: 0.0221 seconds
+now shape1: torch.Size([6657, 100])
+now shape2: torch.Size([4857, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 23: 0.0037 seconds
+Time taken for infer 23: 0.0627 seconds
+Time taken for batch 23 computation: 0.0715 seconds
+Time taken for sample 35: 0.0073 seconds
+Time taken for prepare 24: 0.0398 seconds
+Time taken for update 24: 0.0228 seconds
+now shape1: torch.Size([6450, 100])
+now shape2: torch.Size([4650, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0080 seconds
+Time taken for another gather 24: 0.0029 seconds
+Time taken for infer 24: 0.0591 seconds
+Time taken for batch 24 computation: 0.0664 seconds
+Time taken for sample 36: 0.0070 seconds
+Time taken for prepare 25: 0.0399 seconds
+Time taken for update 25: 0.0207 seconds
+now shape1: torch.Size([6798, 100])
+now shape2: torch.Size([4998, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 25: 0.0030 seconds
+Time taken for infer 25: 0.0491 seconds
+Time taken for batch 25 computation: 0.0565 seconds
+Time taken for sample 37: 0.0070 seconds
+Time taken for prepare 26: 0.0394 seconds
+Time taken for update 26: 0.0207 seconds
+now shape1: torch.Size([6619, 100])
+now shape2: torch.Size([4819, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 26: 0.0028 seconds
+Time taken for infer 26: 0.0509 seconds
+Time taken for batch 26 computation: 0.0583 seconds
+Time taken for sample 38: 0.0074 seconds
+Time taken for prepare 27: 0.0421 seconds
+Time taken for update 27: 0.0217 seconds
+now shape1: torch.Size([6737, 100])
+now shape2: torch.Size([4937, 128])
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 27: 0.0029 seconds
+Time taken for infer 27: 0.0499 seconds
+Time taken for batch 27 computation: 0.0573 seconds
+Time taken for sample 39: 0.0070 seconds
+Time taken for prepare 28: 0.0357 seconds
+Time taken for update 28: 0.0206 seconds
+now shape1: torch.Size([6869, 100])
+now shape2: torch.Size([5069, 128])
+Time taken for qkv computation: 0.0059 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 28: 0.0029 seconds
+Time taken for infer 28: 0.0521 seconds
+Time taken for batch 28 computation: 0.0593 seconds
+Time taken for sample 40: 0.0077 seconds
+Time taken for prepare 29: 0.0367 seconds
+Time taken for update 29: 0.0207 seconds
+now shape1: torch.Size([6291, 100])
+now shape2: torch.Size([4491, 128])
+Time taken for qkv computation: 0.0057 seconds
+Time taken for att computation: 0.0077 seconds
+Time taken for another gather 29: 0.0033 seconds
+Time taken for infer 29: 0.0555 seconds
+Time taken for batch 29 computation: 0.0635 seconds
+Time taken for sample 41: 0.0071 seconds
+Time taken for prepare 30: 0.0389 seconds
+Time taken for update 30: 0.0224 seconds
+now shape1: torch.Size([6464, 100])
+now shape2: torch.Size([4664, 128])
+Time taken for qkv computation: 0.0062 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 30: 0.0029 seconds
+Time taken for infer 30: 0.0554 seconds
+Time taken for batch 30 computation: 0.0628 seconds
+Time taken for sample 42: 0.0071 seconds
+Time taken for prepare 31: 0.0378 seconds
+Time taken for update 31: 0.0215 seconds
+now shape1: torch.Size([6592, 100])
+now shape2: torch.Size([4792, 128])
+Time taken for qkv computation: 0.0062 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 31: 0.0030 seconds
+Time taken for infer 31: 0.0565 seconds
+Time taken for batch 31 computation: 0.0645 seconds
+Time taken for sample 43: 0.0071 seconds
+Time taken for prepare 32: 0.0366 seconds
+Time taken for update 32: 0.0187 seconds
+now shape1: torch.Size([6651, 100])
+now shape2: torch.Size([4851, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 32: 0.0028 seconds
+Time taken for infer 32: 0.0490 seconds
+Time taken for batch 32 computation: 0.0557 seconds
+Time taken for sample 44: 0.0073 seconds
+Time taken for prepare 33: 0.0382 seconds
+Time taken for update 33: 0.0206 seconds
+now shape1: torch.Size([6601, 100])
+now shape2: torch.Size([4801, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 33: 0.0030 seconds
+Time taken for infer 33: 0.0505 seconds
+Time taken for batch 33 computation: 0.0577 seconds
+Time taken for sample 45: 0.0076 seconds
+Time taken for prepare 34: 0.0395 seconds
+Time taken for update 34: 0.0204 seconds
+now shape1: torch.Size([6767, 100])
+now shape2: torch.Size([4967, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 34: 0.0029 seconds
+Time taken for infer 34: 0.0497 seconds
+Time taken for batch 34 computation: 0.0570 seconds
+Time taken for sample 46: 0.0071 seconds
+Time taken for prepare 35: 0.0417 seconds
+Time taken for update 35: 0.0220 seconds
+now shape1: torch.Size([6543, 100])
+now shape2: torch.Size([4743, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 35: 0.0026 seconds
+Time taken for infer 35: 0.0491 seconds
+Time taken for batch 35 computation: 0.0562 seconds
+Time taken for sample 47: 0.0075 seconds
+Time taken for prepare 36: 0.0419 seconds
+Time taken for update 36: 0.0454 seconds
+now shape1: torch.Size([6366, 100])
+now shape2: torch.Size([4566, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 36: 0.0028 seconds
+Time taken for infer 36: 0.0719 seconds
+Time taken for batch 36 computation: 0.0789 seconds
+Time taken for sample 48: 0.0074 seconds
+Time taken for prepare 37: 0.0401 seconds
+Time taken for update 37: 0.0199 seconds
+now shape1: torch.Size([6711, 100])
+now shape2: torch.Size([4911, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 37: 0.0027 seconds
+Time taken for infer 37: 0.0470 seconds
+Time taken for batch 37 computation: 0.0544 seconds
+Time taken for sample 49: 0.0071 seconds
+Time taken for prepare 38: 0.0409 seconds
+Time taken for update 38: 0.0454 seconds
+now shape1: torch.Size([6566, 100])
+now shape2: torch.Size([4766, 128])
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0074 seconds
+Time taken for another gather 38: 0.0030 seconds
+Time taken for infer 38: 0.0767 seconds
+Time taken for batch 38 computation: 0.0838 seconds
+Time taken for sample 50: 0.0075 seconds
+Time taken for prepare 39: 0.0430 seconds
+Time taken for update 39: 0.0218 seconds
+now shape1: torch.Size([6791, 100])
+now shape2: torch.Size([4991, 128])
+Time taken for qkv computation: 0.0065 seconds
+Time taken for att computation: 0.0067 seconds
+Time taken for another gather 39: 0.0031 seconds
+Time taken for infer 39: 0.0558 seconds
+Time taken for batch 39 computation: 0.0635 seconds
+Time taken for sample 51: 0.0095 seconds
+Time taken for prepare 40: 0.0458 seconds
+Time taken for update 40: 0.0227 seconds
+now shape1: torch.Size([6863, 100])
+now shape2: torch.Size([5063, 128])
+Time taken for qkv computation: 0.0066 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 40: 0.0027 seconds
+Time taken for infer 40: 0.0485 seconds
+Time taken for batch 40 computation: 0.0556 seconds
+Time taken for sample 52: 0.0074 seconds
+Time taken for prepare 41: 0.0458 seconds
+Time taken for update 41: 0.0231 seconds
+now shape1: torch.Size([6888, 100])
+now shape2: torch.Size([5088, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 41: 0.0029 seconds
+Time taken for infer 41: 0.0484 seconds
+Time taken for batch 41 computation: 0.0555 seconds
+Time taken for sample 53: 0.0071 seconds
+Time taken for prepare 42: 0.0432 seconds
+Time taken for update 42: 0.0224 seconds
+now shape1: torch.Size([6728, 100])
+now shape2: torch.Size([4928, 128])
+Time taken for qkv computation: 0.0066 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 42: 0.0032 seconds
+Time taken for infer 42: 0.0521 seconds
+Time taken for batch 42 computation: 0.0593 seconds
+Time taken for sample 54: 0.0073 seconds
+Time taken for prepare 43: 0.0432 seconds
+Time taken for update 43: 0.0202 seconds
+now shape1: torch.Size([6658, 100])
+now shape2: torch.Size([4858, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 43: 0.0031 seconds
+Time taken for infer 43: 0.0493 seconds
+Time taken for batch 43 computation: 0.0566 seconds
+Time taken for sample 55: 0.0077 seconds
+Time taken for prepare 44: 0.0424 seconds
+Time taken for update 44: 0.0213 seconds
+now shape1: torch.Size([6631, 100])
+now shape2: torch.Size([4831, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0075 seconds
+Time taken for another gather 44: 0.0032 seconds
+Time taken for infer 44: 0.0555 seconds
+Time taken for batch 44 computation: 0.0632 seconds
+Time taken for sample 56: 0.0070 seconds
+Time taken for prepare 45: 0.0410 seconds
+Time taken for update 45: 0.0213 seconds
+now shape1: torch.Size([6618, 100])
+now shape2: torch.Size([4818, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 45: 0.0031 seconds
+Time taken for infer 45: 0.0532 seconds
+Time taken for batch 45 computation: 0.0603 seconds
+Time taken for sample 57: 0.0071 seconds
+Time taken for prepare 46: 0.0364 seconds
+Time taken for update 46: 0.0188 seconds
+now shape1: torch.Size([6401, 100])
+now shape2: torch.Size([4601, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 46: 0.0034 seconds
+Time taken for infer 46: 0.0486 seconds
+Time taken for batch 46 computation: 0.0561 seconds
+Time taken for sample 58: 0.0077 seconds
+Time taken for prepare 47: 0.0365 seconds
+Time taken for update 47: 0.0195 seconds
+now shape1: torch.Size([6674, 100])
+now shape2: torch.Size([4874, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 47: 0.0029 seconds
+Time taken for infer 47: 0.0460 seconds
+Time taken for batch 47 computation: 0.0534 seconds
+Time taken for sample 59: 0.0082 seconds
+Time taken for prepare 48: 0.0363 seconds
+Time taken for update 48: 0.0194 seconds
+now shape1: torch.Size([6720, 100])
+now shape2: torch.Size([4920, 128])
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 48: 0.0031 seconds
+Time taken for infer 48: 0.0504 seconds
+Time taken for batch 48 computation: 0.0575 seconds
+Time taken for sample 60: 0.0075 seconds
+Time taken for prepare 49: 0.0356 seconds
+Time taken for update 49: 0.0189 seconds
+now shape1: torch.Size([6661, 100])
+now shape2: torch.Size([4861, 128])
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 49: 0.0030 seconds
+Time taken for infer 49: 0.0502 seconds
+Time taken for batch 49 computation: 0.0577 seconds
+Time taken for sample 61: 0.0075 seconds
+Time taken for prepare 50: 0.0357 seconds
+Time taken for update 50: 0.0189 seconds
+now shape1: torch.Size([6398, 100])
+now shape2: torch.Size([4598, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0085 seconds
+Time taken for another gather 50: 0.0031 seconds
+Time taken for infer 50: 0.0501 seconds
+Time taken for batch 50 computation: 0.0596 seconds
+Time taken for sample 62: 0.0076 seconds
+Time taken for prepare 51: 0.0346 seconds
+Time taken for update 51: 0.0197 seconds
+now shape1: torch.Size([6518, 100])
+now shape2: torch.Size([4718, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 51: 0.0025 seconds
+Time taken for infer 51: 0.0451 seconds
+Time taken for batch 51 computation: 0.0525 seconds
+Time taken for sample 63: 0.0076 seconds
+Time taken for prepare 52: 0.0368 seconds
+Time taken for update 52: 0.0198 seconds
+now shape1: torch.Size([6346, 100])
+now shape2: torch.Size([4546, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 52: 0.0028 seconds
+Time taken for infer 52: 0.0488 seconds
+Time taken for batch 52 computation: 0.0559 seconds
+Time taken for sample 64: 0.0072 seconds
+Time taken for prepare 53: 0.0359 seconds
+Time taken for update 53: 0.0204 seconds
+now shape1: torch.Size([6710, 100])
+now shape2: torch.Size([4910, 128])
+Time taken for qkv computation: 0.0067 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 53: 0.0028 seconds
+Time taken for infer 53: 0.0482 seconds
+Time taken for batch 53 computation: 0.0555 seconds
+Time taken for sample 65: 0.0075 seconds
+Time taken for prepare 54: 0.0352 seconds
+Time taken for update 54: 0.0193 seconds
+now shape1: torch.Size([6428, 100])
+now shape2: torch.Size([4628, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 54: 0.0029 seconds
+Time taken for infer 54: 0.0483 seconds
+Time taken for batch 54 computation: 0.0560 seconds
+Time taken for sample 66: 0.0088 seconds
+Time taken for prepare 55: 0.0360 seconds
+Time taken for update 55: 0.0193 seconds
+now shape1: torch.Size([6528, 100])
+now shape2: torch.Size([4728, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 55: 0.0031 seconds
+Time taken for infer 55: 0.0494 seconds
+Time taken for batch 55 computation: 0.0564 seconds
+Time taken for sample 67: 0.0075 seconds
+Time taken for prepare 56: 0.0397 seconds
+Time taken for update 56: 0.0215 seconds
+now shape1: torch.Size([6352, 100])
+now shape2: torch.Size([4552, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0078 seconds
+Time taken for another gather 56: 0.0029 seconds
+Time taken for infer 56: 0.0574 seconds
+Time taken for batch 56 computation: 0.0645 seconds
+Time taken for sample 68: 0.0078 seconds
+Time taken for prepare 57: 0.0383 seconds
+Time taken for update 57: 0.0212 seconds
+now shape1: torch.Size([6777, 100])
+now shape2: torch.Size([4977, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 57: 0.0029 seconds
+Time taken for infer 57: 0.0545 seconds
+Time taken for batch 57 computation: 0.0622 seconds
+Time taken for sample 69: 0.0073 seconds
+Time taken for prepare 58: 0.0345 seconds
+Time taken for update 58: 0.0385 seconds
+now shape1: torch.Size([6843, 100])
+now shape2: torch.Size([5043, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 58: 0.0033 seconds
+Time taken for infer 58: 0.0721 seconds
+Time taken for batch 58 computation: 0.0803 seconds
+Time taken for sample 70: 0.0074 seconds
+Time taken for prepare 59: 0.0353 seconds
+Time taken for update 59: 0.0199 seconds
+now shape1: torch.Size([6459, 100])
+now shape2: torch.Size([4659, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 59: 0.0031 seconds
+Time taken for infer 59: 0.0524 seconds
+Time taken for batch 59 computation: 0.0599 seconds
+Time taken for sample 71: 0.0087 seconds
+Time taken for prepare 60: 0.0350 seconds
+Time taken for update 60: 0.0195 seconds
+now shape1: torch.Size([6690, 100])
+now shape2: torch.Size([4890, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 60: 0.0029 seconds
+Time taken for infer 60: 0.0512 seconds
+Time taken for batch 60 computation: 0.0587 seconds
+Time taken for sample 72: 0.0077 seconds
+Time taken for prepare 61: 0.0348 seconds
+Time taken for update 61: 0.0195 seconds
+now shape1: torch.Size([6746, 100])
+now shape2: torch.Size([4946, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 61: 0.0026 seconds
+Time taken for infer 61: 0.0467 seconds
+Time taken for batch 61 computation: 0.0544 seconds
+Time taken for sample 73: 0.0072 seconds
+Time taken for prepare 62: 0.0344 seconds
+Time taken for update 62: 0.0191 seconds
+now shape1: torch.Size([6625, 100])
+now shape2: torch.Size([4825, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 62: 0.0029 seconds
+Time taken for infer 62: 0.0522 seconds
+Time taken for batch 62 computation: 0.0598 seconds
+Time taken for sample 74: 0.0077 seconds
+Time taken for prepare 63: 0.0348 seconds
+Time taken for update 63: 0.0194 seconds
+now shape1: torch.Size([6682, 100])
+now shape2: torch.Size([4882, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 63: 0.0030 seconds
+Time taken for infer 63: 0.0508 seconds
+Time taken for batch 63 computation: 0.0580 seconds
+Time taken for sample 75: 0.0076 seconds
+Time taken for prepare 64: 0.0362 seconds
+Time taken for update 64: 0.0199 seconds
+now shape1: torch.Size([6532, 100])
+now shape2: torch.Size([4732, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 64: 0.0026 seconds
+Time taken for infer 64: 0.0466 seconds
+Time taken for batch 64 computation: 0.0541 seconds
+Time taken for sample 76: 0.0076 seconds
+Time taken for prepare 65: 0.0334 seconds
+Time taken for update 65: 0.0185 seconds
+now shape1: torch.Size([6699, 100])
+now shape2: torch.Size([4899, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 65: 0.0030 seconds
+Time taken for infer 65: 0.0494 seconds
+Time taken for batch 65 computation: 0.0582 seconds
+Time taken for sample 77: 0.0077 seconds
+Time taken for prepare 66: 0.0348 seconds
+Time taken for update 66: 0.0193 seconds
+now shape1: torch.Size([6342, 100])
+now shape2: torch.Size([4542, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 66: 0.0030 seconds
+Time taken for infer 66: 0.0501 seconds
+Time taken for batch 66 computation: 0.0577 seconds
+Time taken for sample 78: 0.0076 seconds
+Time taken for prepare 67: 0.0356 seconds
+Time taken for update 67: 0.0196 seconds
+now shape1: torch.Size([6683, 100])
+now shape2: torch.Size([4883, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 67: 0.0031 seconds
+Time taken for infer 67: 0.0502 seconds
+Time taken for batch 67 computation: 0.0580 seconds
+Time taken for sample 79: 0.0081 seconds
+Time taken for prepare 68: 0.0384 seconds
+Time taken for update 68: 0.0214 seconds
+now shape1: torch.Size([6770, 100])
+now shape2: torch.Size([4970, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0081 seconds
+Time taken for another gather 68: 0.0031 seconds
+Time taken for infer 68: 0.0579 seconds
+Time taken for batch 68 computation: 0.0652 seconds
+Time taken for sample 80: 0.0079 seconds
+Time taken for prepare 69: 0.0412 seconds
+Time taken for update 69: 0.0227 seconds
+now shape1: torch.Size([6460, 100])
+now shape2: torch.Size([4660, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 69: 0.0031 seconds
+Time taken for infer 69: 0.0575 seconds
+Time taken for batch 69 computation: 0.0649 seconds
+Time taken for sample 81: 0.0079 seconds
+Time taken for prepare 70: 0.0454 seconds
+Time taken for update 70: 0.0230 seconds
+now shape1: torch.Size([6458, 100])
+now shape2: torch.Size([4658, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0072 seconds
+Time taken for another gather 70: 0.0033 seconds
+Time taken for infer 70: 0.0609 seconds
+Time taken for batch 70 computation: 0.0696 seconds
+Time taken for sample 82: 0.0081 seconds
+Time taken for prepare 71: 0.0370 seconds
+Time taken for update 71: 0.0214 seconds
+now shape1: torch.Size([6674, 100])
+now shape2: torch.Size([4874, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 71: 0.0033 seconds
+Time taken for infer 71: 0.0518 seconds
+Time taken for batch 71 computation: 0.0595 seconds
+Time taken for sample 83: 0.0072 seconds
+Time taken for prepare 72: 0.0322 seconds
+Time taken for update 72: 0.0180 seconds
+now shape1: torch.Size([6642, 100])
+now shape2: torch.Size([4842, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 72: 0.0032 seconds
+Time taken for infer 72: 0.0510 seconds
+Time taken for batch 72 computation: 0.0582 seconds
+Time taken for sample 84: 0.0073 seconds
+Time taken for prepare 73: 0.0347 seconds
+Time taken for update 73: 0.0193 seconds
+now shape1: torch.Size([6096, 100])
+now shape2: torch.Size([4296, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 73: 0.0028 seconds
+Time taken for infer 73: 0.0492 seconds
+Time taken for batch 73 computation: 0.0569 seconds
+Time taken for sample 85: 0.0077 seconds
+Time taken for prepare 74: 0.0348 seconds
+Time taken for update 74: 0.0196 seconds
+now shape1: torch.Size([6666, 100])
+now shape2: torch.Size([4866, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 74: 0.0032 seconds
+Time taken for infer 74: 0.0527 seconds
+Time taken for batch 74 computation: 0.0603 seconds
+Time taken for sample 86: 0.0073 seconds
+Time taken for prepare 75: 0.0339 seconds
+Time taken for update 75: 0.0189 seconds
+now shape1: torch.Size([6545, 100])
+now shape2: torch.Size([4745, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 75: 0.0031 seconds
+Time taken for infer 75: 0.0523 seconds
+Time taken for batch 75 computation: 0.0599 seconds
+Time taken for sample 87: 0.0080 seconds
+Time taken for prepare 76: 0.0352 seconds
+Time taken for update 76: 0.0196 seconds
+now shape1: torch.Size([6322, 100])
+now shape2: torch.Size([4522, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 76: 0.0031 seconds
+Time taken for infer 76: 0.0494 seconds
+Time taken for batch 76 computation: 0.0571 seconds
+Time taken for sample 88: 0.0074 seconds
+Time taken for prepare 77: 0.0350 seconds
+Time taken for update 77: 0.0196 seconds
+now shape1: torch.Size([6646, 100])
+now shape2: torch.Size([4846, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 77: 0.0032 seconds
+Time taken for infer 77: 0.0519 seconds
+Time taken for batch 77 computation: 0.0595 seconds
+Time taken for sample 89: 0.0075 seconds
+Time taken for prepare 78: 0.0345 seconds
+Time taken for update 78: 0.0193 seconds
+now shape1: torch.Size([6694, 100])
+now shape2: torch.Size([4894, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 78: 0.0030 seconds
+Time taken for infer 78: 0.0508 seconds
+Time taken for batch 78 computation: 0.0589 seconds
+Time taken for sample 90: 0.0074 seconds
+Time taken for prepare 79: 0.0357 seconds
+Time taken for update 79: 0.0197 seconds
+now shape1: torch.Size([6678, 100])
+now shape2: torch.Size([4878, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 79: 0.0027 seconds
+Time taken for infer 79: 0.0465 seconds
+Time taken for batch 79 computation: 0.0545 seconds
+Time taken for sample 91: 0.0073 seconds
+Time taken for prepare 80: 0.0348 seconds
+Time taken for update 80: 0.0199 seconds
+now shape1: torch.Size([6760, 100])
+now shape2: torch.Size([4960, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 80: 0.0030 seconds
+Time taken for infer 80: 0.0504 seconds
+Time taken for batch 80 computation: 0.0583 seconds
+Time taken for sample 92: 0.0075 seconds
+Time taken for prepare 81: 0.0338 seconds
+Time taken for update 81: 0.0191 seconds
+now shape1: torch.Size([6675, 100])
+now shape2: torch.Size([4875, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 81: 0.0030 seconds
+Time taken for infer 81: 0.0509 seconds
+Time taken for batch 81 computation: 0.0589 seconds
+Time taken for sample 93: 0.0077 seconds
+Time taken for prepare 82: 0.0332 seconds
+Time taken for update 82: 0.0188 seconds
+now shape1: torch.Size([6457, 100])
+now shape2: torch.Size([4657, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0042 seconds
+Time taken for another gather 82: 0.0029 seconds
+Time taken for infer 82: 0.0482 seconds
+Time taken for batch 82 computation: 0.0553 seconds
+Time taken for sample 94: 0.0077 seconds
+Time taken for prepare 83: 0.0360 seconds
+Time taken for update 83: 0.0195 seconds
+now shape1: torch.Size([6303, 100])
+now shape2: torch.Size([4503, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 83: 0.0029 seconds
+Time taken for infer 83: 0.0476 seconds
+Time taken for batch 83 computation: 0.0549 seconds
+Time taken for sample 95: 0.0075 seconds
+Time taken for prepare 84: 0.0357 seconds
+Time taken for update 84: 0.0198 seconds
+now shape1: torch.Size([6826, 100])
+now shape2: torch.Size([5026, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 84: 0.0031 seconds
+Time taken for infer 84: 0.0518 seconds
+Time taken for batch 84 computation: 0.0594 seconds
+Time taken for sample 96: 0.0074 seconds
+Time taken for prepare 85: 0.0360 seconds
+Time taken for update 85: 0.0201 seconds
+now shape1: torch.Size([6673, 100])
+now shape2: torch.Size([4873, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 85: 0.0029 seconds
+Time taken for infer 85: 0.0494 seconds
+Time taken for batch 85 computation: 0.0567 seconds
+Time taken for sample 97: 0.0076 seconds
+Time taken for prepare 86: 0.0389 seconds
+Time taken for update 86: 0.0223 seconds
+now shape1: torch.Size([6859, 100])
+now shape2: torch.Size([5059, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 86: 0.0033 seconds
+Time taken for infer 86: 0.0585 seconds
+Time taken for batch 86 computation: 0.0665 seconds
+Time taken for sample 98: 0.0088 seconds
+Time taken for prepare 87: 0.0420 seconds
+Time taken for update 87: 0.0463 seconds
+now shape1: torch.Size([6604, 100])
+now shape2: torch.Size([4804, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 87: 0.0031 seconds
+Time taken for infer 87: 0.0811 seconds
+Time taken for batch 87 computation: 0.0885 seconds
+Time taken for sample 99: 0.0083 seconds
+Time taken for prepare 88: 0.0420 seconds
+Time taken for update 88: 0.0224 seconds
+now shape1: torch.Size([6579, 100])
+now shape2: torch.Size([4779, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 88: 0.0034 seconds
+Time taken for infer 88: 0.0612 seconds
+Time taken for batch 88 computation: 0.0688 seconds
+Time taken for sample 100: 0.0080 seconds
+Time taken for prepare 89: 0.0462 seconds
+Time taken for update 89: 0.0247 seconds
+now shape1: torch.Size([6496, 100])
+now shape2: torch.Size([4696, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 89: 0.0034 seconds
+Time taken for infer 89: 0.0656 seconds
+Time taken for batch 89 computation: 0.0731 seconds
+Time taken for sample 101: 0.0077 seconds
+Time taken for prepare 90: 0.0419 seconds
+Time taken for update 90: 0.0459 seconds
+now shape1: torch.Size([6765, 100])
+now shape2: torch.Size([4965, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 90: 0.0036 seconds
+Time taken for infer 90: 0.0845 seconds
+Time taken for batch 90 computation: 0.0918 seconds
+Time taken for sample 102: 0.0069 seconds
+Time taken for prepare 91: 0.0433 seconds
+Time taken for update 91: 0.0211 seconds
+now shape1: torch.Size([6482, 100])
+now shape2: torch.Size([4682, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 91: 0.0034 seconds
+Time taken for infer 91: 0.0553 seconds
+Time taken for batch 91 computation: 0.0629 seconds
+Time taken for sample 103: 0.0071 seconds
+Time taken for prepare 92: 0.0450 seconds
+Time taken for update 92: 0.0229 seconds
+now shape1: torch.Size([6780, 100])
+now shape2: torch.Size([4980, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 92: 0.0033 seconds
+Time taken for infer 92: 0.0569 seconds
+Time taken for batch 92 computation: 0.0646 seconds
+Time taken for sample 104: 0.0074 seconds
+Time taken for prepare 93: 0.0435 seconds
+Time taken for update 93: 0.0231 seconds
+now shape1: torch.Size([6827, 100])
+now shape2: torch.Size([5027, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0072 seconds
+Time taken for another gather 93: 0.0034 seconds
+Time taken for infer 93: 0.0607 seconds
+Time taken for batch 93 computation: 0.0684 seconds
+Time taken for sample 105: 0.0084 seconds
+Time taken for prepare 94: 0.0449 seconds
+Time taken for update 94: 0.0224 seconds
+now shape1: torch.Size([6605, 100])
+now shape2: torch.Size([4805, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 94: 0.0036 seconds
+Time taken for infer 94: 0.0570 seconds
+Time taken for batch 94 computation: 0.0645 seconds
+Time taken for sample 106: 0.0072 seconds
+Time taken for prepare 95: 0.0440 seconds
+Time taken for update 95: 0.0228 seconds
+now shape1: torch.Size([6920, 100])
+now shape2: torch.Size([5120, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 95: 0.0032 seconds
+Time taken for infer 95: 0.0587 seconds
+Time taken for batch 95 computation: 0.0661 seconds
+Time taken for sample 107: 0.0074 seconds
+Time taken for prepare 96: 0.0437 seconds
+Time taken for update 96: 0.0208 seconds
+now shape1: torch.Size([6433, 100])
+now shape2: torch.Size([4633, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 96: 0.0031 seconds
+Time taken for infer 96: 0.0553 seconds
+Time taken for batch 96 computation: 0.0629 seconds
+Time taken for sample 108: 0.0077 seconds
+Time taken for prepare 97: 0.0397 seconds
+Time taken for update 97: 0.0198 seconds
+now shape1: torch.Size([6786, 100])
+now shape2: torch.Size([4986, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 97: 0.0032 seconds
+Time taken for infer 97: 0.0525 seconds
+Time taken for batch 97 computation: 0.0614 seconds
+Time taken for sample 109: 0.0074 seconds
+Time taken for prepare 98: 0.0430 seconds
+Time taken for update 98: 0.0223 seconds
+now shape1: torch.Size([6596, 100])
+now shape2: torch.Size([4796, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0085 seconds
+Time taken for another gather 98: 0.0038 seconds
+Time taken for infer 98: 0.0645 seconds
+Time taken for batch 98 computation: 0.0727 seconds
+Time taken for sample 110: 0.0074 seconds
+Time taken for prepare 99: 0.0352 seconds
+Time taken for update 99: 0.0204 seconds
+now shape1: torch.Size([6649, 100])
+now shape2: torch.Size([4849, 128])
+Time taken for qkv computation: 0.0072 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 99: 0.0033 seconds
+Time taken for infer 99: 0.0528 seconds
+Time taken for batch 99 computation: 0.0608 seconds
+Time taken for sample 111: 0.0080 seconds
+Time taken for prepare 100: 0.0341 seconds
+Time taken for update 100: 0.0203 seconds
+now shape1: torch.Size([6955, 100])
+now shape2: torch.Size([5155, 128])
+Time taken for qkv computation: 0.0078 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 100: 0.0034 seconds
+Time taken for infer 100: 0.0561 seconds
+Time taken for batch 100 computation: 0.0638 seconds
+Time taken for sample 112: 0.0078 seconds
+Time taken for prepare 101: 0.0354 seconds
+Time taken for update 101: 0.0204 seconds
+now shape1: torch.Size([6681, 100])
+now shape2: torch.Size([4881, 128])
+Time taken for qkv computation: 0.0067 seconds
+Time taken for att computation: 0.0083 seconds
+Time taken for another gather 101: 0.0037 seconds
+Time taken for infer 101: 0.0599 seconds
+Time taken for batch 101 computation: 0.0668 seconds
+Time taken for sample 113: 0.0070 seconds
+Time taken for prepare 102: 0.0338 seconds
+Time taken for update 102: 0.0191 seconds
+now shape1: torch.Size([6723, 100])
+now shape2: torch.Size([4923, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0081 seconds
+Time taken for another gather 102: 0.0032 seconds
+Time taken for infer 102: 0.0568 seconds
+Time taken for batch 102 computation: 0.0640 seconds
+Time taken for sample 114: 0.0075 seconds
+Time taken for prepare 103: 0.0375 seconds
+Time taken for update 103: 0.0197 seconds
+now shape1: torch.Size([6489, 100])
+now shape2: torch.Size([4689, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 103: 0.0034 seconds
+Time taken for infer 103: 0.0585 seconds
+Time taken for batch 103 computation: 0.0659 seconds
+Time taken for sample 115: 0.0081 seconds
+Time taken for prepare 104: 0.0473 seconds
+Time taken for update 104: 0.0505 seconds
+now shape1: torch.Size([6538, 100])
+now shape2: torch.Size([4738, 128])
+Time taken for qkv computation: 0.0108 seconds
+Time taken for att computation: 0.0078 seconds
+Time taken for another gather 104: 0.0036 seconds
+Time taken for infer 104: 0.0931 seconds
+Time taken for batch 104 computation: 0.1015 seconds
+Time taken for sample 116: 0.0075 seconds
+Time taken for prepare 105: 0.0412 seconds
+Time taken for update 105: 0.0220 seconds
+now shape1: torch.Size([7241, 100])
+now shape2: torch.Size([5441, 128])
+Time taken for qkv computation: 0.0111 seconds
+Time taken for att computation: 0.0087 seconds
+Time taken for another gather 105: 0.0035 seconds
+Time taken for infer 105: 0.0658 seconds
+Time taken for batch 105 computation: 0.0730 seconds
+Time taken for sample 117: 0.0078 seconds
+Time taken for prepare 106: 0.0442 seconds
+Time taken for update 106: 0.0231 seconds
+now shape1: torch.Size([6574, 100])
+now shape2: torch.Size([4774, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 106: 0.0033 seconds
+Time taken for infer 106: 0.0612 seconds
+Time taken for batch 106 computation: 0.0686 seconds
+Time taken for sample 118: 0.0082 seconds
+Time taken for prepare 107: 0.0445 seconds
+Time taken for update 107: 0.0213 seconds
+now shape1: torch.Size([6577, 100])
+now shape2: torch.Size([4777, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 107: 0.0028 seconds
+Time taken for infer 107: 0.0488 seconds
+Time taken for batch 107 computation: 0.0565 seconds
+Time taken for sample 119: 0.0080 seconds
+Time taken for prepare 108: 0.0433 seconds
+Time taken for update 108: 0.0220 seconds
+now shape1: torch.Size([6629, 100])
+now shape2: torch.Size([4829, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 108: 0.0036 seconds
+Time taken for infer 108: 0.0575 seconds
+Time taken for batch 108 computation: 0.0649 seconds
+Time taken for sample 120: 0.0078 seconds
+Time taken for prepare 109: 0.0454 seconds
+Time taken for update 109: 0.0227 seconds
+now shape1: torch.Size([6790, 100])
+now shape2: torch.Size([4990, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 109: 0.0035 seconds
+Time taken for infer 109: 0.0583 seconds
+Time taken for batch 109 computation: 0.0656 seconds
+Time taken for sample 121: 0.0076 seconds
+Time taken for prepare 110: 0.0429 seconds
+Time taken for update 110: 0.0224 seconds
+now shape1: torch.Size([6648, 100])
+now shape2: torch.Size([4848, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 110: 0.0033 seconds
+Time taken for infer 110: 0.0626 seconds
+Time taken for batch 110 computation: 0.0706 seconds
+Time taken for sample 122: 0.0076 seconds
+Time taken for prepare 111: 0.0368 seconds
+Time taken for update 111: 0.0203 seconds
+now shape1: torch.Size([6481, 100])
+now shape2: torch.Size([4681, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 111: 0.0028 seconds
+Time taken for infer 111: 0.0508 seconds
+Time taken for batch 111 computation: 0.0587 seconds
+Time taken for sample 123: 0.0074 seconds
+Time taken for prepare 112: 0.0355 seconds
+Time taken for update 112: 0.0192 seconds
+now shape1: torch.Size([6966, 100])
+now shape2: torch.Size([5166, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 112: 0.0034 seconds
+Time taken for infer 112: 0.0556 seconds
+Time taken for batch 112 computation: 0.0625 seconds
+Time taken for sample 124: 0.0073 seconds
+Time taken for prepare 113: 0.0344 seconds
+Time taken for update 113: 0.0186 seconds
+now shape1: torch.Size([6293, 100])
+now shape2: torch.Size([4493, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 113: 0.0029 seconds
+Time taken for infer 113: 0.0469 seconds
+Time taken for batch 113 computation: 0.0544 seconds
+Time taken for sample 125: 0.0072 seconds
+Time taken for prepare 114: 0.0385 seconds
+Time taken for update 114: 0.0210 seconds
+now shape1: torch.Size([6460, 100])
+now shape2: torch.Size([4660, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 114: 0.0035 seconds
+Time taken for infer 114: 0.0579 seconds
+Time taken for batch 114 computation: 0.0659 seconds
+Time taken for sample 126: 0.0075 seconds
+Time taken for prepare 115: 0.0342 seconds
+Time taken for update 115: 0.0191 seconds
+now shape1: torch.Size([6822, 100])
+now shape2: torch.Size([5022, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 115: 0.0028 seconds
+Time taken for infer 115: 0.0463 seconds
+Time taken for batch 115 computation: 0.0538 seconds
+Time taken for sample 127: 0.0074 seconds
+Time taken for prepare 116: 0.0325 seconds
+Time taken for update 116: 0.0179 seconds
+now shape1: torch.Size([6524, 100])
+now shape2: torch.Size([4724, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 116: 0.0029 seconds
+Time taken for infer 116: 0.0466 seconds
+Time taken for batch 116 computation: 0.0543 seconds
+Time taken for sample 128: 0.0076 seconds
+Time taken for prepare 117: 0.0342 seconds
+Time taken for update 117: 0.0186 seconds
+now shape1: torch.Size([6518, 100])
+now shape2: torch.Size([4718, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 117: 0.0035 seconds
+Time taken for infer 117: 0.0548 seconds
+Time taken for batch 117 computation: 0.0629 seconds
+Time taken for sample 129: 0.0080 seconds
+Time taken for prepare 118: 0.0366 seconds
+Time taken for update 118: 0.0200 seconds
+now shape1: torch.Size([6632, 100])
+now shape2: torch.Size([4832, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 118: 0.0033 seconds
+Time taken for infer 118: 0.0520 seconds
+Time taken for batch 118 computation: 0.0601 seconds
+Time taken for sample 130: 0.0078 seconds
+Time taken for prepare 119: 0.0357 seconds
+Time taken for update 119: 0.0194 seconds
+now shape1: torch.Size([7036, 100])
+now shape2: torch.Size([5236, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 119: 0.0032 seconds
+Time taken for infer 119: 0.0512 seconds
+Time taken for batch 119 computation: 0.0589 seconds
+Time taken for sample 131: 0.0082 seconds
+Time taken for prepare 120: 0.0349 seconds
+Time taken for update 120: 0.0191 seconds
+now shape1: torch.Size([6704, 100])
+now shape2: torch.Size([4904, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 120: 0.0032 seconds
+Time taken for infer 120: 0.0517 seconds
+Time taken for batch 120 computation: 0.0594 seconds
+Time taken for sample 132: 0.0078 seconds
+Time taken for prepare 121: 0.0343 seconds
+Time taken for update 121: 0.0185 seconds
+now shape1: torch.Size([6874, 100])
+now shape2: torch.Size([5074, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 121: 0.0034 seconds
+Time taken for infer 121: 0.0530 seconds
+Time taken for batch 121 computation: 0.0606 seconds
+Time taken for sample 133: 0.0073 seconds
+Time taken for prepare 122: 0.0355 seconds
+Time taken for update 122: 0.0199 seconds
+now shape1: torch.Size([6650, 100])
+now shape2: torch.Size([4850, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 122: 0.0033 seconds
+Time taken for infer 122: 0.0533 seconds
+Time taken for batch 122 computation: 0.0607 seconds
+Time taken for sample 134: 0.0073 seconds
+Time taken for prepare 123: 0.0357 seconds
+Time taken for update 123: 0.0198 seconds
+now shape1: torch.Size([6645, 100])
+now shape2: torch.Size([4845, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 123: 0.0031 seconds
+Time taken for infer 123: 0.0488 seconds
+Time taken for batch 123 computation: 0.0562 seconds
+Time taken for sample 135: 0.0075 seconds
+Time taken for prepare 124: 0.0328 seconds
+Time taken for update 124: 0.0178 seconds
+now shape1: torch.Size([6794, 100])
+now shape2: torch.Size([4994, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 124: 0.0033 seconds
+Time taken for infer 124: 0.0528 seconds
+Time taken for batch 124 computation: 0.0600 seconds
+Time taken for sample 136: 0.0103 seconds
+Time taken for prepare 125: 0.0347 seconds
+Time taken for update 125: 0.0187 seconds
+now shape1: torch.Size([6336, 100])
+now shape2: torch.Size([4536, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 125: 0.0029 seconds
+Time taken for infer 125: 0.0466 seconds
+Time taken for batch 125 computation: 0.0541 seconds
+Time taken for sample 137: 0.0073 seconds
+Time taken for prepare 126: 0.0398 seconds
+Time taken for update 126: 0.0214 seconds
+now shape1: torch.Size([6744, 100])
+now shape2: torch.Size([4944, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 126: 0.0036 seconds
+Time taken for infer 126: 0.0560 seconds
+Time taken for batch 126 computation: 0.0634 seconds
+Time taken for sample 138: 0.0075 seconds
+Time taken for prepare 127: 0.0331 seconds
+Time taken for update 127: 0.0183 seconds
+now shape1: torch.Size([6917, 100])
+now shape2: torch.Size([5117, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 127: 0.0034 seconds
+Time taken for infer 127: 0.0518 seconds
+Time taken for batch 127 computation: 0.0594 seconds
+Time taken for sample 139: 0.0077 seconds
+Time taken for prepare 128: 0.0336 seconds
+Time taken for update 128: 0.0178 seconds
+now shape1: torch.Size([6506, 100])
+now shape2: torch.Size([4706, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 128: 0.0029 seconds
+Time taken for infer 128: 0.0460 seconds
+Time taken for batch 128 computation: 0.0541 seconds
+Time taken for sample 140: 0.0076 seconds
+Time taken for prepare 129: 0.0362 seconds
+Time taken for update 129: 0.0194 seconds
+now shape1: torch.Size([6523, 100])
+now shape2: torch.Size([4723, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 129: 0.0032 seconds
+Time taken for infer 129: 0.0509 seconds
+Time taken for batch 129 computation: 0.0586 seconds
+Time taken for sample 141: 0.0077 seconds
+Time taken for prepare 130: 0.0353 seconds
+Time taken for update 130: 0.0191 seconds
+now shape1: torch.Size([6818, 100])
+now shape2: torch.Size([5018, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 130: 0.0034 seconds
+Time taken for infer 130: 0.0511 seconds
+Time taken for batch 130 computation: 0.0593 seconds
+Time taken for sample 142: 0.0094 seconds
+Time taken for prepare 131: 0.0328 seconds
+Time taken for update 131: 0.0178 seconds
+now shape1: torch.Size([6860, 100])
+now shape2: torch.Size([5060, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 131: 0.0033 seconds
+Time taken for infer 131: 0.0534 seconds
+Time taken for batch 131 computation: 0.0612 seconds
+Time taken for sample 143: 0.0080 seconds
+Time taken for prepare 132: 0.0356 seconds
+Time taken for update 132: 0.0194 seconds
+now shape1: torch.Size([6369, 100])
+now shape2: torch.Size([4569, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 132: 0.0035 seconds
+Time taken for infer 132: 0.0531 seconds
+Time taken for batch 132 computation: 0.0604 seconds
+Time taken for sample 144: 0.0076 seconds
+Time taken for prepare 133: 0.0387 seconds
+Time taken for update 133: 0.0428 seconds
+now shape1: torch.Size([6911, 100])
+now shape2: torch.Size([5111, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 133: 0.0032 seconds
+Time taken for infer 133: 0.0789 seconds
+Time taken for batch 133 computation: 0.0862 seconds
+Time taken for sample 145: 0.0080 seconds
+Time taken for prepare 134: 0.0425 seconds
+Time taken for update 134: 0.0474 seconds
+now shape1: torch.Size([6804, 100])
+now shape2: torch.Size([5004, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 134: 0.0033 seconds
+Time taken for infer 134: 0.0849 seconds
+Time taken for batch 134 computation: 0.0924 seconds
+Time taken for sample 146: 0.0084 seconds
+Time taken for prepare 135: 0.0430 seconds
+Time taken for update 135: 0.0231 seconds
+now shape1: torch.Size([6649, 100])
+now shape2: torch.Size([4849, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 135: 0.0035 seconds
+Time taken for infer 135: 0.0627 seconds
+Time taken for batch 135 computation: 0.0730 seconds
+Time taken for sample 147: 0.0074 seconds
+Time taken for prepare 136: 0.0328 seconds
+Time taken for update 136: 0.0183 seconds
+now shape1: torch.Size([6725, 100])
+now shape2: torch.Size([4925, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 136: 0.0029 seconds
+Time taken for infer 136: 0.0461 seconds
+Time taken for batch 136 computation: 0.0534 seconds
+Time taken for sample 148: 0.0081 seconds
+Time taken for prepare 137: 0.0395 seconds
+Time taken for update 137: 0.0435 seconds
+now shape1: torch.Size([6590, 100])
+now shape2: torch.Size([4790, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0060 seconds
+Time taken for another gather 137: 0.0030 seconds
+Time taken for infer 137: 0.0781 seconds
+Time taken for batch 137 computation: 0.0855 seconds
+Time taken for sample 149: 0.0081 seconds
+Time taken for prepare 138: 0.0404 seconds
+Time taken for update 138: 0.0232 seconds
+now shape1: torch.Size([7019, 100])
+now shape2: torch.Size([5219, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 138: 0.0030 seconds
+Time taken for infer 138: 0.0615 seconds
+Time taken for batch 138 computation: 0.0692 seconds
+Time taken for sample 150: 0.0082 seconds
+Time taken for prepare 139: 0.0334 seconds
+Time taken for update 139: 0.0193 seconds
+now shape1: torch.Size([6919, 100])
+now shape2: torch.Size([5119, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 139: 0.0027 seconds
+Time taken for infer 139: 0.0488 seconds
+Time taken for batch 139 computation: 0.0563 seconds
+Time taken for sample 151: 0.0072 seconds
+Time taken for prepare 140: 0.0316 seconds
+Time taken for update 140: 0.0180 seconds
+now shape1: torch.Size([6665, 100])
+now shape2: torch.Size([4865, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 140: 0.0027 seconds
+Time taken for infer 140: 0.0447 seconds
+Time taken for batch 140 computation: 0.0523 seconds
+Time taken for sample 152: 0.0073 seconds
+Time taken for prepare 141: 0.0321 seconds
+Time taken for update 141: 0.0186 seconds
+now shape1: torch.Size([6584, 100])
+now shape2: torch.Size([4784, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0059 seconds
+Time taken for another gather 141: 0.0033 seconds
+Time taken for infer 141: 0.0547 seconds
+Time taken for batch 141 computation: 0.0641 seconds
+Time taken for sample 153: 0.0074 seconds
+Time taken for prepare 142: 0.0323 seconds
+Time taken for update 142: 0.0183 seconds
+now shape1: torch.Size([6684, 100])
+now shape2: torch.Size([4884, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 142: 0.0031 seconds
+Time taken for infer 142: 0.0495 seconds
+Time taken for batch 142 computation: 0.0575 seconds
+Time taken for sample 154: 0.0081 seconds
+Time taken for prepare 143: 0.0334 seconds
+Time taken for update 143: 0.0195 seconds
+now shape1: torch.Size([6718, 100])
+now shape2: torch.Size([4918, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 143: 0.0031 seconds
+Time taken for infer 143: 0.0515 seconds
+Time taken for batch 143 computation: 0.0591 seconds
+Time taken for sample 155: 0.0078 seconds
+Time taken for prepare 144: 0.0329 seconds
+Time taken for update 144: 0.0187 seconds
+now shape1: torch.Size([6770, 100])
+now shape2: torch.Size([4970, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 144: 0.0031 seconds
+Time taken for infer 144: 0.0526 seconds
+Time taken for batch 144 computation: 0.0605 seconds
+Time taken for sample 156: 0.0075 seconds
+Time taken for prepare 145: 0.0321 seconds
+Time taken for update 145: 0.0181 seconds
+now shape1: torch.Size([6890, 100])
+now shape2: torch.Size([5090, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 145: 0.0029 seconds
+Time taken for infer 145: 0.0485 seconds
+Time taken for batch 145 computation: 0.0569 seconds
+Time taken for sample 157: 0.0076 seconds
+Time taken for prepare 146: 0.0344 seconds
+Time taken for update 146: 0.0197 seconds
+now shape1: torch.Size([6765, 100])
+now shape2: torch.Size([4965, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 146: 0.0029 seconds
+Time taken for infer 146: 0.0517 seconds
+Time taken for batch 146 computation: 0.0591 seconds
+Time taken for sample 158: 0.0075 seconds
+Time taken for prepare 147: 0.0331 seconds
+Time taken for update 147: 0.0189 seconds
+now shape1: torch.Size([6860, 100])
+now shape2: torch.Size([5060, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 147: 0.0033 seconds
+Time taken for infer 147: 0.0521 seconds
+Time taken for batch 147 computation: 0.0602 seconds
+Time taken for sample 159: 0.0072 seconds
+Time taken for prepare 148: 0.0323 seconds
+Time taken for update 148: 0.0181 seconds
+now shape1: torch.Size([6584, 100])
+now shape2: torch.Size([4784, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 148: 0.0029 seconds
+Time taken for infer 148: 0.0460 seconds
+Time taken for batch 148 computation: 0.0541 seconds
+Time taken for sample 160: 0.0074 seconds
+Time taken for prepare 149: 0.0327 seconds
+Time taken for update 149: 0.0179 seconds
+now shape1: torch.Size([6720, 100])
+now shape2: torch.Size([4920, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 149: 0.0029 seconds
+Time taken for infer 149: 0.0540 seconds
+Time taken for batch 149 computation: 0.0622 seconds
+Time taken for sample 161: 0.0077 seconds
+Time taken for prepare 150: 0.0371 seconds
+Time taken for update 150: 0.0215 seconds
+now shape1: torch.Size([6673, 100])
+now shape2: torch.Size([4873, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 150: 0.0032 seconds
+Time taken for infer 150: 0.0583 seconds
+Time taken for batch 150 computation: 0.0656 seconds
+Time taken for sample 162: 0.0081 seconds
+Time taken for prepare 151: 0.0415 seconds
+Time taken for update 151: 0.0222 seconds
+now shape1: torch.Size([6573, 100])
+now shape2: torch.Size([4773, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 151: 0.0026 seconds
+Time taken for infer 151: 0.0510 seconds
+Time taken for batch 151 computation: 0.0583 seconds
+Time taken for sample 163: 0.0085 seconds
+Time taken for prepare 152: 0.0335 seconds
+Time taken for update 152: 0.0205 seconds
+now shape1: torch.Size([6704, 100])
+now shape2: torch.Size([4904, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 152: 0.0032 seconds
+Time taken for infer 152: 0.0585 seconds
+Time taken for batch 152 computation: 0.0659 seconds
+Time taken for sample 164: 0.0077 seconds
+Time taken for prepare 153: 0.0352 seconds
+Time taken for update 153: 0.0217 seconds
+now shape1: torch.Size([6848, 100])
+now shape2: torch.Size([5048, 128])
+Time taken for qkv computation: 0.0069 seconds
+Time taken for att computation: 0.0083 seconds
+Time taken for another gather 153: 0.0034 seconds
+Time taken for infer 153: 0.0581 seconds
+Time taken for batch 153 computation: 0.0663 seconds
+Time taken for sample 165: 0.0071 seconds
+Time taken for prepare 154: 0.0334 seconds
+Time taken for update 154: 0.0395 seconds
+now shape1: torch.Size([7000, 100])
+now shape2: torch.Size([5200, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 154: 0.0029 seconds
+Time taken for infer 154: 0.0702 seconds
+Time taken for batch 154 computation: 0.0780 seconds
+Time taken for sample 166: 0.0076 seconds
+Time taken for prepare 155: 0.0382 seconds
+Time taken for update 155: 0.0208 seconds
+now shape1: torch.Size([6636, 100])
+now shape2: torch.Size([4836, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 155: 0.0030 seconds
+Time taken for infer 155: 0.0516 seconds
+Time taken for batch 155 computation: 0.0590 seconds
+Time taken for sample 167: 0.0074 seconds
+Time taken for prepare 156: 0.0402 seconds
+Time taken for update 156: 0.0444 seconds
+now shape1: torch.Size([6710, 100])
+now shape2: torch.Size([4910, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 156: 0.0032 seconds
+Time taken for infer 156: 0.0830 seconds
+Time taken for batch 156 computation: 0.0907 seconds
+Time taken for sample 168: 0.0078 seconds
+Time taken for prepare 157: 0.0432 seconds
+Time taken for update 157: 0.0238 seconds
+now shape1: torch.Size([6432, 100])
+now shape2: torch.Size([4632, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 157: 0.0031 seconds
+Time taken for infer 157: 0.0604 seconds
+Time taken for batch 157 computation: 0.0679 seconds
+Time taken for sample 169: 0.0076 seconds
+Time taken for prepare 158: 0.0448 seconds
+Time taken for update 158: 0.0239 seconds
+now shape1: torch.Size([6628, 100])
+now shape2: torch.Size([4828, 128])
+Time taken for qkv computation: 0.0097 seconds
+Time taken for att computation: 0.0087 seconds
+Time taken for another gather 158: 0.0036 seconds
+Time taken for infer 158: 0.0666 seconds
+Time taken for batch 158 computation: 0.0738 seconds
+Time taken for sample 170: 0.0079 seconds
+Time taken for prepare 159: 0.0456 seconds
+Time taken for update 159: 0.0244 seconds
+now shape1: torch.Size([6830, 100])
+now shape2: torch.Size([5030, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 159: 0.0027 seconds
+Time taken for infer 159: 0.0536 seconds
+Time taken for batch 159 computation: 0.0610 seconds
+Time taken for sample 171: 0.0080 seconds
+Time taken for prepare 160: 0.0447 seconds
+Time taken for update 160: 0.0238 seconds
+now shape1: torch.Size([6967, 100])
+now shape2: torch.Size([5167, 128])
+Time taken for qkv computation: 0.0097 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 160: 0.0032 seconds
+Time taken for infer 160: 0.0620 seconds
+Time taken for batch 160 computation: 0.0696 seconds
+Time taken for sample 172: 0.0074 seconds
+Time taken for prepare 161: 0.0460 seconds
+Time taken for update 161: 0.0504 seconds
+now shape1: torch.Size([6825, 100])
+now shape2: torch.Size([5025, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 161: 0.0032 seconds
+Time taken for infer 161: 0.0874 seconds
+Time taken for batch 161 computation: 0.0956 seconds
+Time taken for sample 173: 0.0077 seconds
+Time taken for prepare 162: 0.0348 seconds
+Time taken for update 162: 0.0202 seconds
+now shape1: torch.Size([6791, 100])
+now shape2: torch.Size([4991, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 162: 0.0031 seconds
+Time taken for infer 162: 0.0528 seconds
+Time taken for batch 162 computation: 0.0612 seconds
+Time taken for sample 174: 0.0084 seconds
+Time taken for prepare 163: 0.0330 seconds
+Time taken for update 163: 0.0192 seconds
+now shape1: torch.Size([7015, 100])
+now shape2: torch.Size([5215, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 163: 0.0031 seconds
+Time taken for infer 163: 0.0528 seconds
+Time taken for batch 163 computation: 0.0605 seconds
+Time taken for sample 175: 0.0074 seconds
+Time taken for prepare 164: 0.0329 seconds
+Time taken for update 164: 0.0193 seconds
+now shape1: torch.Size([6541, 100])
+now shape2: torch.Size([4741, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 164: 0.0027 seconds
+Time taken for infer 164: 0.0463 seconds
+Time taken for batch 164 computation: 0.0534 seconds
+Time taken for sample 176: 0.0085 seconds
+Time taken for prepare 165: 0.0344 seconds
+Time taken for update 165: 0.0202 seconds
+now shape1: torch.Size([6455, 100])
+now shape2: torch.Size([4655, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 165: 0.0030 seconds
+Time taken for infer 165: 0.0519 seconds
+Time taken for batch 165 computation: 0.0595 seconds
+Time taken for sample 177: 0.0072 seconds
+Time taken for prepare 166: 0.0322 seconds
+Time taken for update 166: 0.0183 seconds
+now shape1: torch.Size([6581, 100])
+now shape2: torch.Size([4781, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 166: 0.0028 seconds
+Time taken for infer 166: 0.0490 seconds
+Time taken for batch 166 computation: 0.0564 seconds
+Time taken for sample 178: 0.0078 seconds
+Time taken for prepare 167: 0.0347 seconds
+Time taken for update 167: 0.0197 seconds
+now shape1: torch.Size([6572, 100])
+now shape2: torch.Size([4772, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 167: 0.0029 seconds
+Time taken for infer 167: 0.0498 seconds
+Time taken for batch 167 computation: 0.0577 seconds
+Time taken for sample 179: 0.0087 seconds
+Time taken for prepare 168: 0.0323 seconds
+Time taken for update 168: 0.0180 seconds
+now shape1: torch.Size([6705, 100])
+now shape2: torch.Size([4905, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 168: 0.0027 seconds
+Time taken for infer 168: 0.0449 seconds
+Time taken for batch 168 computation: 0.0526 seconds
+Time taken for sample 180: 0.0073 seconds
+Time taken for prepare 169: 0.0409 seconds
+Time taken for update 169: 0.0448 seconds
+now shape1: torch.Size([6583, 100])
+now shape2: torch.Size([4783, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0067 seconds
+Time taken for another gather 169: 0.0033 seconds
+Time taken for infer 169: 0.0831 seconds
+Time taken for batch 169 computation: 0.0910 seconds
+Time taken for sample 181: 0.0077 seconds
+Time taken for prepare 170: 0.0424 seconds
+Time taken for update 170: 0.0231 seconds
+now shape1: torch.Size([6584, 100])
+now shape2: torch.Size([4784, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0078 seconds
+Time taken for another gather 170: 0.0032 seconds
+Time taken for infer 170: 0.0614 seconds
+Time taken for batch 170 computation: 0.0694 seconds
+Time taken for sample 182: 0.0074 seconds
+Time taken for prepare 171: 0.0349 seconds
+Time taken for update 171: 0.0193 seconds
+now shape1: torch.Size([6542, 100])
+now shape2: torch.Size([4742, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 171: 0.0027 seconds
+Time taken for infer 171: 0.0476 seconds
+Time taken for batch 171 computation: 0.0550 seconds
+Time taken for sample 183: 0.0076 seconds
+Time taken for prepare 172: 0.0330 seconds
+Time taken for update 172: 0.0187 seconds
+now shape1: torch.Size([6830, 100])
+now shape2: torch.Size([5030, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 172: 0.0033 seconds
+Time taken for infer 172: 0.0522 seconds
+Time taken for batch 172 computation: 0.0599 seconds
+Time taken for sample 184: 0.0075 seconds
+Time taken for prepare 173: 0.0326 seconds
+Time taken for update 173: 0.0189 seconds
+now shape1: torch.Size([6723, 100])
+now shape2: torch.Size([4923, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 173: 0.0031 seconds
+Time taken for infer 173: 0.0552 seconds
+Time taken for batch 173 computation: 0.0636 seconds
+Time taken for sample 185: 0.0076 seconds
+Time taken for prepare 174: 0.0335 seconds
+Time taken for update 174: 0.0195 seconds
+now shape1: torch.Size([6616, 100])
+now shape2: torch.Size([4816, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 174: 0.0027 seconds
+Time taken for infer 174: 0.0473 seconds
+Time taken for batch 174 computation: 0.0548 seconds
+Time taken for sample 186: 0.0075 seconds
+Time taken for prepare 175: 0.0325 seconds
+Time taken for update 175: 0.0185 seconds
+now shape1: torch.Size([6519, 100])
+now shape2: torch.Size([4719, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0059 seconds
+Time taken for another gather 175: 0.0032 seconds
+Time taken for infer 175: 0.0531 seconds
+Time taken for batch 175 computation: 0.0616 seconds
+Time taken for sample 187: 0.0074 seconds
+Time taken for prepare 176: 0.0330 seconds
+Time taken for update 176: 0.0186 seconds
+now shape1: torch.Size([6620, 100])
+now shape2: torch.Size([4820, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 176: 0.0031 seconds
+Time taken for infer 176: 0.0531 seconds
+Time taken for batch 176 computation: 0.0604 seconds
+Time taken for sample 188: 0.0073 seconds
+Time taken for prepare 177: 0.0328 seconds
+Time taken for update 177: 0.0180 seconds
+now shape1: torch.Size([6677, 100])
+now shape2: torch.Size([4877, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 177: 0.0026 seconds
+Time taken for infer 177: 0.0443 seconds
+Time taken for batch 177 computation: 0.0521 seconds
+Time taken for sample 189: 0.0071 seconds
+Time taken for prepare 178: 0.0312 seconds
+Time taken for update 178: 0.0179 seconds
+now shape1: torch.Size([6536, 100])
+now shape2: torch.Size([4736, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 178: 0.0031 seconds
+Time taken for infer 178: 0.0514 seconds
+Time taken for batch 178 computation: 0.0601 seconds
+Time taken for sample 190: 0.0078 seconds
+Time taken for prepare 179: 0.0331 seconds
+Time taken for update 179: 0.0192 seconds
+now shape1: torch.Size([6305, 100])
+now shape2: torch.Size([4505, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 179: 0.0026 seconds
+Time taken for infer 179: 0.0460 seconds
+Time taken for batch 179 computation: 0.0533 seconds
+Time taken for sample 191: 0.0075 seconds
+Time taken for prepare 180: 0.0386 seconds
+Time taken for update 180: 0.0217 seconds
+now shape1: torch.Size([6465, 100])
+now shape2: torch.Size([4665, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 180: 0.0034 seconds
+Time taken for infer 180: 0.0593 seconds
+Time taken for batch 180 computation: 0.0670 seconds
+Time taken for sample 192: 0.0078 seconds
+Time taken for prepare 181: 0.0416 seconds
+Time taken for update 181: 0.0236 seconds
+now shape1: torch.Size([6842, 100])
+now shape2: torch.Size([5042, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 181: 0.0032 seconds
+Time taken for infer 181: 0.0615 seconds
+Time taken for batch 181 computation: 0.0689 seconds
+Time taken for sample 193: 0.0072 seconds
+Time taken for prepare 182: 0.0451 seconds
+Time taken for update 182: 0.0240 seconds
+now shape1: torch.Size([6675, 100])
+now shape2: torch.Size([4875, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 182: 0.0031 seconds
+Time taken for infer 182: 0.0606 seconds
+Time taken for batch 182 computation: 0.0683 seconds
+Time taken for sample 194: 0.0086 seconds
+Time taken for prepare 183: 0.0397 seconds
+Time taken for update 183: 0.0224 seconds
+now shape1: torch.Size([7163, 100])
+now shape2: torch.Size([5363, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 183: 0.0034 seconds
+Time taken for infer 183: 0.0568 seconds
+Time taken for batch 183 computation: 0.0644 seconds
+Time taken for sample 195: 0.0074 seconds
+Time taken for prepare 184: 0.0427 seconds
+Time taken for update 184: 0.0471 seconds
+now shape1: torch.Size([6869, 100])
+now shape2: torch.Size([5069, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 184: 0.0034 seconds
+Time taken for infer 184: 0.0837 seconds
+Time taken for batch 184 computation: 0.0913 seconds
+Time taken for sample 196: 0.0074 seconds
+Time taken for prepare 185: 0.0408 seconds
+Time taken for update 185: 0.0227 seconds
+now shape1: torch.Size([6824, 100])
+now shape2: torch.Size([5024, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 185: 0.0031 seconds
+Time taken for infer 185: 0.0584 seconds
+Time taken for batch 185 computation: 0.0659 seconds
+Time taken for sample 197: 0.0073 seconds
+Time taken for prepare 186: 0.0445 seconds
+Time taken for update 186: 0.0243 seconds
+now shape1: torch.Size([6500, 100])
+now shape2: torch.Size([4700, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0080 seconds
+Time taken for another gather 186: 0.0033 seconds
+Time taken for infer 186: 0.0642 seconds
+Time taken for batch 186 computation: 0.0716 seconds
+Time taken for sample 198: 0.0082 seconds
+Time taken for prepare 187: 0.0456 seconds
+Time taken for update 187: 0.0248 seconds
+now shape1: torch.Size([6714, 100])
+now shape2: torch.Size([4914, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0078 seconds
+Time taken for another gather 187: 0.0034 seconds
+Time taken for infer 187: 0.0655 seconds
+Time taken for batch 187 computation: 0.0729 seconds
+Time taken for sample 199: 0.0090 seconds
+Time taken for prepare 188: 0.0450 seconds
+Time taken for update 188: 0.0238 seconds
+now shape1: torch.Size([6847, 100])
+now shape2: torch.Size([5047, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 188: 0.0027 seconds
+Time taken for infer 188: 0.0507 seconds
+Time taken for batch 188 computation: 0.0578 seconds
+Time taken for sample 200: 0.0077 seconds
+Time taken for prepare 189: 0.0427 seconds
+Time taken for update 189: 0.0227 seconds
+now shape1: torch.Size([6481, 100])
+now shape2: torch.Size([4681, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 189: 0.0032 seconds
+Time taken for infer 189: 0.0590 seconds
+Time taken for batch 189 computation: 0.0668 seconds
+Time taken for sample 201: 0.0075 seconds
+Time taken for prepare 190: 0.0433 seconds
+Time taken for update 190: 0.0230 seconds
+now shape1: torch.Size([6702, 100])
+now shape2: torch.Size([4902, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 190: 0.0033 seconds
+Time taken for infer 190: 0.0607 seconds
+Time taken for batch 190 computation: 0.0682 seconds
+Time taken for sample 202: 0.0075 seconds
+Time taken for prepare 191: 0.0443 seconds
+Time taken for update 191: 0.0235 seconds
+now shape1: torch.Size([6652, 100])
+now shape2: torch.Size([4852, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0077 seconds
+Time taken for another gather 191: 0.0035 seconds
+Time taken for infer 191: 0.0642 seconds
+Time taken for batch 191 computation: 0.0720 seconds
+Time taken for sample 203: 0.0085 seconds
+Time taken for prepare 192: 0.0436 seconds
+Time taken for update 192: 0.0234 seconds
+now shape1: torch.Size([6580, 100])
+now shape2: torch.Size([4780, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0079 seconds
+Time taken for another gather 192: 0.0036 seconds
+Time taken for infer 192: 0.0649 seconds
+Time taken for batch 192 computation: 0.0722 seconds
+Time taken for sample 204: 0.0075 seconds
+Time taken for prepare 193: 0.0324 seconds
+Time taken for update 193: 0.0184 seconds
+now shape1: torch.Size([6655, 100])
+now shape2: torch.Size([4855, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 193: 0.0032 seconds
+Time taken for infer 193: 0.0515 seconds
+Time taken for batch 193 computation: 0.0601 seconds
+Time taken for sample 205: 0.0091 seconds
+Time taken for prepare 194: 0.0337 seconds
+Time taken for update 194: 0.0190 seconds
+now shape1: torch.Size([6587, 100])
+now shape2: torch.Size([4787, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 194: 0.0030 seconds
+Time taken for infer 194: 0.0506 seconds
+Time taken for batch 194 computation: 0.0580 seconds
+Time taken for sample 206: 0.0078 seconds
+Time taken for prepare 195: 0.0326 seconds
+Time taken for update 195: 0.0186 seconds
+now shape1: torch.Size([6701, 100])
+now shape2: torch.Size([4901, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 195: 0.0031 seconds
+Time taken for infer 195: 0.0517 seconds
+Time taken for batch 195 computation: 0.0591 seconds
+Time taken for sample 207: 0.0077 seconds
+Time taken for prepare 196: 0.0346 seconds
+Time taken for update 196: 0.0197 seconds
+now shape1: torch.Size([6553, 100])
+now shape2: torch.Size([4753, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0060 seconds
+Time taken for another gather 196: 0.0036 seconds
+Time taken for infer 196: 0.0555 seconds
+Time taken for batch 196 computation: 0.0628 seconds
+Time taken for sample 208: 0.0081 seconds
+Time taken for prepare 197: 0.0397 seconds
+Time taken for update 197: 0.0227 seconds
+now shape1: torch.Size([6633, 100])
+now shape2: torch.Size([4833, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 197: 0.0032 seconds
+Time taken for infer 197: 0.0591 seconds
+Time taken for batch 197 computation: 0.0673 seconds
+Time taken for sample 209: 0.0072 seconds
+Time taken for prepare 198: 0.0410 seconds
+Time taken for update 198: 0.0225 seconds
+now shape1: torch.Size([6825, 100])
+now shape2: torch.Size([5025, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 198: 0.0031 seconds
+Time taken for infer 198: 0.0575 seconds
+Time taken for batch 198 computation: 0.0665 seconds
+Time taken for sample 210: 0.0077 seconds
+Time taken for prepare 199: 0.0344 seconds
+Time taken for update 199: 0.0195 seconds
+now shape1: torch.Size([6473, 100])
+now shape2: torch.Size([4673, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 199: 0.0032 seconds
+Time taken for infer 199: 0.0537 seconds
+Time taken for batch 199 computation: 0.0615 seconds
+Time taken for sample 211: 0.0072 seconds
+Time taken for prepare 200: 0.0349 seconds
+Time taken for update 200: 0.0201 seconds
+now shape1: torch.Size([6817, 100])
+now shape2: torch.Size([5017, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 200: 0.0031 seconds
+Time taken for infer 200: 0.0529 seconds
+Time taken for batch 200 computation: 0.0605 seconds
+Time taken for sample 212: 0.0075 seconds
+Time taken for prepare 201: 0.0333 seconds
+Time taken for update 201: 0.0185 seconds
+now shape1: torch.Size([6745, 100])
+now shape2: torch.Size([4945, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 201: 0.0033 seconds
+Time taken for infer 201: 0.0537 seconds
+Time taken for batch 201 computation: 0.0612 seconds
+Time taken for sample 213: 0.0081 seconds
+Time taken for prepare 202: 0.0319 seconds
+Time taken for update 202: 0.0183 seconds
+now shape1: torch.Size([6781, 100])
+now shape2: torch.Size([4981, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 202: 0.0028 seconds
+Time taken for infer 202: 0.0457 seconds
+Time taken for batch 202 computation: 0.0542 seconds
+Time taken for sample 214: 0.0077 seconds
+Time taken for prepare 203: 0.0327 seconds
+Time taken for update 203: 0.0185 seconds
+now shape1: torch.Size([6577, 100])
+now shape2: torch.Size([4777, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 203: 0.0031 seconds
+Time taken for infer 203: 0.0521 seconds
+Time taken for batch 203 computation: 0.0596 seconds
+Time taken for sample 215: 0.0093 seconds
+Time taken for prepare 204: 0.0323 seconds
+Time taken for update 204: 0.0183 seconds
+now shape1: torch.Size([6582, 100])
+now shape2: torch.Size([4782, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 204: 0.0030 seconds
+Time taken for infer 204: 0.0515 seconds
+Time taken for batch 204 computation: 0.0605 seconds
+Time taken for sample 216: 0.0073 seconds
+Time taken for prepare 205: 0.0349 seconds
+Time taken for update 205: 0.0200 seconds
+now shape1: torch.Size([6574, 100])
+now shape2: torch.Size([4774, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0074 seconds
+Time taken for another gather 205: 0.0031 seconds
+Time taken for infer 205: 0.0556 seconds
+Time taken for batch 205 computation: 0.0635 seconds
+Time taken for sample 217: 0.0073 seconds
+Time taken for prepare 206: 0.0334 seconds
+Time taken for update 206: 0.0188 seconds
+now shape1: torch.Size([6762, 100])
+now shape2: torch.Size([4962, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 206: 0.0030 seconds
+Time taken for infer 206: 0.0495 seconds
+Time taken for batch 206 computation: 0.0572 seconds
+Time taken for sample 218: 0.0076 seconds
+Time taken for prepare 207: 0.0376 seconds
+Time taken for update 207: 0.0421 seconds
+now shape1: torch.Size([6711, 100])
+now shape2: torch.Size([4911, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0060 seconds
+Time taken for another gather 207: 0.0031 seconds
+Time taken for infer 207: 0.0769 seconds
+Time taken for batch 207 computation: 0.0850 seconds
+Time taken for sample 219: 0.0087 seconds
+Time taken for prepare 208: 0.0427 seconds
+Time taken for update 208: 0.0240 seconds
+now shape1: torch.Size([6684, 100])
+now shape2: torch.Size([4884, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 208: 0.0035 seconds
+Time taken for infer 208: 0.0625 seconds
+Time taken for batch 208 computation: 0.0697 seconds
+Time taken for sample 220: 0.0078 seconds
+Time taken for prepare 209: 0.0342 seconds
+Time taken for update 209: 0.0194 seconds
+now shape1: torch.Size([6767, 100])
+now shape2: torch.Size([4967, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 209: 0.0032 seconds
+Time taken for infer 209: 0.0521 seconds
+Time taken for batch 209 computation: 0.0598 seconds
+Time taken for sample 221: 0.0080 seconds
+Time taken for prepare 210: 0.0390 seconds
+Time taken for update 210: 0.0224 seconds
+now shape1: torch.Size([6820, 100])
+now shape2: torch.Size([5020, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 210: 0.0033 seconds
+Time taken for infer 210: 0.0568 seconds
+Time taken for batch 210 computation: 0.0640 seconds
+Time taken for sample 222: 0.0075 seconds
+Time taken for prepare 211: 0.0407 seconds
+Time taken for update 211: 0.0194 seconds
+now shape1: torch.Size([6885, 100])
+now shape2: torch.Size([5085, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 211: 0.0029 seconds
+Time taken for infer 211: 0.0477 seconds
+Time taken for batch 211 computation: 0.0552 seconds
+Time taken for sample 223: 0.0076 seconds
+Time taken for prepare 212: 0.0425 seconds
+Time taken for update 212: 0.0486 seconds
+now shape1: torch.Size([6841, 100])
+now shape2: torch.Size([5041, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0084 seconds
+Time taken for another gather 212: 0.0033 seconds
+Time taken for infer 212: 0.0875 seconds
+Time taken for batch 212 computation: 0.0956 seconds
+Time taken for sample 224: 0.0075 seconds
+Time taken for prepare 213: 0.0338 seconds
+Time taken for update 213: 0.0208 seconds
+now shape1: torch.Size([6777, 100])
+now shape2: torch.Size([4977, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 213: 0.0038 seconds
+Time taken for infer 213: 0.0623 seconds
+Time taken for batch 213 computation: 0.0701 seconds
+Time taken for sample 225: 0.0075 seconds
+Time taken for prepare 214: 0.0350 seconds
+Time taken for update 214: 0.0195 seconds
+now shape1: torch.Size([6651, 100])
+now shape2: torch.Size([4851, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 214: 0.0027 seconds
+Time taken for infer 214: 0.0460 seconds
+Time taken for batch 214 computation: 0.0553 seconds
+Time taken for sample 226: 0.0073 seconds
+Time taken for prepare 215: 0.0364 seconds
+Time taken for update 215: 0.0405 seconds
+now shape1: torch.Size([6782, 100])
+now shape2: torch.Size([4982, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 215: 0.0032 seconds
+Time taken for infer 215: 0.0778 seconds
+Time taken for batch 215 computation: 0.0852 seconds
+Time taken for sample 227: 0.0103 seconds
+Time taken for prepare 216: 0.0425 seconds
+Time taken for update 216: 0.0237 seconds
+now shape1: torch.Size([6498, 100])
+now shape2: torch.Size([4698, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 216: 0.0032 seconds
+Time taken for infer 216: 0.0617 seconds
+Time taken for batch 216 computation: 0.0690 seconds
+Time taken for sample 228: 0.0078 seconds
+Time taken for prepare 217: 0.0394 seconds
+Time taken for update 217: 0.0213 seconds
+now shape1: torch.Size([6873, 100])
+now shape2: torch.Size([5073, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 217: 0.0032 seconds
+Time taken for infer 217: 0.0533 seconds
+Time taken for batch 217 computation: 0.0609 seconds
+Time taken for sample 229: 0.0076 seconds
+Time taken for prepare 218: 0.0410 seconds
+Time taken for update 218: 0.0228 seconds
+now shape1: torch.Size([6984, 100])
+now shape2: torch.Size([5184, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 218: 0.0035 seconds
+Time taken for infer 218: 0.0614 seconds
+Time taken for batch 218 computation: 0.0701 seconds
+Time taken for sample 230: 0.0082 seconds
+Time taken for prepare 219: 0.0434 seconds
+Time taken for update 219: 0.0234 seconds
+now shape1: torch.Size([6745, 100])
+now shape2: torch.Size([4945, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0068 seconds
+Time taken for another gather 219: 0.0032 seconds
+Time taken for infer 219: 0.0595 seconds
+Time taken for batch 219 computation: 0.0673 seconds
+Time taken for sample 231: 0.0078 seconds
+Time taken for prepare 220: 0.0444 seconds
+Time taken for update 220: 0.0243 seconds
+now shape1: torch.Size([6899, 100])
+now shape2: torch.Size([5099, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 220: 0.0032 seconds
+Time taken for infer 220: 0.0596 seconds
+Time taken for batch 220 computation: 0.0677 seconds
+Time taken for sample 232: 0.0075 seconds
+Time taken for prepare 221: 0.0460 seconds
+Time taken for update 221: 0.0239 seconds
+now shape1: torch.Size([6541, 100])
+now shape2: torch.Size([4741, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 221: 0.0028 seconds
+Time taken for infer 221: 0.0520 seconds
+Time taken for batch 221 computation: 0.0595 seconds
+Time taken for sample 233: 0.0077 seconds
+Time taken for prepare 222: 0.0338 seconds
+Time taken for update 222: 0.0210 seconds
+now shape1: torch.Size([6624, 100])
+now shape2: torch.Size([4824, 128])
+Time taken for qkv computation: 0.0077 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 222: 0.0034 seconds
+Time taken for infer 222: 0.0617 seconds
+Time taken for batch 222 computation: 0.0693 seconds
+Time taken for sample 234: 0.0077 seconds
+Time taken for prepare 223: 0.0316 seconds
+Time taken for update 223: 0.0191 seconds
+now shape1: torch.Size([6756, 100])
+now shape2: torch.Size([4956, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 223: 0.0032 seconds
+Time taken for infer 223: 0.0545 seconds
+Time taken for batch 223 computation: 0.0620 seconds
+Time taken for sample 235: 0.0074 seconds
+Time taken for prepare 224: 0.0398 seconds
+Time taken for update 224: 0.0219 seconds
+now shape1: torch.Size([6696, 100])
+now shape2: torch.Size([4896, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 224: 0.0033 seconds
+Time taken for infer 224: 0.0532 seconds
+Time taken for batch 224 computation: 0.0607 seconds
+Time taken for sample 236: 0.0076 seconds
+Time taken for prepare 225: 0.0349 seconds
+Time taken for update 225: 0.0216 seconds
+now shape1: torch.Size([7215, 100])
+now shape2: torch.Size([5415, 128])
+Time taken for qkv computation: 0.0081 seconds
+Time taken for att computation: 0.0076 seconds
+Time taken for another gather 225: 0.0036 seconds
+Time taken for infer 225: 0.0587 seconds
+Time taken for batch 225 computation: 0.0661 seconds
+Time taken for sample 237: 0.0073 seconds
+Time taken for prepare 226: 0.0339 seconds
+Time taken for update 226: 0.0191 seconds
+now shape1: torch.Size([6776, 100])
+now shape2: torch.Size([4976, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 226: 0.0027 seconds
+Time taken for infer 226: 0.0454 seconds
+Time taken for batch 226 computation: 0.0558 seconds
+Time taken for sample 238: 0.0075 seconds
+Time taken for prepare 227: 0.0376 seconds
+Time taken for update 227: 0.0215 seconds
+now shape1: torch.Size([6672, 100])
+now shape2: torch.Size([4872, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 227: 0.0031 seconds
+Time taken for infer 227: 0.0548 seconds
+Time taken for batch 227 computation: 0.0626 seconds
+Time taken for sample 239: 0.0090 seconds
+Time taken for prepare 228: 0.0313 seconds
+Time taken for update 228: 0.0180 seconds
+now shape1: torch.Size([6860, 100])
+now shape2: torch.Size([5060, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 228: 0.0028 seconds
+Time taken for infer 228: 0.0462 seconds
+Time taken for batch 228 computation: 0.0538 seconds
+Time taken for sample 240: 0.0073 seconds
+Time taken for prepare 229: 0.0329 seconds
+Time taken for update 229: 0.0184 seconds
+now shape1: torch.Size([6389, 100])
+now shape2: torch.Size([4589, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 229: 0.0032 seconds
+Time taken for infer 229: 0.0540 seconds
+Time taken for batch 229 computation: 0.0622 seconds
+Time taken for sample 241: 0.0076 seconds
+Time taken for prepare 230: 0.0331 seconds
+Time taken for update 230: 0.0186 seconds
+now shape1: torch.Size([6695, 100])
+now shape2: torch.Size([4895, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 230: 0.0032 seconds
+Time taken for infer 230: 0.0516 seconds
+Time taken for batch 230 computation: 0.0595 seconds
+Time taken for sample 242: 0.0076 seconds
+Time taken for prepare 231: 0.0356 seconds
+Time taken for update 231: 0.0206 seconds
+now shape1: torch.Size([6695, 100])
+now shape2: torch.Size([4895, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 231: 0.0032 seconds
+Time taken for infer 231: 0.0527 seconds
+Time taken for batch 231 computation: 0.0602 seconds
+Time taken for sample 243: 0.0074 seconds
+Time taken for prepare 232: 0.0338 seconds
+Time taken for update 232: 0.0192 seconds
+now shape1: torch.Size([6931, 100])
+now shape2: torch.Size([5131, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 232: 0.0031 seconds
+Time taken for infer 232: 0.0510 seconds
+Time taken for batch 232 computation: 0.0587 seconds
+Time taken for sample 244: 0.0085 seconds
+Time taken for prepare 233: 0.0337 seconds
+Time taken for update 233: 0.0185 seconds
+now shape1: torch.Size([6786, 100])
+now shape2: torch.Size([4986, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 233: 0.0031 seconds
+Time taken for infer 233: 0.0497 seconds
+Time taken for batch 233 computation: 0.0574 seconds
+Time taken for sample 245: 0.0099 seconds
+Time taken for prepare 234: 0.0344 seconds
+Time taken for update 234: 0.0383 seconds
+now shape1: torch.Size([6923, 100])
+now shape2: torch.Size([5123, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 234: 0.0030 seconds
+Time taken for infer 234: 0.0680 seconds
+Time taken for batch 234 computation: 0.0754 seconds
+Time taken for sample 246: 0.0073 seconds
+Time taken for prepare 235: 0.0332 seconds
+Time taken for update 235: 0.0187 seconds
+now shape1: torch.Size([6962, 100])
+now shape2: torch.Size([5162, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 235: 0.0032 seconds
+Time taken for infer 235: 0.0512 seconds
+Time taken for batch 235 computation: 0.0588 seconds
+Time taken for sample 247: 0.0073 seconds
+Time taken for prepare 236: 0.0330 seconds
+Time taken for update 236: 0.0189 seconds
+now shape1: torch.Size([6833, 100])
+now shape2: torch.Size([5033, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 236: 0.0032 seconds
+Time taken for infer 236: 0.0543 seconds
+Time taken for batch 236 computation: 0.0616 seconds
+Time taken for sample 248: 0.0077 seconds
+Time taken for prepare 237: 0.0330 seconds
+Time taken for update 237: 0.0187 seconds
+now shape1: torch.Size([6686, 100])
+now shape2: torch.Size([4886, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 237: 0.0034 seconds
+Time taken for infer 237: 0.0523 seconds
+Time taken for batch 237 computation: 0.0598 seconds
+Time taken for sample 249: 0.0091 seconds
+Time taken for prepare 238: 0.0341 seconds
+Time taken for update 238: 0.0195 seconds
+now shape1: torch.Size([6581, 100])
+now shape2: torch.Size([4781, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 238: 0.0032 seconds
+Time taken for infer 238: 0.0528 seconds
+Time taken for batch 238 computation: 0.0618 seconds
+Time taken for sample 250: 0.0079 seconds
+Time taken for prepare 239: 0.0335 seconds
+Time taken for update 239: 0.0194 seconds
+now shape1: torch.Size([6846, 100])
+now shape2: torch.Size([5046, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 239: 0.0034 seconds
+Time taken for infer 239: 0.0540 seconds
+Time taken for batch 239 computation: 0.0613 seconds
+Time taken for sample 251: 0.0097 seconds
+Time taken for prepare 240: 0.0333 seconds
+Time taken for update 240: 0.0194 seconds
+now shape1: torch.Size([6755, 100])
+now shape2: torch.Size([4955, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 240: 0.0028 seconds
+Time taken for infer 240: 0.0466 seconds
+Time taken for batch 240 computation: 0.0542 seconds
+Time taken for sample 252: 0.0073 seconds
+Time taken for prepare 241: 0.0355 seconds
+Time taken for update 241: 0.0200 seconds
+now shape1: torch.Size([6507, 100])
+now shape2: torch.Size([4707, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 241: 0.0032 seconds
+Time taken for infer 241: 0.0519 seconds
+Time taken for batch 241 computation: 0.0595 seconds
+Time taken for sample 253: 0.0074 seconds
+Time taken for prepare 242: 0.0340 seconds
+Time taken for update 242: 0.0203 seconds
+now shape1: torch.Size([6959, 100])
+now shape2: torch.Size([5159, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 242: 0.0032 seconds
+Time taken for infer 242: 0.0550 seconds
+Time taken for batch 242 computation: 0.0625 seconds
+Time taken for sample 254: 0.0075 seconds
+Time taken for prepare 243: 0.0325 seconds
+Time taken for update 243: 0.0187 seconds
+now shape1: torch.Size([6837, 100])
+now shape2: torch.Size([5037, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 243: 0.0032 seconds
+Time taken for infer 243: 0.0546 seconds
+Time taken for batch 243 computation: 0.0631 seconds
+Time taken for sample 255: 0.0081 seconds
+Time taken for prepare 244: 0.0331 seconds
+Time taken for update 244: 0.0184 seconds
+now shape1: torch.Size([6562, 100])
+now shape2: torch.Size([4762, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 244: 0.0029 seconds
+Time taken for infer 244: 0.0462 seconds
+Time taken for batch 244 computation: 0.0561 seconds
+Time taken for sample 256: 0.0078 seconds
+Time taken for prepare 245: 0.0397 seconds
+Time taken for update 245: 0.0220 seconds
+now shape1: torch.Size([6885, 100])
+now shape2: torch.Size([5085, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 245: 0.0033 seconds
+Time taken for infer 245: 0.0566 seconds
+Time taken for batch 245 computation: 0.0639 seconds
+Time taken for sample 257: 0.0073 seconds
+Time taken for prepare 246: 0.0390 seconds
+Time taken for update 246: 0.0220 seconds
+now shape1: torch.Size([7060, 100])
+now shape2: torch.Size([5260, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 246: 0.0032 seconds
+Time taken for infer 246: 0.0580 seconds
+Time taken for batch 246 computation: 0.0653 seconds
+Time taken for sample 258: 0.0074 seconds
+Time taken for prepare 247: 0.0428 seconds
+Time taken for update 247: 0.0243 seconds
+now shape1: torch.Size([6670, 100])
+now shape2: torch.Size([4870, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0072 seconds
+Time taken for another gather 247: 0.0034 seconds
+Time taken for infer 247: 0.0626 seconds
+Time taken for batch 247 computation: 0.0703 seconds
+Time taken for sample 259: 0.0097 seconds
+Time taken for prepare 248: 0.0384 seconds
+Time taken for update 248: 0.0434 seconds
+now shape1: torch.Size([6940, 100])
+now shape2: torch.Size([5140, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0066 seconds
+Time taken for another gather 248: 0.0034 seconds
+Time taken for infer 248: 0.0817 seconds
+Time taken for batch 248 computation: 0.0907 seconds
+Time taken for sample 260: 0.0078 seconds
+Time taken for prepare 249: 0.0397 seconds
+Time taken for update 249: 0.0439 seconds
+now shape1: torch.Size([6403, 100])
+now shape2: torch.Size([4603, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 249: 0.0033 seconds
+Time taken for infer 249: 0.0790 seconds
+Time taken for batch 249 computation: 0.0869 seconds
+Time taken for sample 261: 0.0080 seconds
+Time taken for prepare 250: 0.0409 seconds
+Time taken for update 250: 0.0226 seconds
+now shape1: torch.Size([6846, 100])
+now shape2: torch.Size([5046, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 250: 0.0036 seconds
+Time taken for infer 250: 0.0616 seconds
+Time taken for batch 250 computation: 0.0713 seconds
+Time taken for sample 262: 0.0075 seconds
+Time taken for prepare 251: 0.0422 seconds
+Time taken for update 251: 0.0228 seconds
+now shape1: torch.Size([6626, 100])
+now shape2: torch.Size([4826, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0101 seconds
+Time taken for another gather 251: 0.0033 seconds
+Time taken for infer 251: 0.0637 seconds
+Time taken for batch 251 computation: 0.0710 seconds
+Time taken for sample 263: 0.0091 seconds
+Time taken for prepare 252: 0.0431 seconds
+Time taken for update 252: 0.0234 seconds
+now shape1: torch.Size([6687, 100])
+now shape2: torch.Size([4887, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 252: 0.0031 seconds
+Time taken for infer 252: 0.0557 seconds
+Time taken for batch 252 computation: 0.0631 seconds
+Time taken for sample 264: 0.0075 seconds
+Time taken for prepare 253: 0.0434 seconds
+Time taken for update 253: 0.0235 seconds
+now shape1: torch.Size([6891, 100])
+now shape2: torch.Size([5091, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 253: 0.0033 seconds
+Time taken for infer 253: 0.0601 seconds
+Time taken for batch 253 computation: 0.0675 seconds
+Time taken for sample 265: 0.0071 seconds
+Time taken for prepare 254: 0.0388 seconds
+Time taken for update 254: 0.0432 seconds
+now shape1: torch.Size([6810, 100])
+now shape2: torch.Size([5010, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0068 seconds
+Time taken for another gather 254: 0.0033 seconds
+Time taken for infer 254: 0.0798 seconds
+Time taken for batch 254 computation: 0.0879 seconds
+Time taken for sample 266: 0.0074 seconds
+Time taken for prepare 255: 0.0359 seconds
+Time taken for update 255: 0.0202 seconds
+now shape1: torch.Size([6628, 100])
+now shape2: torch.Size([4828, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 255: 0.0031 seconds
+Time taken for infer 255: 0.0513 seconds
+Time taken for batch 255 computation: 0.0591 seconds
+Time taken for sample 267: 0.0079 seconds
+Time taken for prepare 256: 0.0373 seconds
+Time taken for update 256: 0.0412 seconds
+now shape1: torch.Size([6794, 100])
+now shape2: torch.Size([4994, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 256: 0.0035 seconds
+Time taken for infer 256: 0.0748 seconds
+Time taken for batch 256 computation: 0.0821 seconds
+Time taken for sample 268: 0.0077 seconds
+Time taken for prepare 257: 0.0379 seconds
+Time taken for update 257: 0.0420 seconds
+now shape1: torch.Size([6754, 100])
+now shape2: torch.Size([4954, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0044 seconds
+Time taken for another gather 257: 0.0032 seconds
+Time taken for infer 257: 0.0726 seconds
+Time taken for batch 257 computation: 0.0800 seconds
+Time taken for sample 269: 0.0096 seconds
+Time taken for prepare 258: 0.0422 seconds
+Time taken for update 258: 0.0232 seconds
+now shape1: torch.Size([6886, 100])
+now shape2: torch.Size([5086, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0059 seconds
+Time taken for another gather 258: 0.0035 seconds
+Time taken for infer 258: 0.0594 seconds
+Time taken for batch 258 computation: 0.0691 seconds
+Time taken for sample 270: 0.0073 seconds
+Time taken for prepare 259: 0.0347 seconds
+Time taken for update 259: 0.0195 seconds
+now shape1: torch.Size([6818, 100])
+now shape2: torch.Size([5018, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 259: 0.0033 seconds
+Time taken for infer 259: 0.0526 seconds
+Time taken for batch 259 computation: 0.0603 seconds
+Time taken for sample 271: 0.0079 seconds
+Time taken for prepare 260: 0.0349 seconds
+Time taken for update 260: 0.0200 seconds
+now shape1: torch.Size([6922, 100])
+now shape2: torch.Size([5122, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0094 seconds
+Time taken for another gather 260: 0.0034 seconds
+Time taken for infer 260: 0.0582 seconds
+Time taken for batch 260 computation: 0.0662 seconds
+Time taken for sample 272: 0.0075 seconds
+Time taken for prepare 261: 0.0350 seconds
+Time taken for update 261: 0.0200 seconds
+now shape1: torch.Size([6865, 100])
+now shape2: torch.Size([5065, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 261: 0.0036 seconds
+Time taken for infer 261: 0.0515 seconds
+Time taken for batch 261 computation: 0.0590 seconds
+Time taken for sample 273: 0.0080 seconds
+Time taken for prepare 262: 0.0333 seconds
+Time taken for update 262: 0.0190 seconds
+now shape1: torch.Size([7049, 100])
+now shape2: torch.Size([5249, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 262: 0.0035 seconds
+Time taken for infer 262: 0.0521 seconds
+Time taken for batch 262 computation: 0.0612 seconds
+Time taken for sample 274: 0.0078 seconds
+Time taken for prepare 263: 0.0324 seconds
+Time taken for update 263: 0.0182 seconds
+now shape1: torch.Size([6663, 100])
+now shape2: torch.Size([4863, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 263: 0.0028 seconds
+Time taken for infer 263: 0.0458 seconds
+Time taken for batch 263 computation: 0.0532 seconds
+Time taken for sample 275: 0.0074 seconds
+Time taken for prepare 264: 0.0346 seconds
+Time taken for update 264: 0.0198 seconds
+now shape1: torch.Size([6584, 100])
+now shape2: torch.Size([4784, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0048 seconds
+Time taken for another gather 264: 0.0028 seconds
+Time taken for infer 264: 0.0479 seconds
+Time taken for batch 264 computation: 0.0551 seconds
+Time taken for sample 276: 0.0074 seconds
+Time taken for prepare 265: 0.0320 seconds
+Time taken for update 265: 0.0180 seconds
+now shape1: torch.Size([6935, 100])
+now shape2: torch.Size([5135, 128])
+Time taken for qkv computation: 0.0093 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 265: 0.0028 seconds
+Time taken for infer 265: 0.0463 seconds
+Time taken for batch 265 computation: 0.0536 seconds
+Time taken for sample 277: 0.0077 seconds
+Time taken for prepare 266: 0.0360 seconds
+Time taken for update 266: 0.0206 seconds
+now shape1: torch.Size([6494, 100])
+now shape2: torch.Size([4694, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 266: 0.0034 seconds
+Time taken for infer 266: 0.0536 seconds
+Time taken for batch 266 computation: 0.0614 seconds
+Time taken for sample 278: 0.0079 seconds
+Time taken for prepare 267: 0.0366 seconds
+Time taken for update 267: 0.0206 seconds
+now shape1: torch.Size([6836, 100])
+now shape2: torch.Size([5036, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 267: 0.0033 seconds
+Time taken for infer 267: 0.0527 seconds
+Time taken for batch 267 computation: 0.0603 seconds
+Time taken for sample 279: 0.0078 seconds
+Time taken for prepare 268: 0.0344 seconds
+Time taken for update 268: 0.0195 seconds
+now shape1: torch.Size([7172, 100])
+now shape2: torch.Size([5372, 128])
+Time taken for qkv computation: 0.0098 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 268: 0.0034 seconds
+Time taken for infer 268: 0.0538 seconds
+Time taken for batch 268 computation: 0.0634 seconds
+Time taken for sample 280: 0.0076 seconds
+Time taken for prepare 269: 0.0339 seconds
+Time taken for update 269: 0.0195 seconds
+now shape1: torch.Size([6937, 100])
+now shape2: torch.Size([5137, 128])
+Time taken for qkv computation: 0.0094 seconds
+Time taken for att computation: 0.0086 seconds
+Time taken for another gather 269: 0.0032 seconds
+Time taken for infer 269: 0.0547 seconds
+Time taken for batch 269 computation: 0.0620 seconds
+Time taken for sample 281: 0.0075 seconds
+Time taken for prepare 270: 0.0354 seconds
+Time taken for update 270: 0.0201 seconds
+now shape1: torch.Size([6623, 100])
+now shape2: torch.Size([4823, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 270: 0.0033 seconds
+Time taken for infer 270: 0.0531 seconds
+Time taken for batch 270 computation: 0.0610 seconds
+Time taken for sample 282: 0.0075 seconds
+Time taken for prepare 271: 0.0332 seconds
+Time taken for update 271: 0.0192 seconds
+now shape1: torch.Size([6971, 100])
+now shape2: torch.Size([5171, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 271: 0.0033 seconds
+Time taken for infer 271: 0.0537 seconds
+Time taken for batch 271 computation: 0.0613 seconds
+Time taken for sample 283: 0.0073 seconds
+Time taken for prepare 272: 0.0337 seconds
+Time taken for update 272: 0.0193 seconds
+now shape1: torch.Size([6581, 100])
+now shape2: torch.Size([4781, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 272: 0.0034 seconds
+Time taken for infer 272: 0.0527 seconds
+Time taken for batch 272 computation: 0.0606 seconds
+Time taken for sample 284: 0.0085 seconds
+Time taken for prepare 273: 0.0347 seconds
+Time taken for update 273: 0.0199 seconds
+now shape1: torch.Size([6686, 100])
+now shape2: torch.Size([4886, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 273: 0.0033 seconds
+Time taken for infer 273: 0.0526 seconds
+Time taken for batch 273 computation: 0.0604 seconds
+Time taken for sample 285: 0.0075 seconds
+Time taken for prepare 274: 0.0339 seconds
+Time taken for update 274: 0.0194 seconds
+now shape1: torch.Size([6807, 100])
+now shape2: torch.Size([5007, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 274: 0.0034 seconds
+Time taken for infer 274: 0.0524 seconds
+Time taken for batch 274 computation: 0.0598 seconds
+Time taken for sample 286: 0.0073 seconds
+Time taken for prepare 275: 0.0331 seconds
+Time taken for update 275: 0.0183 seconds
+now shape1: torch.Size([6790, 100])
+now shape2: torch.Size([4990, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 275: 0.0036 seconds
+Time taken for infer 275: 0.0509 seconds
+Time taken for batch 275 computation: 0.0583 seconds
+Time taken for sample 287: 0.0077 seconds
+Time taken for prepare 276: 0.0345 seconds
+Time taken for update 276: 0.0192 seconds
+now shape1: torch.Size([6625, 100])
+now shape2: torch.Size([4825, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 276: 0.0035 seconds
+Time taken for infer 276: 0.0521 seconds
+Time taken for batch 276 computation: 0.0598 seconds
+Time taken for sample 288: 0.0074 seconds
+Time taken for prepare 277: 0.0347 seconds
+Time taken for update 277: 0.0197 seconds
+now shape1: torch.Size([6865, 100])
+now shape2: torch.Size([5065, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 277: 0.0034 seconds
+Time taken for infer 277: 0.0522 seconds
+Time taken for batch 277 computation: 0.0601 seconds
+Time taken for sample 289: 0.0085 seconds
+Time taken for prepare 278: 0.0367 seconds
+Time taken for update 278: 0.0205 seconds
+now shape1: torch.Size([6930, 100])
+now shape2: torch.Size([5130, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0089 seconds
+Time taken for another gather 278: 0.0034 seconds
+Time taken for infer 278: 0.0565 seconds
+Time taken for batch 278 computation: 0.0643 seconds
+Time taken for sample 290: 0.0083 seconds
+Time taken for prepare 279: 0.0340 seconds
+Time taken for update 279: 0.0194 seconds
+now shape1: torch.Size([7232, 100])
+now shape2: torch.Size([5432, 128])
+Time taken for qkv computation: 0.0099 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 279: 0.0035 seconds
+Time taken for infer 279: 0.0548 seconds
+Time taken for batch 279 computation: 0.0624 seconds
+Time taken for sample 291: 0.0075 seconds
+Time taken for prepare 280: 0.0347 seconds
+Time taken for update 280: 0.0195 seconds
+now shape1: torch.Size([6755, 100])
+now shape2: torch.Size([4955, 128])
+Time taken for qkv computation: 0.0083 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 280: 0.0029 seconds
+Time taken for infer 280: 0.0465 seconds
+Time taken for batch 280 computation: 0.0540 seconds
+Time taken for sample 292: 0.0084 seconds
+Time taken for prepare 281: 0.0354 seconds
+Time taken for update 281: 0.0199 seconds
+now shape1: torch.Size([6868, 100])
+now shape2: torch.Size([5068, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 281: 0.0036 seconds
+Time taken for infer 281: 0.0539 seconds
+Time taken for batch 281 computation: 0.0614 seconds
+Time taken for sample 293: 0.0076 seconds
+Time taken for prepare 282: 0.0359 seconds
+Time taken for update 282: 0.0204 seconds
+now shape1: torch.Size([7123, 100])
+now shape2: torch.Size([5323, 128])
+Time taken for qkv computation: 0.0092 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 282: 0.0030 seconds
+Time taken for infer 282: 0.0492 seconds
+Time taken for batch 282 computation: 0.0566 seconds
+Time taken for sample 294: 0.0074 seconds
+Time taken for prepare 283: 0.0330 seconds
+Time taken for update 283: 0.0191 seconds
+now shape1: torch.Size([6951, 100])
+now shape2: torch.Size([5151, 128])
+Time taken for qkv computation: 0.0091 seconds
+Time taken for att computation: 0.0057 seconds
+Time taken for another gather 283: 0.0034 seconds
+Time taken for infer 283: 0.0539 seconds
+Time taken for batch 283 computation: 0.0624 seconds
+Time taken for sample 295: 0.0088 seconds
+Time taken for prepare 284: 0.0331 seconds
+Time taken for update 284: 0.0188 seconds
+now shape1: torch.Size([6773, 100])
+now shape2: torch.Size([4973, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 284: 0.0028 seconds
+Time taken for infer 284: 0.0450 seconds
+Time taken for batch 284 computation: 0.0524 seconds
+Time taken for sample 296: 0.0092 seconds
+Time taken for prepare 285: 0.0348 seconds
+Time taken for update 285: 0.0196 seconds
+now shape1: torch.Size([6485, 100])
+now shape2: torch.Size([4685, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 285: 0.0033 seconds
+Time taken for infer 285: 0.0516 seconds
+Time taken for batch 285 computation: 0.0589 seconds
+Time taken for sample 297: 0.0073 seconds
+Time taken for prepare 286: 0.0342 seconds
+Time taken for update 286: 0.0189 seconds
+now shape1: torch.Size([6874, 100])
+now shape2: torch.Size([5074, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 286: 0.0029 seconds
+Time taken for infer 286: 0.0460 seconds
+Time taken for batch 286 computation: 0.0537 seconds
+Time taken for sample 298: 0.0074 seconds
+Time taken for prepare 287: 0.0333 seconds
+Time taken for update 287: 0.0186 seconds
+now shape1: torch.Size([6894, 100])
+now shape2: torch.Size([5094, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0087 seconds
+Time taken for another gather 287: 0.0029 seconds
+Time taken for infer 287: 0.0502 seconds
+Time taken for batch 287 computation: 0.0576 seconds
+Time taken for sample 299: 0.0095 seconds
+Time taken for prepare 288: 0.0346 seconds
+Time taken for update 288: 0.0195 seconds
+now shape1: torch.Size([6726, 100])
+now shape2: torch.Size([4926, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 288: 0.0033 seconds
+Time taken for infer 288: 0.0518 seconds
+Time taken for batch 288 computation: 0.0603 seconds
+Time taken for sample 300: 0.0074 seconds
+Time taken for prepare 289: 0.0355 seconds
+Time taken for update 289: 0.0204 seconds
+now shape1: torch.Size([6894, 100])
+now shape2: torch.Size([5094, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 289: 0.0034 seconds
+Time taken for infer 289: 0.0538 seconds
+Time taken for batch 289 computation: 0.0621 seconds
+Time taken for sample 301: 0.0076 seconds
+Time taken for prepare 290: 0.0349 seconds
+Time taken for update 290: 0.0202 seconds
+now shape1: torch.Size([6888, 100])
+now shape2: torch.Size([5088, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 290: 0.0032 seconds
+Time taken for infer 290: 0.0516 seconds
+Time taken for batch 290 computation: 0.0591 seconds
+Time taken for sample 302: 0.0074 seconds
+Time taken for prepare 291: 0.0339 seconds
+Time taken for update 291: 0.0191 seconds
+now shape1: torch.Size([6749, 100])
+now shape2: torch.Size([4949, 128])
+Time taken for qkv computation: 0.0088 seconds
+Time taken for att computation: 0.0053 seconds
+Time taken for another gather 291: 0.0033 seconds
+Time taken for infer 291: 0.0520 seconds
+Time taken for batch 291 computation: 0.0604 seconds
+Time taken for sample 303: 0.0079 seconds
+Time taken for prepare 292: 0.0357 seconds
+Time taken for update 292: 0.0395 seconds
+now shape1: torch.Size([6674, 100])
+now shape2: torch.Size([4874, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0050 seconds
+Time taken for another gather 292: 0.0038 seconds
+Time taken for infer 292: 0.0714 seconds
+Time taken for batch 292 computation: 0.0791 seconds
+Time taken for sample 304: 0.0084 seconds
+Time taken for prepare 293: 0.0336 seconds
+Time taken for update 293: 0.0185 seconds
+now shape1: torch.Size([6917, 100])
+now shape2: torch.Size([5117, 128])
+Time taken for qkv computation: 0.0096 seconds
+Time taken for att computation: 0.0054 seconds
+Time taken for another gather 293: 0.0033 seconds
+Time taken for infer 293: 0.0525 seconds
+Time taken for batch 293 computation: 0.0600 seconds
+Time taken for sample 305: 0.0078 seconds
+Time taken for prepare 294: 0.0416 seconds
+Time taken for update 294: 0.0221 seconds
+now shape1: torch.Size([6750, 100])
+now shape2: torch.Size([4950, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 294: 0.0035 seconds
+Time taken for infer 294: 0.0583 seconds
+Time taken for batch 294 computation: 0.0671 seconds
+Time taken for sample 306: 0.0081 seconds
+Time taken for prepare 295: 0.0382 seconds
+Time taken for update 295: 0.0212 seconds
+now shape1: torch.Size([6853, 100])
+now shape2: torch.Size([5053, 128])
+Time taken for qkv computation: 0.0087 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 295: 0.0036 seconds
+Time taken for infer 295: 0.0579 seconds
+Time taken for batch 295 computation: 0.0671 seconds
+Time taken for sample 307: 0.0080 seconds
+Time taken for prepare 296: 0.0421 seconds
+Time taken for update 296: 0.0225 seconds
+now shape1: torch.Size([6658, 100])
+now shape2: torch.Size([4858, 128])
+Time taken for qkv computation: 0.0086 seconds
+Time taken for att computation: 0.0118 seconds
+Time taken for another gather 296: 0.0036 seconds
+Time taken for infer 296: 0.0653 seconds
+Time taken for batch 296 computation: 0.0726 seconds
+Time taken for sample 308: 0.0076 seconds
+Time taken for prepare 297: 0.0455 seconds
+Time taken for update 297: 0.0244 seconds
+now shape1: torch.Size([6555, 100])
+now shape2: torch.Size([4755, 128])
+Time taken for qkv computation: 0.0095 seconds
+Time taken for att computation: 0.0077 seconds
+Time taken for another gather 297: 0.0034 seconds
+Time taken for infer 297: 0.0638 seconds
+Time taken for batch 297 computation: 0.0711 seconds
+Time taken for sample 309: 0.0087 seconds
+Time taken for prepare 298: 0.0370 seconds
+Time taken for update 298: 0.0201 seconds
+now shape1: torch.Size([6901, 100])
+now shape2: torch.Size([5101, 128])
+Time taken for qkv computation: 0.0090 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 298: 0.0034 seconds
+Time taken for infer 298: 0.0530 seconds
+Time taken for batch 298 computation: 0.0625 seconds
+Time taken for sample 310: 0.0076 seconds
+Time taken for prepare 299: 0.0406 seconds
+Time taken for update 299: 0.0227 seconds
+now shape1: torch.Size([6919, 100])
+now shape2: torch.Size([5119, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0065 seconds
+Time taken for another gather 299: 0.0034 seconds
+Time taken for infer 299: 0.0575 seconds
+Time taken for batch 299 computation: 0.0649 seconds
+Time taken for sample 311: 0.0085 seconds
+Time taken for prepare 300: 0.0436 seconds
+Time taken for update 300: 0.0233 seconds
+now shape1: torch.Size([6537, 100])
+now shape2: torch.Size([4737, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 300: 0.0036 seconds
+Time taken for infer 300: 0.0610 seconds
+Time taken for batch 300 computation: 0.0686 seconds
+Time taken for sample 312: 0.0074 seconds
+Time taken for prepare 301: 0.0446 seconds
+Time taken for update 301: 0.0490 seconds
+now shape1: torch.Size([6787, 100])
+now shape2: torch.Size([4987, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0073 seconds
+Time taken for another gather 301: 0.0034 seconds
+Time taken for infer 301: 0.0853 seconds
+Time taken for batch 301 computation: 0.0927 seconds
+Time taken for sample 313: 0.0074 seconds
+Time taken for prepare 302: 0.0439 seconds
+Time taken for update 302: 0.0230 seconds
+now shape1: torch.Size([6648, 100])
+now shape2: torch.Size([4848, 128])
+Time taken for qkv computation: 0.0084 seconds
+Time taken for att computation: 0.0075 seconds
+Time taken for another gather 302: 0.0035 seconds
+Time taken for infer 302: 0.0608 seconds
+Time taken for batch 302 computation: 0.0686 seconds
+Time taken for sample 314: 0.0087 seconds
+Time taken for prepare 303: 0.0456 seconds
+Time taken for update 303: 0.0238 seconds
+now shape1: torch.Size([6402, 100])
+now shape2: torch.Size([4602, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0045 seconds
+Time taken for another gather 303: 0.0028 seconds
+Time taken for infer 303: 0.0503 seconds
+Time taken for batch 303 computation: 0.0587 seconds
+Time taken for sample 315: 0.0071 seconds
+Time taken for prepare 304: 0.0469 seconds
+Time taken for update 304: 0.0239 seconds
+now shape1: torch.Size([6716, 100])
+now shape2: torch.Size([4916, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 304: 0.0032 seconds
+Time taken for infer 304: 0.0593 seconds
+Time taken for batch 304 computation: 0.0671 seconds
+Time taken for sample 316: 0.0076 seconds
+Time taken for prepare 305: 0.0391 seconds
+Time taken for update 305: 0.0218 seconds
+now shape1: torch.Size([7107, 100])
+now shape2: torch.Size([5307, 128])
+Time taken for qkv computation: 0.0085 seconds
+Time taken for att computation: 0.0110 seconds
+Time taken for another gather 305: 0.0032 seconds
+Time taken for infer 305: 0.0612 seconds
+Time taken for batch 305 computation: 0.0693 seconds
+Time taken for sample 317: 0.0078 seconds
+Time taken for prepare 306: 0.0447 seconds
+Time taken for update 306: 0.0238 seconds
+now shape1: torch.Size([6634, 100])
+now shape2: torch.Size([4834, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 306: 0.0035 seconds
+Time taken for infer 306: 0.0596 seconds
+Time taken for batch 306 computation: 0.0676 seconds
+Time taken for sample 318: 0.0071 seconds
+Time taken for prepare 307: 0.0355 seconds
+Time taken for update 307: 0.0197 seconds
+now shape1: torch.Size([6768, 100])
+now shape2: torch.Size([4968, 128])
+Time taken for qkv computation: 0.0075 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 307: 0.0036 seconds
+Time taken for infer 307: 0.0494 seconds
+Time taken for batch 307 computation: 0.0569 seconds
+Time taken for sample 319: 0.0074 seconds
+Time taken for prepare 308: 0.0340 seconds
+Time taken for update 308: 0.0381 seconds
+now shape1: torch.Size([7055, 100])
+now shape2: torch.Size([5255, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0051 seconds
+Time taken for another gather 308: 0.0032 seconds
+Time taken for infer 308: 0.0681 seconds
+Time taken for batch 308 computation: 0.0768 seconds
+Time taken for sample 320: 0.0110 seconds
+Time taken for prepare 309: 0.0331 seconds
+Time taken for update 309: 0.0177 seconds
+now shape1: torch.Size([6716, 100])
+now shape2: torch.Size([4916, 128])
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 309: 0.0031 seconds
+Time taken for infer 309: 0.0438 seconds
+Time taken for batch 309 computation: 0.0514 seconds
+Time taken for sample 321: 0.0075 seconds
+Time taken for prepare 310: 0.0386 seconds
+Time taken for update 310: 0.0210 seconds
+now shape1: torch.Size([6653, 100])
+now shape2: torch.Size([4853, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0058 seconds
+Time taken for another gather 310: 0.0036 seconds
+Time taken for infer 310: 0.0543 seconds
+Time taken for batch 310 computation: 0.0628 seconds
+Time taken for sample 322: 0.0082 seconds
+Time taken for prepare 311: 0.0413 seconds
+Time taken for update 311: 0.0231 seconds
+now shape1: torch.Size([6923, 100])
+now shape2: torch.Size([5123, 128])
+Time taken for qkv computation: 0.0082 seconds
+Time taken for att computation: 0.0074 seconds
+Time taken for another gather 311: 0.0035 seconds
+Time taken for infer 311: 0.0613 seconds
+Time taken for batch 311 computation: 0.0687 seconds
+Time taken for sample 323: 0.0080 seconds
+Time taken for prepare 312: 0.0460 seconds
+Time taken for update 312: 0.0244 seconds
+now shape1: torch.Size([6697, 100])
+now shape2: torch.Size([4897, 128])
+Time taken for qkv computation: 0.0065 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 312: 0.0034 seconds
+Time taken for infer 312: 0.0571 seconds
+Time taken for batch 312 computation: 0.0645 seconds
+Time taken for sample 324: 0.0081 seconds
+Time taken for prepare 313: 0.0450 seconds
+Time taken for update 313: 0.0236 seconds
+now shape1: torch.Size([6942, 100])
+now shape2: torch.Size([5142, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0067 seconds
+Time taken for another gather 313: 0.0035 seconds
+Time taken for infer 313: 0.0585 seconds
+Time taken for batch 313 computation: 0.0672 seconds
+Time taken for sample 325: 0.0073 seconds
+Time taken for prepare 314: 0.0454 seconds
+Time taken for update 314: 0.0242 seconds
+now shape1: torch.Size([6909, 100])
+now shape2: torch.Size([5109, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0124 seconds
+Time taken for another gather 314: 0.0034 seconds
+Time taken for infer 314: 0.0634 seconds
+Time taken for batch 314 computation: 0.0705 seconds
+Time taken for sample 326: 0.0083 seconds
+Time taken for prepare 315: 0.0436 seconds
+Time taken for update 315: 0.0223 seconds
+now shape1: torch.Size([7039, 100])
+now shape2: torch.Size([5239, 128])
+Time taken for qkv computation: 0.0078 seconds
+Time taken for att computation: 0.0062 seconds
+Time taken for another gather 315: 0.0033 seconds
+Time taken for infer 315: 0.0569 seconds
+Time taken for batch 315 computation: 0.0645 seconds
+Time taken for sample 327: 0.0084 seconds
+Time taken for prepare 316: 0.0399 seconds
+Time taken for update 316: 0.0443 seconds
+now shape1: torch.Size([7032, 100])
+now shape2: torch.Size([5232, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0056 seconds
+Time taken for another gather 316: 0.0035 seconds
+Time taken for infer 316: 0.0777 seconds
+Time taken for batch 316 computation: 0.0855 seconds
+Time taken for sample 328: 0.0071 seconds
+Time taken for prepare 317: 0.0408 seconds
+Time taken for update 317: 0.0226 seconds
+now shape1: torch.Size([6925, 100])
+now shape2: torch.Size([5125, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0071 seconds
+Time taken for another gather 317: 0.0034 seconds
+Time taken for infer 317: 0.0583 seconds
+Time taken for batch 317 computation: 0.0653 seconds
+Time taken for sample 329: 0.0074 seconds
+Time taken for prepare 318: 0.0425 seconds
+Time taken for update 318: 0.0469 seconds
+now shape1: torch.Size([6729, 100])
+now shape2: torch.Size([4929, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0063 seconds
+Time taken for another gather 318: 0.0035 seconds
+Time taken for infer 318: 0.0807 seconds
+Time taken for batch 318 computation: 0.0881 seconds
+Time taken for sample 330: 0.0089 seconds
+Time taken for prepare 319: 0.0349 seconds
+Time taken for update 319: 0.0386 seconds
+now shape1: torch.Size([6785, 100])
+now shape2: torch.Size([4985, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 319: 0.0036 seconds
+Time taken for infer 319: 0.0698 seconds
+Time taken for batch 319 computation: 0.0807 seconds
+Time taken for sample 331: 0.0072 seconds
+Time taken for prepare 320: 0.0352 seconds
+Time taken for update 320: 0.0193 seconds
+now shape1: torch.Size([6925, 100])
+now shape2: torch.Size([5125, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0046 seconds
+Time taken for another gather 320: 0.0028 seconds
+Time taken for infer 320: 0.0457 seconds
+Time taken for batch 320 computation: 0.0532 seconds
+Time taken for sample 332: 0.0074 seconds
+Time taken for prepare 321: 0.0363 seconds
+Time taken for update 321: 0.0202 seconds
+now shape1: torch.Size([6955, 100])
+now shape2: torch.Size([5155, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 321: 0.0035 seconds
+Time taken for infer 321: 0.0503 seconds
+Time taken for batch 321 computation: 0.0585 seconds
+Time taken for sample 333: 0.0072 seconds
+Time taken for prepare 322: 0.0353 seconds
+Time taken for update 322: 0.0198 seconds
+now shape1: torch.Size([7102, 100])
+now shape2: torch.Size([5302, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 322: 0.0030 seconds
+Time taken for infer 322: 0.0453 seconds
+Time taken for batch 322 computation: 0.0534 seconds
+Time taken for sample 334: 0.0072 seconds
+Time taken for prepare 323: 0.0324 seconds
+Time taken for update 323: 0.0183 seconds
+now shape1: torch.Size([6948, 100])
+now shape2: torch.Size([5148, 128])
+Time taken for qkv computation: 0.0080 seconds
+Time taken for att computation: 0.0082 seconds
+Time taken for another gather 323: 0.0028 seconds
+Time taken for infer 323: 0.0490 seconds
+Time taken for batch 323 computation: 0.0571 seconds
+Time taken for sample 335: 0.0080 seconds
+Time taken for prepare 324: 0.0342 seconds
+Time taken for update 324: 0.0191 seconds
+now shape1: torch.Size([6503, 100])
+now shape2: torch.Size([4703, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 324: 0.0032 seconds
+Time taken for infer 324: 0.0503 seconds
+Time taken for batch 324 computation: 0.0577 seconds
+Time taken for sample 336: 0.0096 seconds
+Time taken for prepare 325: 0.0352 seconds
+Time taken for update 325: 0.0200 seconds
+now shape1: torch.Size([6698, 100])
+now shape2: torch.Size([4898, 128])
+Time taken for qkv computation: 0.0070 seconds
+Time taken for att computation: 0.0055 seconds
+Time taken for another gather 325: 0.0032 seconds
+Time taken for infer 325: 0.0499 seconds
+Time taken for batch 325 computation: 0.0582 seconds
+Time taken for sample 337: 0.0073 seconds
+Time taken for prepare 326: 0.0347 seconds
+Time taken for update 326: 0.0192 seconds
+now shape1: torch.Size([6652, 100])
+now shape2: torch.Size([4852, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 326: 0.0033 seconds
+Time taken for infer 326: 0.0503 seconds
+Time taken for batch 326 computation: 0.0587 seconds
+Time taken for sample 338: 0.0076 seconds
+Time taken for prepare 327: 0.0373 seconds
+Time taken for update 327: 0.0209 seconds
+now shape1: torch.Size([6798, 100])
+now shape2: torch.Size([4998, 128])
+Time taken for qkv computation: 0.0073 seconds
+Time taken for att computation: 0.0061 seconds
+Time taken for another gather 327: 0.0034 seconds
+Time taken for infer 327: 0.0546 seconds
+Time taken for batch 327 computation: 0.0617 seconds
+Time taken for sample 339: 0.0069 seconds
+Time taken for prepare 328: 0.0434 seconds
+Time taken for update 328: 0.0235 seconds
+now shape1: torch.Size([6795, 100])
+now shape2: torch.Size([4995, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0070 seconds
+Time taken for another gather 328: 0.0035 seconds
+Time taken for infer 328: 0.0586 seconds
+Time taken for batch 328 computation: 0.0660 seconds
+Time taken for sample 340: 0.0068 seconds
+Time taken for prepare 329: 0.0426 seconds
+Time taken for update 329: 0.0236 seconds
+now shape1: torch.Size([6985, 100])
+now shape2: torch.Size([5185, 128])
+Time taken for qkv computation: 0.0079 seconds
+Time taken for att computation: 0.0069 seconds
+Time taken for another gather 329: 0.0034 seconds
+Time taken for infer 329: 0.0597 seconds
+Time taken for batch 329 computation: 0.0687 seconds
+Time taken for sample 341: 0.0093 seconds
+Time taken for prepare 330: 0.0337 seconds
+Time taken for update 330: 0.0181 seconds
+now shape1: torch.Size([6810, 100])
+now shape2: torch.Size([5010, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 330: 0.0028 seconds
+Time taken for infer 330: 0.0435 seconds
+Time taken for batch 330 computation: 0.0507 seconds
+Time taken for sample 342: 0.0073 seconds
+Time taken for prepare 331: 0.0343 seconds
+Time taken for update 331: 0.0186 seconds
+now shape1: torch.Size([6788, 100])
+now shape2: torch.Size([4988, 128])
+Time taken for qkv computation: 0.0089 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 331: 0.0032 seconds
+Time taken for infer 331: 0.0509 seconds
+Time taken for batch 331 computation: 0.0582 seconds
+Time taken for sample 343: 0.0074 seconds
+Time taken for prepare 332: 0.0336 seconds
+Time taken for update 332: 0.0189 seconds
+now shape1: torch.Size([6917, 100])
+now shape2: torch.Size([5117, 128])
+Time taken for qkv computation: 0.0078 seconds
+Time taken for att computation: 0.0097 seconds
+Time taken for another gather 332: 0.0030 seconds
+Time taken for infer 332: 0.0542 seconds
+Time taken for batch 332 computation: 0.0615 seconds
+Time taken for sample 344: 0.0080 seconds
+Time taken for prepare 333: 0.0381 seconds
+Time taken for update 333: 0.0214 seconds
+now shape1: torch.Size([6555, 100])
+now shape2: torch.Size([4755, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0064 seconds
+Time taken for another gather 333: 0.0037 seconds
+Time taken for infer 333: 0.0563 seconds
+Time taken for batch 333 computation: 0.0635 seconds
+Time taken for sample 345: 0.0078 seconds
+Time taken for prepare 334: 0.0359 seconds
+Time taken for update 334: 0.0401 seconds
+now shape1: torch.Size([6731, 100])
+now shape2: torch.Size([4931, 128])
+Time taken for qkv computation: 0.0068 seconds
+Time taken for att computation: 0.0043 seconds
+Time taken for another gather 334: 0.0028 seconds
+Time taken for infer 334: 0.0653 seconds
+Time taken for batch 334 computation: 0.0733 seconds
+Time taken for sample 346: 0.0079 seconds
+Time taken for prepare 335: 0.0354 seconds
+Time taken for update 335: 0.0199 seconds
+now shape1: torch.Size([6951, 100])
+now shape2: torch.Size([5151, 128])
+Time taken for qkv computation: 0.0076 seconds
+Time taken for att computation: 0.0049 seconds
+Time taken for another gather 335: 0.0031 seconds
+Time taken for infer 335: 0.0494 seconds
+Time taken for batch 335 computation: 0.0589 seconds
+Time taken for sample 347: 0.0076 seconds
+Time taken for prepare 336: 0.0352 seconds
+Time taken for update 336: 0.0201 seconds
+now shape1: torch.Size([7023, 100])
+now shape2: torch.Size([5223, 128])
+Time taken for qkv computation: 0.0074 seconds
+Time taken for att computation: 0.0052 seconds
+Time taken for another gather 336: 0.0034 seconds
+Time taken for infer 336: 0.0504 seconds
+Time taken for batch 336 computation: 0.0578 seconds
+Time taken for sample 348: 0.0071 seconds
+Time taken for prepare 337: 0.0383 seconds
+Time taken for update 337: 0.0216 seconds
+now shape1: torch.Size([6780, 100])
+now shape2: torch.Size([4980, 128])
+Time taken for qkv computation: 0.0071 seconds
+Time taken for att computation: 0.0047 seconds
+Time taken for another gather 337: 0.0035 seconds
+Time taken for infer 337: 0.0512 seconds
+Time taken for batch 337 computation: 0.0588 seconds
+Time taken for sample 349: 0.0090 seconds
